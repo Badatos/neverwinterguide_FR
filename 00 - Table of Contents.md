@@ -1,5 +1,5 @@
 ---
-Name: Table Of Contents
+Name: Table des matières
 Slug: table-of-contents
 pdf-page-style: multi-column
 order: 0
@@ -7,48 +7,48 @@ Include-in: print
 hide-footer-text: true
 ---
 
-# Table of Contents
+# Table des matières
 
 - [Introduction](introduction) {.part}
-- [About this Guide](about-this-guide)
-- [Locations of Neverwinter](locations-of-neverwinter) {.part}
-- [Castle Never](castle-never) {.category}
-- [Protector's Enclave](protectors-enclave) {.category}
-- [The Hall of Justice](the-hall-of-justice)
-- [The House of Knowledge](the-house-of-knowledge)
-- [The Floating Earthmotes](the-floating-earthmotes) {.category}
-- [The Moonstone Mask](the-moonstone-mask)
-- [Pirates' Skyhold](pirates-skyhold)
+- [À propos de ce guide](about-this-guide)
+- [Lieux de Padhiver](locations-of-neverwinter) {.part}
+- [Castel-Nièvre](castle-never) {.category}
+- [Enclave du Protecteur](protectors-enclave) {.category}
+- [Le palais de justice](le-hall-de-justice)
+- [La maison du savoir](la-maison-du-savoir)
+- [Les terres flottantes](the-floating-earthmotes) {.category}
+- [Le masque de pierre de lune](le-masque-de-pierre-de-lune)
+- [Forteresse des pirates](forteresse-des-pirates)
 - [Fisher's Float](fishers-float)
-- [Neverwinter's Docks](neverwinters-docks) {.category}
-- [The Beached Leviathan](the-beached-leviathan)
-- [The Driftwood Tavern](the-driftwood-tavern)
-- [The Tarmalune Trade House](the-tarmalune-trade-house)
-- [Tower District](tower-district) {.category}
-- [The Shard of the Moon](the-shard-of-the-moon)
-- [The Cloak Tower](the-cloak-tower)
-- [The Fallen Tower](the-fallen-tower)
-- [Bluelake District](bluelake-district) {.category}
-- [Bluelake](bluelake)
-- [House of a Thousand Faces](house-of-a-thousand-faces)
-- [The Chasm District](the-chasm-district) {.category}
-- [The Sealed Chasm](the-sealed-chasm)
+- [Quais de Padhiver](neverwinters-docks) {.category}
+- [Le Léviathan échoué](le-léviathan-échoué)
+- [La taverne du bois flotté](la-taverne-du-bois-flotte)
+- [La maison de commerce de Tarmalune](la-maison-de-commerce-de-tarmalune)
+- [Quartier de la tour](tower-district) {.category}
+- [L'éclat de la lune](l-éclat-de-la-lune)
+- [La tour du manteau](la-tour-du-manteau)
+- [La tour déchue](la-tour-déchue)
+- [Quartier de Bluelake](district-de-Bluelake) {.category}
+- [Lac bleu](lac-bleu)
+- [Maison aux mille visages](maison-aux-mille-visages)
+- [Quartier du gouffre](le-district-du-gouffre) {.category}
+- [Le gouffre scellé](le-gouffre-scellé)
 - [Neverdeath](neverdeath) {.category}
-- [Lord Protector Neverember](lord-protector-neverember) {.part}
-- [History of Neverwinter](history-of-neverwinter) {.part}
-- [Homebrew Locations](homebrew-locations) {.part}
-- [Brannur's Dependable Defenses](brannurs-dependable-defenses)
-- [Brannwyn's Sharp Edge](brannwyns-sharp-edge)
-- [Swift Heart Sundries](swift-heart-sundries)
-- [Priscilla's Perfumes and Potables](priscillas-perfumes-and-potables)
+- [Seigneur Protecteur Dagult Neverember](lord-protector-neverember) {.part}
+- [Histoire de Padhiver](histoire-de-neverwinter) {.part}
+- [Emplacements "Homebrew"](homebrew-locations) {.part}
+- [Défenses solides de Brannur](brannurs-dependable-defenses)
+- [bord tranchant de brannwyns](brannwyns-sharp-edge)
+- [Articles divers de Swift Heart](swift-heart-sundries)
+- [Parfums et boissons de Priscilla](priscillas-parfums-et-potables)
 - [Arcane Acquisitions](arcane-acquisitions)
-- [Quick Adventures](quick-adventures-page) {.part}
-- [The Abandoned Townhouse](the-abandoned-townhouse)
-- [Appendices](appendix-a-maps-page) {.part}
-- [Appendix A - Maps](appendix-a-maps-page)
-- [Appendix B - Point of Interest Cards](appendix-b-point-of-interest-cards-page)
-- [Appendix C - Creatures](appendix-c-creatures-page)
-- [Credits](credits) {.part}
+- [Aventures rapides](Quick-Adventures) {.part}
+- [La maison de ville abandonnée](la-maison-de-ville-abandonnée)
+- [Annexes](appendix-a-maps-page) {.part}
+- [Annexe A - Cartes](annexe-a-cartes-page)
+- [Annexe B - Cartes des points d’intérêt](annexe-b-cartes-de-points-d'intérêt-page)
+- [Annexe C - Créatures](annexe-c-page-créatures)
+- [Crédits](crédits) {.part}
 {.toc}
 
 Version 1.6 {.print-bottom-right .with-margin}

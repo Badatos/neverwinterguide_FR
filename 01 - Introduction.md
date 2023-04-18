@@ -5,7 +5,7 @@ order: 10
 module-pagebreaks: h1, h2
 ---
 
-> *A Dungeon Master's Guide to Neverwinter* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC. {.neutral}
+> *Un guide du maître de donjon pour Padhiver* est un contenu de fan non officiel autorisé par la politique relative au contenu des fans. Non approuvé par Wizards. Certains matériaux utilisés sont la propriété de Wizards of the Coast. © Wizards of the Coast LLC. {.neutral}
 
 # Introduction
 
