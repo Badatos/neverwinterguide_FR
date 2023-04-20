@@ -9,7 +9,7 @@ module-pagebreaks: h1, h2, h3
 
 |![Homebrew](mug.svg)**Contenu "Homebrew"**|
 |---|
-|This section is an unofficial Padhiver location made up for this guide. Personnalisez-le pour *votre* campagne !|
+|Cette section est un lieu non officiel de Padhiver créé pour ce guide. Personnalisez-le pour *votre* campagne !|
 {.homebrew}
 
 Welcome, maîtres de donjon! While the guide has focused on the canonical locations and history de Padhiver thus far, this section is all about providing newly made-up locations that maîtres de donjon may find useful if running a campaign through this sprawling city. Despite the great locations that are offered up in official lore sources, the city is actually light on more run-of-the-mill, utilitarian shops and locations (at least compared to somewhere like Phandalin).
@@ -28,7 +28,7 @@ The shop is impeccably clean and well-organized. Much of the armor on display is
 
 Brannur has a calm and polite demeanor, and most of his customers would find it hard to picture him ever raising his voice - be it in excitement or anger. This comes through in his work, as Brannur likes to focus his talents on crafting items of defense and utility rather than items of intended to harm. However, this illusion of a calm stoicism would quickly be dispelled if one were to see Brannur and his sister, Brannwyn, interacting. When those two are in the same room, a heated argument is sure to arise.
 
-|![D20](d20.svg)**maîtres de donjon' Inspiration**|
+|![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
 |***Top Shelf Ingredients***. Brannur wants to take his shop to the next level, but to do so, needs a rare ingredient not easily accessible in this area. He's heard rumor the ingredient was in possession of the pirates at Pirates' Skyhold and would like the party to procure it for him.|
 {.dmidea}

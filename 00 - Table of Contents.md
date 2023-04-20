@@ -34,7 +34,7 @@ hide-footer-text: true
 - [Quartier du gouffre](le-district-du-gouffre) {.category}
 - [Le gouffre scellé](le-gouffre-scellé)
 - [Neverdeath](neverdeath) {.category}
-- [Seigneur Protecteur Dagult Neverember](lord-protector-neverember) {.part}
+- [Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
 - [Histoire de Padhiver](histoire-de-neverwinter) {.part}
 - [Emplacements "Homebrew"](homebrew-locations) {.part}
 - [Défenses solides de Brannur](brannurs-dependable-defenses)

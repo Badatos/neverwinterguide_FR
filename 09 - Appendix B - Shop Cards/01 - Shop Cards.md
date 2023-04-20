@@ -6,7 +6,7 @@ order: 1
 
 <br /><br />
 
-![The Moonstone Mask](../Images/POICards/MoonstoneMask.webp){.size-full}
+![Le Masque de Pierre-lune](../Images/POICards/MoonstoneMask.webp){.size-full}
 
 <br /><br />
 

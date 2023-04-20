@@ -32,7 +32,7 @@ Shard of the Moon illustration par [Syeda Farwa](https://www.fiverr.com/syedafar
 
 Fallen Tower illustration par [Deryl Arrazaq](https://www.fiverr.com/derylarrazaq){.neutral}
 
-*Dagult Neverember* illustration par [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
+*Dagult Longuebraise* illustration par [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
 
 Toutes les autres illustrations par [Jacob Johnston](https://inchoatethoughts.com){.neutral}
 

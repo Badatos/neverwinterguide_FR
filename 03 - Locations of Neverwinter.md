@@ -11,66 +11,66 @@ module-pagebreaks: h1, h2, h3
 
 ![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
 
-Castel-Nièvre, towering over the western end of the city, is impossible to miss. The castle sits on the rocky cliffs and outcroppings on the north side of the estuary where the Padhiver River and the Sea of Swords meet. The castle has a circular rock around its main structure from which three bridges radiate out over the Padhiver River: the Sleeping Dragon Bridge, the Winged Wyvern Bridge, and the Dolphin Bridge.
+Le Castel-Nièvre, dominant l’extrémité ouest de la ville, est incontournable. Ce château se trouve sur les falaises rocheuses et les affleurements du côté nord de l’estuaire où la rivière Padhiver et la mer des épées se rencontrent. Le château est construit sur un rocher circulaire duquel trois ponts rayonnent sur la rivière Padhiver : le pont du dragon endormi, le pont de la wyverne ailée et le pont du dauphin.
 
-The castle straddles the boundaries between the Protectors Enclave, the Padhiver Docks, and the Bluelake districts. Throughout history, Castel-Nièvre has been claimed as a part of many city districts, but it might be best to consider the Castle as its own district. The three bridges around the castle serve as an essential part of city infrastructure, providing a way of traversing the Padhiver River and getting between the Protectors Enclave and Bluelake districts.
+Le château chevauche les frontières entre l’Enclave des Protecteurs, les Docks de Padhiver et le quartier de Bluelake. Au cours de l’histoire, Castel-Nièvre a été revendiqué comme faisant partie de nombreux quartiers de la ville, mais il serait peut-être préférable de considérer le château comme son propre quartier. Les trois ponts autour du château constituent une partie essentielle de l’infrastructure de la ville, offrant un moyen de traverser la rivière Padhiver et de se rendre entre les quartiers de l’Enclave des Protecteurs et Bluelake.
 
-The castle's interior and exterior structure are both currently in disrepair, making the structure too dangerous for any inhabitation. The city's current de facto leader, Lord Dagult Neverember, is making inroads into restoring Castel-Nièvre.
+La structure intérieure et extérieure du château est actuellement en mauvais état, ce qui le rend trop dangereux pour toute habitation. L’actuel chef de facto de la ville, *Lord Dagult Longuebraise*, fait des incursions dans la restauration de Castel-Nièvre.
 
-#### Castel-Nièvre : Rise and Fall
+#### Castel-Nièvre : Ascension et chute
 
-A visitor to Padhiver may note that its architecture differs a bit from that of other parts of the city. That is because Castel-Nièvre is actually over a millennium old, having been commissioned by the sun elf, Lord Halueth Never, who famously conquered the city of Illusk (of whose ruins modern-day Luskan now sits atop). Much of Castel-Nièvre was presumably built between -10 DR (Lord Never's conquest of Illusk) and 87 DR (the time Padhiver was officially founded as a city). 
+Un visiteur de Padhiver peut noter que son architecture diffère un peu de celle des autres parties de la ville. En effet, Castel-Nièvre a en fait plus d’un millénaire, ayant été commandé par l’elfe du soleil, *Lord Halueth Never*, célèbre pour avoir conquis la ville d’Illusk (dont les ruines se trouvent maintenant sous Luskan). Une grande partie de Castel-Nièvre a vraisemblablement été construite entre -10 DR (la conquête d’Illusk par *Lord Never*) et 87 DR (l’époque où Padhiver a été officiellement fondée en tant que ville).
 
-Throughout Padhiver's many attacks and disasters, Castel-Nièvre has stood tall as an imposing symbol of the city's resolve as well as a monument to the city's former glories. That isn't to say, however, that the Castle has been left unscathed. Perhaps the most-significant disaster for Castel-Nièvre was in 1451 DR when "[the cataclysm](history-of-Padhiver)" struck Padhiver and left most of Castel-Nièvre in ruins and killed almost all of its inhabitants (including the ruling lineage). Castel-Nièvre now remains haunted with the spirits of those killed in the cataclysm.
+Tout au long des nombreuses attaques et catastrophes de Padhiver, Castel-Nièvre s’est imposé comme un symbole imposant de la détermination de la ville ainsi qu’un monument aux gloires passées. Cela ne veut pas dire, cependant, que le château a été laissé indemne. La catastrophe la plus importante pour Castel-Nièvre fut peut-être en 1451 DR lorsque "[le cataclysme](history-of-neverwinter)" frappa Padhiver et laissa la majeure partie de Castel-Nièvre en ruines et tua presque tous ses habitants (y compris la lignée des dirigeants). Castel-Nièvre reste aujourd’hui hanté par les esprits des victimes du cataclysme.
 
 (print-page)
 
-#### Inside the Castle
+#### L’intérieur du château
 
-Exploring the interior of Castel-Nièvre is currently a perilous activity. Adventurers looking to navigate the castle would find it inhospitable due to both its ghostly inhabitants as well as the simple dangers of exploring a building so severely damaged. The Castle is a massive structure with countless stories that both ascend toward the sky and descend to the depths. It has a number of well-documented areas of danger:
-- ***The Atrium***. The atrium, now boarded over to keep sunlight out and the heat of rot inside, contains an eerie display of exotic bird skeletons in gilded cages. The atrium is now home to territorial [Myconids](/monster/myconid-adult) that will attack and feast on intruders.
-- ***Hall of Mirrors***. Previously a long hall of mirrors where nobility practiced gait and posture, any mortal intruder that enters this hall will find a magical recreation of the hall’s destruction. Shards of flying mirror glass and fiery ruins will be launched at any that dwell in the hall for too long.
-- ***Neverneath***. The catacombs under the castle, referred to as the "Neverneath", feature an enchantment that cause the maze-like layout to change dynamically with a malevolent sentience. Structures will change to create dead ends, tunnels that lead back on themselves, or doors that lead to new locations each time they are opened. All of this serves to trap adventurers in until they meet their demise, likely at the claws of the catacomb's many [gargoyles](/monster/gargoyle).
-- ***The Vault of the Nine***. This tomb is the resting place for the nine bodyguards of Padhiver's royal lineage. The vault contains an outer chamber which features everburning torches that light the room when mortals enter. Undead lurk in the shadows of this outer chamber. The inner chamber, sealed away behind a giant stone door bearing the sigill of Padhiver, has nine marble coffins that encircle a throne. Visitors that manage to make it to the inner chamber of the Vault of the Nine and take a rest may awaken to find the spirits the Nine standing vigil over them.
+Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées:
+- ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [Myconids](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
+- ***Galerie des Glaces***. Auparavant une longue salle des miroirs où la noblesse pratiquait la démarche et la posture, tout intrus mortel qui entre dans cette salle trouvera une recréation magique de la destruction de la salle. Des éclats de verre miroir volant et des ruines enflammées seront lancés sur tous ceux qui restent trop longtemps dans le hall.
+- ***Jamais en dessous***. Les catacombes sous le château, appelées "Neverneath", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
+- ***La Voûte des Neuf***. Ce tombeau est le lieu de repos des neuf gardes du corps de la lignée royale de Padhiver. La voûte contient une chambre extérieure qui comporte des torches éternelles qui éclairent la pièce lorsque les mortels entrent. Les morts-vivants se cachent dans l’ombre de cette chambre extérieure. La chambre intérieure, scellée derrière une porte en pierre géante portant le sceau de Padhiver, possède neuf cercueils en marbre qui encerclent un trône. Les visiteurs qui parviennent à se rendre dans la chambre intérieure de la Voûte des Neuf et à se reposer peuvent se réveiller pour trouver les esprits des Neuf qui veillent sur eux.
 
 (print-column)
 
-#### Restoring Castel-Nièvre
+#### La restauration de Castel-Nièvre
 
-*Lord Dagult Neverember* has made it one of the city's priorities to see to the restoration of Castel-Nièvre. This is a tremendous undertaking that is likely to take years or decades. *Neverember* sees the endeavor as a worthwhile symbolic pursuit of the city's rejuvenation.
+*Seigneur Dagult Longuebraise* a fait de la restauration de Castel-Nièvre une priorité de la ville. Il s’agit d’une entreprise colossale qui prendra probablement des années, voire des décennies. *Longuebraise* voit dans cette entreprise une poursuite symbolique de la restauration de la ville.
 
-Grimly, one of the first portions of the castle that *has* been restored to functional use is its dungeons. *Neverember* has directed that those in Padhiver convicted of high crimes be placed in castle dungeons, referred to as "The Holes" by the locals. Executions happen daily, at noon, in The Holes — generally two days from when the prisoner is sent to The Holes.
+Malheureusement, l’une des premières parties du château qui *a été* restaurée pour un usage fonctionnel sont ses donjons. *Longuebraise* a ordonné que les personnes de Padhiver reconnues coupables de crimes graves soient placées dans les donjons du château, appelés "Les Trous" par les habitants. Les exécutions ont lieu tous les jours, à midi, dans Les Trous - généralement deux jours après l’envoi du prisonnier aux Trous.
 
-|![D20](d20.svg)**maîtres de donjon' Inspiration**|
+|![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Murderous Merchants***. The restoration of Castel-Nièvre has come at the cost of high taxation to the populace of Padhiver. This has upset some powerful merchants with deep pockets and unsavory company. *Lord Dagult Neverember* knows assassination attempts are likely and tasks the party with his protection and removal of his would-be killers.|
-|***Sentimental Relics***. A now-elderly Padhiver noble lost a loved one in the castle's destruction nearly half a century ago. The elderly noble tasks the party with entry into the ruined castle to retrieve a sentimental relic from the body of their lost lover.|
-|***Construction Blocked***. Crews overseeing the Castle's restoration know ghosts and other monsters will need to be cleared from the castle.*Lord Neverember* has hired warriors and mages to help with this. However, construction has stopped because the crew found a magical barrier they cannot get across. The party must investigate a way to get construction rolling again.|
+|***Marchands meurtriers***. La restauration de Castel-Nièvre s’est faite au prix d’une fiscalité élevée pour la population de Padhiver. Cela a bouleversé certains marchands puissants avec des poches profondes et une compagnie peu recommandable. *Lord Dagult Longuebraise* sait que des tentatives d’assassinat sont probables et charge le groupe de sa protection et de l’élimination de ses assassins potentiels.|
+|***Reliques sentimentales***. Un noble de Padhiver maintenant âgé a perdu un être cher dans la destruction du château il y a près d’un demi-siècle. Le noble âgé charge le groupe d’entrer dans le château en ruine pour récupérer une relique sentimentale du corps de leur amant perdu.|
+|***Construction bloquée***. Les équipages supervisant la restauration du château savent que les fantômes et autres monstres devront être éliminés du château. *Lord Longuebraise* a engagé des guerriers et des mages pour les aider. Cependant, la construction s’est arrêtée car l’équipage a trouvé une barrière magique qu’ils ne peuvent pas franchir. Le groupe doit rechercher un moyen de relancer la construction.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
 |---|
 |*Acquisitions Incorporated*, p. 121 - 122, (5th Edition)|
-|*Sword Coast Adventurer's Guide*, p. 51, (5th Edition)|
-|*Padhiver Campaign Setting*, p. 148 - 149, (4th Edition)|
+|*Guide des aventuriers de la côte des Épées*, p. 51, (5th Edition)|
+|*Neverwinter Campaign Setting*, p. 148 - 149, (4th Edition)|
 |*Grand History of the Realms*, p. 59, 61, (3rd Edition)|
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 (2nd Edition)|
-|*Volo's Guide to the North*, p. 134 (2nd Edition)|
+|*Volo’s Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
 (print-page)
 
-## Protector's Enclave
+## Enclave du Protecteur
 
-### The Hall of Justice
+### Le palais de justice
 
 The Hall of Justice stands as the primary temple to Tyr, the god of law and justice, in the city of Padhiver. The Hall’s grand stone walls, towering stone pillars, and high domed roof make it an impressive and intimidating structure. Its interior is also large enough to house large races such as giants and dragons.
 
 Serving as much more than a mere temple to a deity, the Hall of Justice functioned as the city's court for low justice (i.e., excluding crimes where the accused were of noble birth, lacking citizenship, or charged with murder). It also served as a drilling and training ground in disciplined weaponry for those devout followers who served to defend the temple and that for which it stood. The Hall’s functions largely ceased with Tyr's death in the late 1300s DR.
 
-Even after Tyr's death, residents of Padhiver refused to repurpose the temple to worship other deities. When*Lord Neverember* arrived in the city, he installed a temporary priesthood of Torm at the location, reasoning there were similarities in religious tenets. He also used the temple as a base for his operations in the city as well as a personal residence. Both actions were met with disapproval by the city's residents.
+Even after Tyr's death, residents of Padhiver refused to repurpose the temple to worship other deities. When*Lord Longuebraise* arrived in the city, he installed a temporary priesthood of Torm at the location, reasoning there were similarities in religious tenets. He also used the temple as a base for his operations in the city as well as a personal residence. Both actions were met with disapproval by the city's residents.
 
-With Tyr's recent resurrection, the temple has now been rededicated to Tyr, and*Lord Neverember* now uses a private villa as his personal residence. The Hall’s restoration was highly regarded by the citizens of Padhiver and did much to improve Lord Neverember's esteem with locals. With the Hall of Justice returning to its former glory, it once again serves as the central focal point, in both physical location and spirit, of the Protector's Enclave.
+With Tyr's recent resurrection, the temple has now been rededicated to Tyr, and*Lord Longuebraise* now uses a private villa as his personal residence. The Hall’s restoration was highly regarded by the citizens of Padhiver and did much to improve Lord Longuebraise's esteem with locals. With the Hall of Justice returning to its former glory, it once again serves as the central focal point, in both physical location and spirit, of the Protector's Enclave.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -141,7 +141,7 @@ For guests travelling through the most elaborate means, the roof features a spec
 |![D20](d20.svg)**maîtres de donjon' Inspiration**|
 |---|
 |***Knowledge Base***. Liset and the other Moonstone Mask staff would possess a wealth of information and rumors about the city. They'd never offer up confidential information about one of their clients, but they would be able to inform adventurers about non-confidential events and rumors.|
-|***Good Company***. It wouldn't be uncommon or surprising to find notable figures at the Moonstone Mask, including *Lord Dagult Neverember* himself. Use this location as a place for notable run-ins.|
+|***Good Company***. It wouldn't be uncommon or surprising to find notable figures at the Moonstone Mask, including *Lord Dagult Longuebraise* himself. Use this location as a place for notable run-ins.|
 |***Baubles in the Basement***. If players were able to creep around the various storage rooms in the Mask's basement without getting caught, they may find all manner of magical items.|
 {.dmidea}
 
@@ -153,7 +153,7 @@ For guests travelling through the most elaborate means, the roof features a spec
 
 The Moonstone Mask was built by Ophala Cheldarstorn, a mage and member of the Many-Starred Cloak. Ophala is also the creator of the magical masks and amulets worn by the staff. Before the Mask was sent floating above Padhiver, it was rumored to feature secret entrances where special guests could enter and depart unnoticed. It was also rumored to have basements that connected to tunnels of dwarven-held areas of the Underdark.
 
-In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption of Mount Hotenow snapped the inn's rope tethers.  The ropes tethering the inn were eventually replaced by large, sturdy chains, but only after the inn went drifting over the Sea of Swords for months. Even after the Mask was finally returned to Padhiver, it ultimately attracted too few guests, became insolvent, and shuttered for a few decades. After *Lord Dagult Neverember* started his "New Padhiver" movement to begin rebuilding Padhiver, Liset Cheldar was able to not only convince *Neverember* that she was the rightful heir of the Moonstone Mask, but also able to have him help fund the restoration of the inn to much of its former glory under Ophala Cheldarstorn. In repayment the inn served to often house *Neverember* and many of his mercenaries and officers throughout the 1470s and 1480s DR.
+In the mid-1400s DR, the inn drifted into the Sea of Swords after the eruption of Mount Hotenow snapped the inn's rope tethers.  The ropes tethering the inn were eventually replaced by large, sturdy chains, but only after the inn went drifting over the Sea of Swords for months. Even after the Mask was finally returned to Padhiver, it ultimately attracted too few guests, became insolvent, and shuttered for a few decades. After *Lord Dagult Longuebraise* started his "New Padhiver" movement to begin rebuilding Padhiver, Liset Cheldar was able to not only convince *Longuebraise* that she was the rightful heir of the Moonstone Mask, but also able to have him help fund the restoration of the inn to much of its former glory under Ophala Cheldarstorn. In repayment the inn served to often house *Longuebraise* and many of his mercenaries and officers throughout the 1470s and 1480s DR.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -217,7 +217,7 @@ The entire ship is decorated with nautically-themed paraphernalia, many of which
 
 The clientele of the Beached Leviathan are generally a humble, mixed bunch. Any with coin to spend are welcome at the tavern. Frequent patrons include sailors as well as more land-bound residents of Padhiver. Both staff and patrons frequently use nautical slang in the tavern (e.g., referring to a drunkard as "ballast" or calling a newcomer a "privateer"). It's very common for landlubbing visitors to feel a bit lost when it comes to parsing the sailors' dialect. Gambling and brawling are both frequent occurrences, though the latter is likely to get you promptly tossed off the ship.
 
-It's also extremely common to find any number of seedy factions represented at the Beached Leviathan. Commonly sighted at the tavern are smugglers, thieves, and press gangs. To these ilk, the Beached Leviathan serves as an important place of business. Deals are made, trades are performed, and the occasional drunken sailor is enslaved. All of this is relatively well-known to*Lord Neverember* and his forces, who often also discretely monitor the tavern to keep abreast of the city's seedy underbelly. *Neverember* and his watch, however, almost never intercede in these foul dealings, choosing instead to keep the tavern as a reliable source of information.
+It's also extremely common to find any number of seedy factions represented at the Beached Leviathan. Commonly sighted at the tavern are smugglers, thieves, and press gangs. To these ilk, the Beached Leviathan serves as an important place of business. Deals are made, trades are performed, and the occasional drunken sailor is enslaved. All of this is relatively well-known to*Lord Longuebraise* and his forces, who often also discretely monitor the tavern to keep abreast of the city's seedy underbelly. *Longuebraise* and his watch, however, almost never intercede in these foul dealings, choosing instead to keep the tavern as a reliable source of information.
 
 (print-page)
 
@@ -255,9 +255,9 @@ An establishment like the Beached Leviathan couldn't exist without a fearless ca
 
 #### Stormy Waters
 
-Throughout its relatively brief history in Padhiver, the Beached Leviathan has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Neverember's own involvement with the locale. It was with Neverember's support and patronage that Harrag was able to create the establishment at all — as *Neverember* was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true *Neverember* loyalist.*Lord Neverember* absolutely uses Harrag for his own ambitions. *Neverember* even went so far as to turn Harrag's own shadow into a sentient creature used to spy on the facility. 
+Throughout its relatively brief history in Padhiver, the Beached Leviathan has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Longuebraise's own involvement with the locale. It was with Longuebraise's support and patronage that Harrag was able to create the establishment at all — as *Longuebraise* was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true *Longuebraise* loyalist.*Lord Longuebraise* absolutely uses Harrag for his own ambitions. *Longuebraise* even went so far as to turn Harrag's own shadow into a sentient creature used to spy on the facility. 
 
-In 1479, as part of the scuffle over the true heir to the throne of Padhiver and the lost crown of Alagondar, the Leviathan was attacked by furious Padhiver members. The Leviathan was only saved because of intervention from adventurers and Neverember’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
+In 1479, as part of the scuffle over the true heir to the throne of Padhiver and the lost crown of Alagondar, the Leviathan was attacked by furious Padhiver members. The Leviathan was only saved because of intervention from adventurers and Longuebraise’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Beached Leviathan and killed one of General Sabine's top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -273,7 +273,7 @@ Almost more of a museum than a tavern, the upscale and expensive Driftwood Taver
 
 The establishment is chock-full of bric-a-brac. Rather than viewing the establishment as cluttered or disorganized, however, many view it as a beautiful tribute to "Old Padhiver" and a vital part of preserving the city's history. Indeed, many travelers visit the tavern and pay its high prices for drinks and/or lodging simply to enjoy the relics collected at the establishment.
 
-Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she was secretly the leader of the Sons of Alagondar (i.e., the Graycloaks), a rebel group that opposed Lord Neverember's rule in the city. The faction, now, has largely made peace with Neverember's rule, many members even enlisting in Padhiver's army (feeling it better that they control their own army rather than continuing to let Mintarn mercenaries have power in the city). Madame Rosene is a fount of knowledge regarding the city's history and will happily chat about old times with patrons.
+Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she was secretly the leader of the Sons of Alagondar (i.e., the Graycloaks), a rebel group that opposed Lord Longuebraise's rule in the city. The faction, now, has largely made peace with Longuebraise's rule, many members even enlisting in Padhiver's army (feeling it better that they control their own army rather than continuing to let Mintarn mercenaries have power in the city). Madame Rosene is a fount of knowledge regarding the city's history and will happily chat about old times with patrons.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -341,9 +341,9 @@ The thieves didn't locate the magical device, and they saw neither wizards nor t
 
 The Many-Arrows orc tribe invaded the tower and were able to claim it. The Padhiver residents, assuming the tower was warded by some leftover magical defenses left by the Many-Starred Cloak wizards, thought the orcs too would soon perish in the tower. The orcs, however, seemingly did not meet any resistance in the tower and were able to hold it.
 
-Lord *Neverember* tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left *Neverember* simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
+Lord *Longuebraise* tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left *Longuebraise* simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
 
-The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with*Lord Neverember* to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
+The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with*Lord Longuebraise* to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -385,7 +385,7 @@ This seemingly harmless magical vision both horrified and fascinated onlookers. 
 
 The Many-Arrow tribe discovered and started to loot the tavern and its vast wine stores when they invaded Padhiver's Tower District. One night, in the midst of their looting and revelry at the Fallen Tower, the phantasmic images appeared and scared the orcs out of the building. The orcs eventually mustered their courage and, once realizing the phantom images were harmless, returned to the building.
 
-An enterprising single-eared orc named "Vagdru One-Ear" restored the site to being a functioning tavern. By way of a mutual agreement between*Lord Neverember* and the leadership of the Many-Arrow tribe, the tavern now serves as a neutral ground between the orcs and other races that occupy the city. All are welcome to enjoy the tavern's offerings provided they start no trouble. Any troublemakers that violate this truce are likely to face the immediate wrath of the tavern's regular clientele. The tavern's current offerings, however, are "humble" and priced accordingly. The wine and ale are inexpensive but satisfactory. Raw meat, of an unknown source, is served up to be prepared over an open cook fire.
+An enterprising single-eared orc named "Vagdru One-Ear" restored the site to being a functioning tavern. By way of a mutual agreement between*Lord Longuebraise* and the leadership of the Many-Arrow tribe, the tavern now serves as a neutral ground between the orcs and other races that occupy the city. All are welcome to enjoy the tavern's offerings provided they start no trouble. Any troublemakers that violate this truce are likely to face the immediate wrath of the tavern's regular clientele. The tavern's current offerings, however, are "humble" and priced accordingly. The wine and ale are inexpensive but satisfactory. Raw meat, of an unknown source, is served up to be prepared over an open cook fire.
 
 |![D20](d20.svg)**maîtres de donjon' Inspiration**|
 |---|
@@ -407,13 +407,13 @@ An enterprising single-eared orc named "Vagdru One-Ear" restored the site to bei
 
 The Bluelake District, formerly the "Blacklake District", was home to many of the noble estates in Padhiver. Most of the estates fared well against the cataclysm thanks to their sturdy construction. However, many were left abandoned after their owners perished in the cataclysm. The abandoned buildings proved fertile ground for the seedy underbelly of the city to gain a foothold. 
 
-Lord *Neverember* and his mercenaries saw great opportunity in resettling the overgrown estates in the district. However, when they attempted to do so, they found themselves attacked by a variety of factions. Seemingly every shadow faction of the city, from the Sons of Alagondar to the Dead Rats, had taken up residence in the area. It became extremely dangerous to traverse this section of the city. In recent years, however, it has improved dramatically.
+Lord *Longuebraise* and his mercenaries saw great opportunity in resettling the overgrown estates in the district. However, when they attempted to do so, they found themselves attacked by a variety of factions. Seemingly every shadow faction of the city, from the Sons of Alagondar to the Dead Rats, had taken up residence in the area. It became extremely dangerous to traverse this section of the city. In recent years, however, it has improved dramatically.
 
 ### Bluelake
 
 Bluelake, formerly called "Blacklake", is a lake that sits in the center of its namesake district. The lake is used for boating activities at times. However, in the summer, the lake's level decreases dramatically and becomes somewhat more of a swamp.
 
-The lake became particularly vile and sludge-filled after the eruption of Mount Hotenow, which filled the lake with ash.*Lord Neverember* made dredging and restoring the lake one of his priorities. This effort seems to have been successful, and it was renamed "Bluelake".
+The lake became particularly vile and sludge-filled after the eruption of Mount Hotenow, which filled the lake with ash.*Lord Longuebraise* made dredging and restoring the lake one of his priorities. This effort seems to have been successful, and it was renamed "Bluelake".
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -425,7 +425,7 @@ The lake became particularly vile and sludge-filled after the eruption of Mount 
 
 The House of a Thousand Faces is a comfortable tavern in the Bluelake region of Padhiver. The building was once a boutique clothing store for the rich nobles of the area and is full of mirrors and mannequins displaying antiquated clothing styles. The mannequins and their reflection are what give the building its name of a "Thousand Faces". It features lush and comfortable couches where citizens sit and converse happily. 
 
-The basement of the tavern is the secret meeting location for the Padhiver chapter of the Harpers. The Harpers, generally an organization that stands for preserving history and all things "good", have a particularly complicated history in Padhiver. The reputation of the local Padhiver chapter of the Harpers was damaged when one of its high-ranking members was caught acting as a sort of double-agent between*Lord Neverember* and the Sons of Alagondar (who opposed Neverember's rule).
+The basement of the tavern is the secret meeting location for the Padhiver chapter of the Harpers. The Harpers, generally an organization that stands for preserving history and all things "good", have a particularly complicated history in Padhiver. The reputation of the local Padhiver chapter of the Harpers was damaged when one of its high-ranking members was caught acting as a sort of double-agent between*Lord Longuebraise* and the Sons of Alagondar (who opposed Longuebraise's rule).
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -438,7 +438,7 @@ The basement of the tavern is the secret meeting location for the Padhiver chapt
 
 When Mount Hotenow erupted, a giant canyon into a Spellplague-laden section of the Underdark was torn open in the southeastern quarter of Padhiver. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
 
-With immense effort and expense, *Neverember* was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
+With immense effort and expense, *Longuebraise* was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
 
 |![Book](book.svg)**En savoir plus**|
 |---|

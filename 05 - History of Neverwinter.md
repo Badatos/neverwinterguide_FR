@@ -26,11 +26,11 @@ order: 50
 
 ***1451 DR***. Un groupe d'aventuriers à Gauntlgrym a provoqué un accès de rage à la Maegera primordiale et a dévasté une grande partie de la région environnante. Cela comprenait l'éruption du mont Hotenow, l'ouverture d'un gouffre massif dans le quartier sud-est de Padhiver et la ruine d'une grande partie de Castel-Nièvre (tuant également la plupart des habitants du château). Ceci est même souvent simplement appelé "le cataclysme".
 
-***1467 DR***. Toujours sous le choc de la destruction du cataclysme, *Dagult Neverember* engage des mercenaires de Mintarn pour l'aider à rétablir l'ordre sur Padhiver. Il appelle cela le mouvement "Nouveau Padhiver".
+***1467 DR***. Toujours sous le choc de la destruction du cataclysme, *Dagult Longuebraise* engage des mercenaires de Mintarn pour l'aider à rétablir l'ordre sur Padhiver. Il appelle cela le mouvement "Nouveau Padhiver".
 
-***1474 DR***. Les Fils d'Alagondar sont formés en tant que groupe nationaliste opposé au règne de Padhiver de *Dagult Neverember*. Ils ont deux factions, les Nashers et les Graycloaks. Les Nashers sont plus violents dans leur tentative de supprimer *Neverember*, tandis que les Graycloaks ont tendance à utiliser la politique et le subterfuge pour déposer *Neverember*.
+***1474 DR***. Les Fils d'Alagondar sont formés en tant que groupe nationaliste opposé au règne de Padhiver de *Dagult Longuebraise*. Ils ont deux factions, les Nashers et les Graycloaks. Les Nashers sont plus violents dans leur tentative de supprimer *Longuebraise*, tandis que les Graycloaks ont tendance à utiliser la politique et le subterfuge pour déposer *Longuebraise*.
 
-***1479 DR***. Seldra Tylmarande reçoit une réplique de la Couronne de Padhiver. Elle utilise la fausse couronne, ainsi qu'un déguisement masculin, pour tenter de revendiquer le trône de Padhiver et déposer *Neverember*. Elle est vaincue et le complot échoue. *Neverember* prétend également qu'il est un héritier légitime du trône mais est incapable de trouver une vraie couronne et de le prouver.
+***1479 DR***. Seldra Tylmarande reçoit une réplique de la Couronne de Padhiver. Elle utilise la fausse couronne, ainsi qu'un déguisement masculin, pour tenter de revendiquer le trône de Padhiver et déposer *Longuebraise*. Elle est vaincue et le complot échoue. *Longuebraise* prétend également qu'il est un héritier légitime du trône mais est incapable de trouver une vraie couronne et de le prouver.
 
 ***1479 DR***. Selûne intervient dans les affaires des mortels et envoie des éclats à Toril qui permettent à Lady Jasmine et à d'autres prêtresses selûnites (avec l'aide d'aventuriers) de purifier l'Éclat de la Nuit en Éclat de la Lune.
 
@@ -38,4 +38,4 @@ order: 50
 
 ***1486 DR***. Le gouffre est scellé, mais à grands frais pour la ville de Padhiver.
 
-***1489 DR***. *Lord Neverember* est évincé en tant que Seigneur manifeste d'Eauprofonde et peut concentrer son attention sur Padhiver.
+***1489 DR***. *Lord Longuebraise* est évincé en tant que Seigneur manifeste d'Eauprofonde et peut concentrer son attention sur Padhiver.
