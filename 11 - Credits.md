@@ -1,5 +1,5 @@
 ---
-name: Credits
+name: Crédits
 slug: credits
 order: 110
 pdf-page-style: single-column
@@ -32,21 +32,21 @@ Shard of the Moon illustration par [Syeda Farwa](https://www.fiverr.com/syedafar
 
 Fallen Tower illustration par [Deryl Arrazaq](https://www.fiverr.com/derylarrazaq){.neutral}
 
-Dagult Neverember illustration par [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
+*Dagult Neverember* illustration par [Esteban Santos (aka Monster Portal)](https://www.patreon.com/monsterportal){.neutral}
 
 Toutes les autres illustrations par [Jacob Johnston](https://inchoatethoughts.com){.neutral}
 
-#### Editeurs
+#### Contributeurs
 
 Un remerciement spécial aux premiers relecteurs qui ont lu ce guide dans ses formes les plus anciennes et les plus grossières.
-Merci d'avoir aidé à être un peu cohérent !
+Merci d'avoir aidé à être un peu plus cohérent !
 - Jordan Cooper
 - Jennifer Johnston
 
 Merci aux contributeurs suivants qui ont [soumis des modifications](https://github.com/jacobjohnston/neverwinterguide) à ce guide : @GuardDanGnome, Christian Lewin (@Calius), @Minoxsta, Patrick, grummi
 
 #### Création du document
-This document is authored in Markdown and created using the [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) plugin for Visual Studio Code. More can be learned about this tool at our [GitHub page](https://github.com/encounterplus/module-packer) or in [Discord](https://discord.gg/68sQ97Py).
+Ce document est rédigé au format Markdown et compilé à l'aide du plug-in [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) pour Visual Studio Code. Vous pouvez en savoir plus sur cet outil sur notre [page GitHub](https://github.com/encounterplus/module-packer) ou sur [Discord](https://discord.gg/68sQ97Py).
 
 <br /><br />
 

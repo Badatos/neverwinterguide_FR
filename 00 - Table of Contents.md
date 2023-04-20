@@ -41,12 +41,12 @@ hide-footer-text: true
 - [bord tranchant de brannwyns](brannwyns-sharp-edge)
 - [Articles divers de Swift Heart](swift-heart-sundries)
 - [Parfums et boissons de Priscilla](priscillas-parfums-et-potables)
-- [Arcane Acquisitions](arcane-acquisitions)
+- [Acquisitions arcaniques](arcane-acquisitions)
 - [Aventures rapides](Quick-Adventures) {.part}
-- [La maison de ville abandonnée](la-maison-de-ville-abandonnée)
+- [La villa abandonnée](la-villa-abandonnee)
 - [Annexes](appendix-a-maps-page) {.part}
 - [Annexe A - Cartes](annexe-a-cartes-page)
-- [Annexe B - Cartes des points d’intérêt](annexe-b-cartes-de-points-d'intérêt-page)
+- [Annexe B - Cartes des points d’intérêt](appendix-b-point-of-interest-cards-page)
 - [Annexe C - Créatures](annexe-c-page-créatures)
 - [Crédits](crédits) {.part}
 {.toc}

@@ -1,34 +1,34 @@
 ---
-name: Homebrew Locations
+name: Lieux "Homebrew"
 slug: homebrew-locations
 order: 60
 module-pagebreaks: h1, h2, h3
 ---
 
-# Homebrew Locations
+# Lieux "Homebrew"
 
-|![Homebrew](mug.svg)**Homebrew Content**|
+|![Homebrew](mug.svg)**Contenu "Homebrew"**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|This section is an unofficial Padhiver location made up for this guide. Personnalisez-le pour *votre* campagne !|
 {.homebrew}
 
-Welcome, Dungeon Masters! While the guide has focused on the canonical locations and history of Neverwinter thus far, this section is all about providing newly made-up locations that Dungeon Masters may find useful if running a campaign through this sprawling city. Despite the great locations that are offered up in official lore sources, the city is actually light on more run-of-the-mill, utilitarian shops and locations (at least compared to somewhere like Phandalin).
+Welcome, maîtres de donjon! While the guide has focused on the canonical locations and history de Padhiver thus far, this section is all about providing newly made-up locations that maîtres de donjon may find useful if running a campaign through this sprawling city. Despite the great locations that are offered up in official lore sources, the city is actually light on more run-of-the-mill, utilitarian shops and locations (at least compared to somewhere like Phandalin).
 
 In this section, you will find an armor shop, a weapons shop, a potions shop, a general goods store, and a magical items shop - all the sorts of things one might expect to find in a larger city in Faerûn. Everything in this section has been made just for this guide, so you should have no worries about changing any of the details about these locations for your campaign should you decide to use them!
 
 Be sure to check out [Appendix B](point-of-interest-cards-page) for useful shop cards that you can hand your players when they visit these locations.
 
-![Brannur's Dependable Defenses](Images/POICards/BrannursDependableDefenses.webp){.size-full .screen-only .before-next-page-header}
+![Aux défenses solides de Brannur](Images/POICards/BrannursDependableDefenses.webp){.size-full .screen-only .before-next-page-header}
 
-### Brannur's Dependable Defenses
+### Aux défenses solides de Brannur
 
-Brannur Lutgehr, a talented and hard-working young (by dwarven standards) male dwarf, has seen an opportunity in Neverwinter's reconstruction efforts. Brannur has opened up a blacksmithing shop in Neverwinter's Chasm District to sell armor, tools, and larger pieces of farming equipment (e.g., plows). While the nascent shop is still only positioned to offer the more-standard forms of armor, Brannur is quickly gaining a reputation for well-crafted goods and has even scored some contracts supplying armor to Neverwinter's guard forces.
+Brannur Lutgehr, a talented and hard-working young (by dwarven standards) male dwarf, has seen an opportunity à Padhiver's reconstruction efforts. Brannur has opened up a blacksmithing shop à Padhiver's Chasm District to sell armor, tools, and larger pieces of farming equipment (e.g., plows). While the nascent shop is still only positioned to offer the more-standard forms of armor, Brannur is quickly gaining a reputation for well-crafted goods and has even scored some contracts supplying armor to Neverwinter's guard forces.
 
 The shop is impeccably clean and well-organized. Much of the armor on display is polished to a mirror-like finish and always arranged in a perfectly symmetrical configuration on the shop's walls and stands. If Brannur isn't in the back of the shop working with the forges, he can be found in the front of the shop either sweeping or running around with a cloth to remove any smudges that may have found their way onto one of his works. A customer accidentally bumping one of the armor stands such that it skews slightly is likely to give Brannur an involuntary twitch.
 
 Brannur has a calm and polite demeanor, and most of his customers would find it hard to picture him ever raising his voice - be it in excitement or anger. This comes through in his work, as Brannur likes to focus his talents on crafting items of defense and utility rather than items of intended to harm. However, this illusion of a calm stoicism would quickly be dispelled if one were to see Brannur and his sister, Brannwyn, interacting. When those two are in the same room, a heated argument is sure to arise.
 
-|![D20](d20.svg)**Dungeon Masters' Inspiration**|
+|![D20](d20.svg)**maîtres de donjon' Inspiration**|
 |---|
 |***Top Shelf Ingredients***. Brannur wants to take his shop to the next level, but to do so, needs a rare ingredient not easily accessible in this area. He's heard rumor the ingredient was in possession of the pirates at Pirates' Skyhold and would like the party to procure it for him.|
 {.dmidea}
@@ -39,9 +39,9 @@ Brannur has a calm and polite demeanor, and most of his customers would find it 
 
 ![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
 
-![Brannwyn's Sharp Edge](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
+![Lames tranchantes de Brannwyn](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
 
-### Brannwyn's Sharp Edge
+### Lames tranchantes de Brannwyn
 
 Brannwyn Lutgehr, sister of Brannur, also sought out the fortunes that a quickly-evolving Neverwinter may offer. Brannwyn has opened up a shop next door to her brother, Brannur, where she also exhibits her blacksmithing skills by creating all manner of weapons. Like her brother, Brannwyn is also gaining a reputation as being a reliable source to arm Neverwinter's growing defense forces. In fact, some of the city's procurement staff have ired both Brannur and Brannwyn by placing a single order for both armor and weapons, thinking their two shops are a single entity.
 
@@ -63,11 +63,11 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 
 (print-column)
 
-![Priscilla's Perfumes and Potables](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
+![Parfums et boissons de Priscilla](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
 
-### Priscilla's Perfumes and Potables
+### Parfums et boissons de Priscilla
 
-Priscilla's Perfumes and Potables is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
+Parfums et boissons de Priscilla is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
 
 While the shop's name may seem to indicate that it is focused around perfumes and fragrant beverages, Priscilla is an extremely talented alchemist and apothecary. She is capable of making exotic and rare concoctions for the right price. She also has some talent in diagnosing maladies, though she generally doesn't offer those services unless asked explicitly.
 
@@ -75,19 +75,19 @@ While extremely jovial, Priscilla will avoid giving away much personal informati
 
 (print-page)
 
-Despite being relatively new to the city, Priscilla is now well known to a large swath of Neverwinter residents as a person with great compassion. She frequently donates her goods and services to poorer Neverwinter residents that are truly in need. She even regularly makes her way down to the Chasm District to hand-deliver potions and poultices to the sick or injured.
+Despite being relatively new to the city, Priscilla is now well known to a large swath de Padhiver residents as a person with great compassion. She frequently donates her goods and services to poorer Neverwinter residents that are truly in need. She even regularly makes her way down to the Chasm District to hand-deliver potions and poultices to the sick or injured.
 
 ![Priscilla](Images/Priscilla.jpg =370x)
 
-All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents of Neverwinter all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents of Neverwinter may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
+All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents de Padhiver all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents de Padhiver may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
 
-![Swift Heart Sundries](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
+![Articles divers de Swift Heart](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
-### Swift Heart Sundries
+### Articles divers de Swift Heart
 
-Swift Heart Sundries is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
+Articles divers de Swift Heart is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
 
-Swift Heart, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Swift Heart intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available in Neverwinter's now-sealed chasm, she made haste to the city to establish her store.
+Swift Heart, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Swift Heart intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available à Padhiver's now-sealed chasm, she made haste to the city to establish her store.
 
 Swift Heart now has a relaxed and empathetic disposition, but she will be the first to tell you that she was a passionate adventure-seeker in her youth. She'll gladly tell you a tale or two about her dangerous treks through jungles filled with giant venomous snakes, near-death experiences wandering in endless desert dunes, or even times spent on the high seas with her Tabaxi sea captain friend, Stands in Tar.
 
@@ -95,17 +95,17 @@ Swift Heart now has a relaxed and empathetic disposition, but she will be the fi
 
 (print-page)
 
-![Arcane Acquisitions](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
+![Acquisitions arcaniques](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
 
-![Arcane Acquisitions](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
+![Acquisitions arcaniques](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
 
-### Arcane Acquisitions
+### Acquisitions arcaniques
 
-Arcane Acquisitions is a shop that sells magical arms and armor located in the Chasm district. The shop is generally very easy to locate, as it will generally be emanating a bright purple, green, or blue glow from one of its many forges and braziers (much to the chagrin of its neighbors). Approaching the shop, a customer will generally hear the banging of hammer on anvil, the hiss of steam valves being released from the many stills and alchemical contraptions, or the roar of seemingly-magical flames.
+Acquisitions arcaniques is a shop that sells magical arms and armor located in the Chasm district. The shop is generally very easy to locate, as it will generally be emanating a bright purple, green, or blue glow from one of its many forges and braziers (much to the chagrin of its neighbors). Approaching the shop, a customer will generally hear the banging of hammer on anvil, the hiss of steam valves being released from the many stills and alchemical contraptions, or the roar of seemingly-magical flames.
 
 The shop is run by the eccentric half-elf Wizard named Flinar Ralolar. Flinar wears a robe and goggles around his shop, where he quietly toils away with a perpetual frown on his face. His assistant, a goblin by the name of Gigz, performs most of the mundane blacksmithing at the shop. Patrons will never, however, hear Flinar and Gigz conversing as Flinar chooses to telepathically communicate with his assistant.
 
-Flinar Ralolar, age unknown, is a mysterious individual. Not one to volunteer much information, little is known about the wizard. What some do know, however, is that before Flinar arrived in Neverwinter, he was among the many that came to the Wave Echo Cave outside of Phandalin to study the Forge of Spells (once it was cleared of malicious forces by adventurers).
+Flinar Ralolar, age unknown, is a mysterious individual. Not one to volunteer much information, little is known about the wizard. What some do know, however, is that before Flinar arrived à Padhiver, he was among the many that came to the Wave Echo Cave outside of Phandalin to study the Forge of Spells (once it was cleared of malicious forces by adventurers).
 
 ![Flinar and Gigz](Images/FlinarAndGigz.jpg =370x){.print-bottom-right .with-margin}
 

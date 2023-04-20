@@ -9,20 +9,20 @@ module-pagebreaks: h1, h2, h3
 
 # The Abandoned Townhouse
 
-|![Homebrew](../mug.svg)**Homebrew Content**|
+|![Homebrew](../mug.svg)**Contenu "Homebrew"**|
 |---|
-|This section is an unofficial Neverwinter location made up for this guide. Customize it for *your* campaign!|
+|Cette section est un lieu non officiel de Padhiver créé pour ce guide. Personnalisez-le pour *votre* campagne !|
 {.homebrew}
 
 This Quick Adventure is designed for a party of roughly three to five 5th level players.{.no-fancy}
 
 ## Adventure Background
 
-In the Bluelake district of Neverwinter sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Neverwinter's residents into madness. Soon after this attack, he left Neverwinter for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
+In the Bluelake district of Padhiver sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Padhiver's residents into madness. Soon after this attack, he left Padhiver for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
 
 Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake district, but the magical wards on the property have, so far, kept any squatters from taking the property.
 
-The Dead Rats gang, who operates in the sewers of Neverwinter, has been eying the property for some time. They have recently enlisted one of their mages from Luskan to help break the magic wards on the property so they can claim whatever magical relics might lie within.
+The Dead Rats gang, who operates in the sewers of Padhiver, has been eying the property for some time. They have recently enlisted one of their mages from Luskan to help break the magic wards on the property so they can claim whatever magical relics might lie within.
 
 ## Adventure Hooks
 
@@ -80,6 +80,6 @@ Elden Vargas has left a [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gy
 
 The Storm Gyre attacks any creatures on sight and will fight until it is destroyed. It is not particularly smart, and will attack the nearest creature. However, if multiple creatures are close together, it will attempt to use its lightning attack to arc lightning through multiple creatures.
 
-After defeating the Storm Gyre, players that search through the wardrobe in the bedroom will find a random item from [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) from the Dungeon Master's Guide. Pinned to a desk is a note that simply reads:
+After defeating the Storm Gyre, players that search through the wardrobe in the bedroom will find a random item from [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) from the Maître du Donjon's Guide. Pinned to a desk is a note that simply reads:
 
 > My dearest Karis - If you're reading this, know that I'm truly sorry. - **Elden** {.paper}

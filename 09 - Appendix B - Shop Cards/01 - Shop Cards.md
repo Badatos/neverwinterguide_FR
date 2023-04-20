@@ -26,24 +26,24 @@ order: 1
 
 <br /><br />
 
-![Brannur's Dependable Defenses](../Images/POICards/BrannursDependableDefenses.webp){.size-full}
+![Aux défenses solides de Brannur](../Images/POICards/BrannursDependableDefenses.webp){.size-full}
 
 <br /><br />
 
-![Brannwyn's Sharp Edge](../Images/POICards/BrannwynsSharpEdge.webp){.size-full}
+![Lames tranchantes de Brannwyn](../Images/POICards/BrannwynsSharpEdge.webp){.size-full}
 
 (print-page)
 
 <br /><br />
 
-![Priscilla's Perfumes and Potables](../Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full}
+![Parfums et boissons de Priscilla](../Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full}
 
 <br /><br />
 
-![Swift Heart Sundries](../Images/POICards/SwiftHeartSundries.webp){.size-full}
+![Articles divers de Swift Heart](../Images/POICards/SwiftHeartSundries.webp){.size-full}
 
 (print-page)
 
 <br /><br />
 
-![Arcane Acquisitions](../Images/POICards/ArcaneAcquisitions.webp){.size-full}
+![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions.webp){.size-full}

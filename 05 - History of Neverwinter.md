@@ -1,41 +1,41 @@
 ---
-name: History of Neverwinter
+name: Histoire de Padhiver
 slug: history-of-neverwinter
 order: 50
 ---
 
-# An Abridged History of Neverwinter
+# Une Histoire abrégée de Padhiver
 
-***-10 DR***. Lord Halueth Never, a sun elf, settles the area in his conquest of Illusk. Construction of Castle Never begins. {.no-fancy}
+***-10 DR***. *Lord Halueth Never*, un elfe du soleil, colonise la région lors de sa conquête d'Illusk. Début de la construction de Castel-Nièvre. {.no-fancy}
 
-***87 DR***. The settlement of "Eigersstor" is founded around Castle Never. A later translation to Chondathan would name this settlement "Neverwinter".
+***87 DR***. Le village de "Eigersstor" est fondé autour de Castel-Nièvre. Une traduction ultérieure à Chondathan nommera cette colonie "Padhiver".
 
-***457 DR***. The School of Wizardry is founded in Neverwinter by the Wizards Aganazzar, Ilyykur, Presper, and Grimwald (collectively known as the covenant). 
+***457 DR***. L'école de sorcellerie est fondée à Padhiver par les sorciers Aganazzar, Ilyykur, Presper et Grimwald (collectivement connus sous le nom de covenant).
 
-***955 DR***. Red Wizards of Thay aid arc hordes in escaping the wizards of Neverwinter starting the "Orcgates Affair" and a centuries-long feud between Thay and Neverwinter.
+***955 DR***. Les sorciers rouges de Thay aident des hordes d'arcs à échapper aux sorciers de Padhiver en déclenchant "l'affaire Orcgates" et une querelle séculaire entre Thay et Padhiver.
 
-***1081 DR***. Red Wizards slay Aganazzar and destroy the School of Wizardry.
+***1081 DR***. Les sorciers rouges tuent Aganazzar et détruisent l'école de sorcellerie.
 
-***1329 DR***. Nasher Alagondar becomes king of Neverwinter.
+***1329 DR***. Nasher Alagondar devient roi de Padhiver.
 
-***1372 DR***. An illness befalls Neverwinter that kills most of its residents within ten days of onset. It becomes known as the "Wailing Death".
+***1372 DR***. Une maladie frappe Padhiver qui tue la plupart de ses habitants dans les dix jours suivant son apparition. Il devient connu sous le nom de "Wailing Death".
 
-***1379 DR***. The Shadovar attack Moonshadow Hall and send one of its towers to Shadowfell. In a few years it will appear in Neverwinter as the floating Shard of Night.
+***1379 DR***. Les Shadovar attaquent Moonshadow Hall et envoient une de ses tours à Shadowfell. Dans quelques années il apparaîtra à Padhiver comme l'Éclat flottant de la Nuit.
 
-***1385 DR***. The Spellplague strikes Toril. This creates the floating earthmotes on which some of Neverwinter's landmarks reside, sends the Cloak Tower to the Far Realm, causes the rise of undead in the Neverdeath graveyard, allows the Netherese to transport the Shard of Night to Neverwinter, and corrupts the Underdark directly beneath Neverwinter (which gets exposed as the Chasm later).
+***1385 DR***. Le Spellpeste frappe Toril. Cela crée les Earthmotes flottants sur lesquels résident certains points de repère de Padhiver, envoie la tour de cape dans le royaume lointain, provoque la montée des morts-vivants dans le cimetière de Neverdeath, permet aux Néantins de transporter l'éclat de la nuit à Padhiver et corrompt l'Underdark directement sous Padhiver (qui sera exposé plus tard sous le nom de Gouffre).
 
-***1451 DR***. An adventuring party in Gauntlgrym caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing Mount Hotenow to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of Castle Never (killing most of the castle's inhabitants as well). This even is often simply referred to as "the cataclysm."
+***1451 DR***. Un groupe d'aventuriers à Gauntlgrym a provoqué un accès de rage à la Maegera primordiale et a dévasté une grande partie de la région environnante. Cela comprenait l'éruption du mont Hotenow, l'ouverture d'un gouffre massif dans le quartier sud-est de Padhiver et la ruine d'une grande partie de Castel-Nièvre (tuant également la plupart des habitants du château). Ceci est même souvent simplement appelé "le cataclysme".
 
-***1467 DR***. Still reeling from the destruction of the cataclysm, Dagult Neverember hires Mintarn mercenaries to aid him in bringing order back to Neverwinter. He calls this the "New Neverwinter" movement.
+***1467 DR***. Toujours sous le choc de la destruction du cataclysme, *Dagult Neverember* engage des mercenaires de Mintarn pour l'aider à rétablir l'ordre sur Padhiver. Il appelle cela le mouvement "Nouveau Padhiver".
 
-***1474 DR***. The Sons of Alagondar are formed as a nationalist group opposed to Dagult Neverember's rule of Neverwinter. They have two factions, The Nashers and The Graycloaks. The Nashers are more violent in their attempt to remove Neverember, whereas the Graycloaks tend to use politics and subterfuge to depose Neverember.
+***1474 DR***. Les Fils d'Alagondar sont formés en tant que groupe nationaliste opposé au règne de Padhiver de *Dagult Neverember*. Ils ont deux factions, les Nashers et les Graycloaks. Les Nashers sont plus violents dans leur tentative de supprimer *Neverember*, tandis que les Graycloaks ont tendance à utiliser la politique et le subterfuge pour déposer *Neverember*.
 
-***1479 DR***. Seldra Tylmarande is given a replica of the Crown of Neverwinter. She uses the fake crown, along with a male disguise, to try to make claim to the throne of Neverwinter and depose Neverember. She is defeated and the plot fails. Neverember also claims he is a legitimate heir to the throne but is unable to find a real crown and prove it.
+***1479 DR***. Seldra Tylmarande reçoit une réplique de la Couronne de Padhiver. Elle utilise la fausse couronne, ainsi qu'un déguisement masculin, pour tenter de revendiquer le trône de Padhiver et déposer *Neverember*. Elle est vaincue et le complot échoue. *Neverember* prétend également qu'il est un héritier légitime du trône mais est incapable de trouver une vraie couronne et de le prouver.
 
-***1479 DR***. Selûne intervenes in mortal affairs and sends shards to Toril that allow Lady Jasmine and other selûnite priestesses (with the help of adventurers) to cleanse the Shard of Night into the Shard of the Moon.
+***1479 DR***. Selûne intervient dans les affaires des mortels et envoie des éclats à Toril qui permettent à Lady Jasmine et à d'autres prêtresses selûnites (avec l'aide d'aventuriers) de purifier l'Éclat de la Nuit en Éclat de la Lune.
 
-***1479 DR***. Elden Vargas, a powerful War Wizard from Cormyr, sends a good portion of Neverwinter's populace into madness in a plot to rescue his wife that is being held in Helm's Hold by Ashmadai cultists attempt to exploit the mage. The conflict results in demons and cultists attacking the Beached Leviathan.
+***1479 DR***. Elden Vargas, un puissant sorcier de guerre du Cormyr, envoie une bonne partie de la population de Padhiver dans la folie dans un complot visant à sauver sa femme qui est détenue à Helm's Hold par des cultistes Ashmadai qui tentent d'exploiter le mage. Le conflit se traduit par des démons et des cultistes qui attaquent le Léviathan échoué.
 
-***1486 DR***. The Chasm is sealed, but at great expense to the city of Neverwinter.
+***1486 DR***. Le gouffre est scellé, mais à grands frais pour la ville de Padhiver.
 
-***1489 DR***. Lord Neverember is ousted as Open Lord of Waterdeep and can focus his attention more-solely on Neverwinter.
+***1489 DR***. *Lord Neverember* est évincé en tant que Seigneur manifeste d'Eauprofonde et peut concentrer son attention sur Padhiver.

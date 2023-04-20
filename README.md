@@ -1,16 +1,16 @@
 Version française :
 ---
 
-# Un guide du maître de donjon pour Padhiver
+# Un guide du Maître du Donjon pour Padhiver
 
 Ce guide a été créé pour fournir aux MD les informations nécessaires sur Padhiver tel qu'il existe pour la 5e édition de Donjons & Dragons, en particulier au début des années 1490 DR.
 Si vous êtes ici, cela signifie probablement que vous souhaitez contribuer à ce guide d'une manière ou d'une autre, soit en corrigeant certaines informations, soit en ajoutant du contenu.
 
 # Comment puis-je travailler avec ce guide
 
-*Un guide du maître de donjon pour Padhiver* est écrit en Markdown - spécifiquement, dans un format qui fonctionne avec [EncounterPlus's Module Packer](https://github.com/encounterplus/module-packer) ou l'[EncounterPlus Markdown Extension ](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) pour [Visual Studio Code](https://code.visualstudio.com).
+*Un guide du Maître du Donjon pour Padhiver* est écrit en Markdown - spécifiquement, dans un format qui fonctionne avec [EncounterPlus's Module Packer](https://github.com/encounterplus/module-packer) ou l’[EncounterPlus Markdown Extension ](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) pour [Visual Studio Code](https://code.visualstudio.com).
 
-Si vous souhaitez apporter une correction comme une simple faute de frappe ou proposer une modification simple, ces outils ne sont absolument pas nécessaires. Markdown est un simple fichier texte et vous pouvez utiliser l'éditeur de texte de votre choix. Cependant, si vous souhaitez modifier le document de manière substantielle, ou reconstruire le document PDF/Module avec des modifications, alors vous devrez installer l'un de ces outils.
+Si vous souhaitez apporter une correction comme une simple faute de frappe ou proposer une modification simple, ces outils ne sont absolument pas nécessaires. Markdown est un simple fichier texte et vous pouvez utiliser l’éditeur de texte de votre choix. Cependant, si vous souhaitez modifier le document de manière substantielle, ou reconstruire le document PDF/Module avec des modifications, alors vous devrez installer l’un de ces outils.
 
 
 Original English README:
