@@ -1,8 +1,8 @@
 ---
-name: Beached Leviathan
+name: Léviathan échoué
 slug: beached-leviathan-map-page
 order: 20
 include-in: print
 ---
 
-![Beached Leviathan Day](../PrintImages/Maps/BeachedLeviathanDay.jpg){.size-cover}
+![Léviathan échoué Day](../PrintImages/Maps/BeachedLeviathanDay.jpg){.size-cover}

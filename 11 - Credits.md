@@ -24,9 +24,9 @@ Autres cartes par [Jacob Johnston](https://inchoatethoughts.com){.neutral} avec 
 
 Illustration du Castel-Nièvre par [Valery Sazonov](https://www.fiverr.com/valeryse){.neutral}
 
-Moonstone Mask illustration par [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
+Masque de Pierre-lune illustration par [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 
-Beached Leviathan illustration par [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
+Léviathan échoué illustration par [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
 
 Shard of the Moon illustration par [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 

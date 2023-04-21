@@ -16,7 +16,7 @@ order: 1
 
 <br /><br />
 
-![The Beached Leviathan](../Images/POICards/BeachedLeviathan.webp){.size-full}
+![The Léviathan échoué](../Images/POICards/BeachedLeviathan.webp){.size-full}
 
 <br /><br />
 

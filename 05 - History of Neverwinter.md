@@ -22,9 +22,9 @@ order: 50
 
 ***1379 DR***. Les Shadovar attaquent Moonshadow Hall et envoient une de ses tours à Shadowfell. Dans quelques années il apparaîtra à Padhiver comme l'Éclat flottant de la Nuit.
 
-***1385 DR***. Le Spellpeste frappe Toril. Cela crée les Earthmotes flottants sur lesquels résident certains points de repère de Padhiver, envoie la tour de cape dans le royaume lointain, provoque la montée des morts-vivants dans le cimetière de Neverdeath, permet aux Néantins de transporter l'éclat de la nuit à Padhiver et corrompt l'Underdark directement sous Padhiver (qui sera exposé plus tard sous le nom de Gouffre).
+***1385 DR***. Le Magepeste frappe Toril. Cela crée les Earthmotes flottants sur lesquels résident certains points de repère de Padhiver, envoie la tour de cape dans le royaume lointain, provoque la montée des morts-vivants dans le cimetière de Neverdeath, permet aux Néantins de transporter l'éclat de la nuit à Padhiver et corrompt l'Outreterre directement sous Padhiver (qui sera exposé plus tard sous le nom de Gouffre).
 
-***1451 DR***. Un groupe d'aventuriers à Gauntlgrym a provoqué un accès de rage à la Maegera primordiale et a dévasté une grande partie de la région environnante. Cela comprenait l'éruption du mont Hotenow, l'ouverture d'un gouffre massif dans le quartier sud-est de Padhiver et la ruine d'une grande partie de Castel-Nièvre (tuant également la plupart des habitants du château). Ceci est même souvent simplement appelé "le cataclysme".
+***1451 DR***. Un groupe d'aventuriers à Gauntlgrym a provoqué un accès de rage à la Maegera primordiale et a dévasté une grande partie de la région environnante. Cela comprenait l'éruption du mont Hautchaud, l'ouverture d'un gouffre massif dans le quartier sud-est de Padhiver et la ruine d'une grande partie de Castel-Nièvre (tuant également la plupart des habitants du château). Ceci est même souvent simplement appelé "le cataclysme".
 
 ***1467 DR***. Toujours sous le choc de la destruction du cataclysme, *Dagult Longuebraise* engage des mercenaires de Mintarn pour l'aider à rétablir l'ordre sur Padhiver. Il appelle cela le mouvement "Nouveau Padhiver".
 
