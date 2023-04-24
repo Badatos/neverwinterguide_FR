@@ -11,7 +11,7 @@ hide-footer-text: true
 
 - [Introduction](introduction) {.part}
 - [À propos de ce guide](about-this-guide)
-- [Lieux de Padhiver](locations-of-neverwinter) {.part}
+- [Lieux importants de Padhiver](locations-of-neverwinter) {.part}
 - [Castel-Nièvre](castle-never) {.category}
 - [Enclave du Protecteur](protectors-enclave) {.category}
 - [Le palais de justice](le-hall-de-justice)
@@ -34,19 +34,19 @@ hide-footer-text: true
 - [Quartier du gouffre](le-district-du-gouffre) {.category}
 - [Le gouffre scellé](le-gouffre-scellé)
 - [Neverdeath](neverdeath) {.category}
-- [Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
+- [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
 - [Histoire de Padhiver](histoire-de-neverwinter) {.part}
-- [Emplacements "Homebrew"](homebrew-locations) {.part}
+- [Commerces non-officiels](homebrew-locations) {.part}
 - [Défenses solides de Brannur](brannurs-dependable-defenses)
-- [bord tranchant de brannwyns](brannwyns-sharp-edge)
-- [Articles divers de Swift Heart](swift-heart-sundries)
+- [Bord tranchant de Brannwyn](brannwyns-sharp-edge)
+- [Articles divers de Coeur Vif](swift-heart-sundries)
 - [Parfums et boissons de Priscilla](priscillas-parfums-et-potables)
 - [Acquisitions arcaniques](arcane-acquisitions)
 - [Aventures rapides](Quick-Adventures) {.part}
 - [La villa abandonnée](la-villa-abandonnee)
 - [Annexes](appendix-a-maps-page) {.part}
-- [Annexe A - Cartes](annexe-a-cartes-page)
-- [Annexe B - Cartes des points d’intérêt](appendix-b-point-of-interest-cards-page)
+- [Annexe A - Plans](annexe-a-cartes-page)
+- [Annexe B - Affichettes des magasins](appendix-b-point-of-interest-cards-page)
 - [Annexe C - Créatures](annexe-c-page-créatures)
 - [Crédits](crédits) {.part}
 {.toc}

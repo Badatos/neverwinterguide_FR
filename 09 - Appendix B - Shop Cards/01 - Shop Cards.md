@@ -1,5 +1,5 @@
 ---
-name: Point of Interest Cards
+name: Affichettes des commerces
 slug: point-of-interest-cards-page
 order: 1
 ---
@@ -10,7 +10,7 @@ order: 1
 
 <br /><br />
 
-![Shard of the Moon](../Images/POICards/ShardOfTheMoon.webp){.size-full}
+![Éclat de lune](../Images/POICards/ShardOfTheMoon.webp){.size-full}
 
 (print-page)
 
@@ -20,7 +20,7 @@ order: 1
 
 <br /><br />
 
-![The Fallen Tower](../Images/POICards/FallenTower.webp){.size-full}
+![La tour déchue](../Images/POICards/FallenTower.webp){.size-full}
 
 (print-page)
 
@@ -40,10 +40,10 @@ order: 1
 
 <br /><br />
 
-![Articles divers de Swift Heart](../Images/POICards/SwiftHeartSundries.webp){.size-full}
+![Articles divers de Coeur Vif](../Images/POICards/SwiftHeartSundries.webp){.size-full}
 
 (print-page)
 
 <br /><br />
 
-![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions.webp){.size-full}
+![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions-FR.webp){.size-full}

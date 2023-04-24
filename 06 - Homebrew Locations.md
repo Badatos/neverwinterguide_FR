@@ -81,17 +81,17 @@ Despite being relatively new to the city, Priscilla is now well known to a large
 
 All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents de Padhiver all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents de Padhiver may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
 
-![Articles divers de Swift Heart](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
+![Articles divers de Coeur Vif](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
-### Articles divers de Swift Heart
+### Articles divers de Coeur Vif
 
-Articles divers de Swift Heart is a general goods store owned by Swift Heart, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
+Articles divers de Coeur Vif is a general goods store owned by Coeur Vif, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
 
-Swift Heart, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Swift Heart intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available à Padhiver's now-sealed chasm, she made haste to the city to establish her store.
+Coeur Vif, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Coeur Vif intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available à Padhiver's now-sealed chasm, she made haste to the city to establish her store.
 
-Swift Heart now has a relaxed and empathetic disposition, but she will be the first to tell you that she was a passionate adventure-seeker in her youth. She'll gladly tell you a tale or two about her dangerous treks through jungles filled with giant venomous snakes, near-death experiences wandering in endless desert dunes, or even times spent on the high seas with her Tabaxi sea captain friend, Stands in Tar.
+Coeur Vif now has a relaxed and empathetic disposition, but she will be the first to tell you that she was a passionate adventure-seeker in her youth. She'll gladly tell you a tale or two about her dangerous treks through jungles filled with giant venomous snakes, near-death experiences wandering in endless desert dunes, or even times spent on the high seas with her Tabaxi sea captain friend, Stands in Tar.
 
-![Swift Heart](Images/SwiftHeart.jpg =370x){.print-bottom-right .with-margin}
+![Coeur Vif](Images/SwiftHeart.jpg =370x){.print-bottom-right .with-margin}
 
 (print-page)
 

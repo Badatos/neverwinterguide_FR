@@ -1,8 +1,8 @@
 ---
-name: Appendix B - Point-of-Interest Cards
+name: Annexe B - Affichettes des magasins
 slug: appendix-b-point-of-interest-cards-page
 order: 00
 include-in: print
 ---
 
-![POI Cards](POICards.svg){.size-cover}
+![Magasin](POICards.svg){.size-cover}

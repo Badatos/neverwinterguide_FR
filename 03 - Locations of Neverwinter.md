@@ -1,11 +1,11 @@
 ---
-name: Lieux de Padhiver
+name: Lieux importants de Padhiver
 slug: locations-of-neverwinter
 order: 30
 module-pagebreaks: h1, h2, h3
 ---
 
-# Lieux de Padhiver
+# Lieux importants de Padhiver
 
 ## Castel-Nièvre
 
@@ -243,7 +243,7 @@ Un établissement comme le Léviathan échoué ne pourrait exister sans un capit
 
 ***Umi.*** "Barreuse" - *Umi*, également une femme genasi de l’eau, est la cousine de *Len-jes* et sert de remplaçante à *Feng* si une situation à la taverne devient trop tapageuse. Elle est très habile avec l'épée.
 
-***Bobrik Highmantle.*** "Maître d'équipage" - *Bobrik*, un nain mâle corpulent avec un singe de compagnie, est un habitué du bar. Il a un tempérament fougueux qui le fait parfois expulser de la taverne pendant quelques jours.
+***Bobrik Haut-manteau.*** "Maître d'équipage" - *Bobrik*, un nain mâle corpulent avec un singe de compagnie, est un habitué du bar. Il a un tempérament fougueux qui le fait parfois expulser de la taverne pendant quelques jours.
 
 ***Markul.*** "Vigie" - *Markul*, un jeune humain, écoute constamment tout ce qui se passe à la taverne. Pour le juste prix, il est prêt à partager les secrets qu'il a appris, tant qu'il ne s'agit pas de secrets qui, selon lui, nuiraient au Léviathan.
 
@@ -253,11 +253,11 @@ Un établissement comme le Léviathan échoué ne pourrait exister sans un capit
 
 (print-page)
 
-#### Stormy Waters
+#### Eaux troubles
 
-Throughout its relatively brief history in Padhiver, the Léviathan échoué has found itself embroiled in conflict well beyond its seemingly-humble station. This is largely because of the type of patronage allowed in the Leviathan, in addition to Lord Longuebraise’s own involvement with the locale. It was with Longuebraise’s support and patronage that Harrag was able to create the establishment at all — as *Longuebraise* was ultimately the one to expunge record of his numerous crimes on the high seas. This made Harrag a true *Longuebraise* loyalist.*Lord Longuebraise* absolutely uses Harrag for his own ambitions. *Longuebraise* even went so far as to turn Harrag’s own shadow into a sentient creature used to spy on the facility. 
+Tout au long de son histoire relativement brève à Padhiver, le Léviathan échoué s'est retrouvé mêlé à des conflits malgrès son humilité apparente. C'est en grande partie à cause du type de patronage autorisé dans le Léviathan, en plus de la propre implication de *Lord Longuebraise* dans la région. C'est avec le soutien et le patronage du *Seigneur Protecteur* que *Harrag* a pu créer l'établissement - car *Longuebraise* a effacé le dossier de ses nombreux crimes en haute mer. Cela a fait de du capitaine un véritable loyaliste à *Longuebraise*, qui utilise *Harrag* pour ses propres ambitions. *Longuebraise* est même allé jusqu'à transformer l'ombre de *Harrag* en une créature utilisée pour espionner l'établissement.
 
-In 1479, as part of the scuffle over the true heir to the throne of Padhiver and the lost crown of Alagondar, the Leviathan was attacked by furious Padhiver members. The Leviathan was only saved because of intervention from adventurers and Longuebraise’s top general, General Sabine. Later, that same year, Ashmadai cultists and demons infiltrated the Léviathan échoué and killed one of General Sabine’s top advisors. This was ultimately part of a larger plot by a powerful mage named Elden Vargas to use the powers of Asmodeus to his own purposes. 
+En 1479, dans le cadre de la bagarre autour du véritable héritier du trône de Padhiver et de la couronne perdue d'Alagondar, le Léviathan fut attaqué par des membres furieux de Padhiver. Le Léviathan ne fut sauvé que grâce à l'intervention d'aventuriers et du général en chef de *Longuebraise*, le *général Sabine*. Plus tard, cette même année, des cultistes et des démons Ashmadai infiltrèrent le Léviathan échoué et tuèrent l'un des principaux conseillers du *général Sabine*. Cela faisait finalement partie d'un complot plus vaste mené par un puissant mage nommé *Elden Vargas* pour utiliser les pouvoirs d'Asmodeus à ses propres fins.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -267,13 +267,13 @@ In 1479, as part of the scuffle over the true heir to the throne of Padhiver and
 |*Storm Over Padhiver*, p. 17 - 18, (4th Edition)|
 {.references}
 
-### The Driftwood Tavern
+### La taverne du bois flotté
 
-Almost more of a museum than a tavern, the upscale and expensive Driftwood Tavern sits in the northern docks area of Padhiver. The tavern is one of Padhiver’s older drinking locales — having been in operation since before the Magepeste of 1385 DR. After the cataclysm of 1451 DR, the tavern was used to shelter refugees and served as a makeshift city hall while the city regained some semblance of normalcy.
+Presque plus un musée qu'une taverne, l'établissement haut de gamme et cher "La taverne du bois flotté" se trouve dans la zone des quais nord de Padhiver. La taverne est l'un des plus anciens lieux de consommation de Padhiver - étant déjà en activité avant la Magepeste de 1385 CV. Après le cataclysme de 1451 CV, la taverne servit d'abri aux réfugiés et d'hôtel de ville de fortune, tandis que la ville retrouvait un semblant de normalité.
 
-The establishment is chock-full of bric-a-brac. Rather than viewing the establishment as cluttered or disorganized, however, many view it as a beautiful tribute to "Old Padhiver" and a vital part of preserving the city’s history. Indeed, many travelers visit the tavern and pay its high prices for drinks and/or lodging simply to enjoy the relics collected at the establishment.
+L'établissement regorge de bric-à-brac. Plutôt que de le considérer comme encombré ou désorganisé, beaucoup le considèrent comme un bel hommage à l'ancien Padhiver et un élément essentiel de la préservation de l'histoire de la ville. En effet, de nombreux voyageurs visitent la taverne et paient ses prix élevés pour les boissons et/ou l'hébergement simplement pour profiter des reliques recueillies à l'établissement.
 
-Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she was secretly the leader of the Sons of Alagondar (i.e., the Graycloaks), a rebel group that opposed Lord Longuebraise’s rule in the city. The faction, now, has largely made peace with Longuebraise’s rule, many members even enlisting in Padhiver’s army (feeling it better that they control their own army rather than continuing to let Mintarn mercenaries have power in the city). Madame Rosene is a fount of knowledge regarding the city’s history and will happily chat about old times with patrons.
+*Madame Rosene*, aujourd'hui âgée d'environ 70 ans, dirige l'établissement. En 1479 CV, elle était secrètement le chef des Fils d'Alagondar (c'est-à-dire les Manteaux gris), un groupe rebelle qui s'opposait au règne de *Lord Longuebraise* dans la ville. La faction, maintenant, a largement fait la paix avec le règne de *Longuebraise*, de nombreux membres s'enrôlant même dans l'armée de Padhiver (estimant qu'il valait mieux qu'ils contrôlent leur propre armée plutôt que de continuer à laisser les mercenaires Mintarn avoir le pouvoir dans la ville). *Madame Rosene* est une source de connaissances sur l'histoire de la ville et se fera un plaisir de discuter du bon vieux temps avec les clients.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -281,13 +281,13 @@ Madame Rosene, now roughly 70 years old, runs the establishment. In 1479 DR, she
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
 {.references}
 
-### The Tarmalune Trade House
+### La Maison de Commerce de Tarmalune
 
-A trade cartel from the city of Tarmalune has procured a large warehouse complex on the southern docks of Padhiver. Outside of the docks, a large swath of stalls and booths have been set up with goods for sale. The Tarmalune merchants are trying desperately to establish a solid trade presence in the area, largely to counter their rival traders from the city of Lylorn that have recently established a trade route in nearby Luskan.
+Un cartel commercial de la ville de Tarmalune s'est procuré un grand complexe d'entrepôts sur les quais sud de Padhiver. En dehors des quais, une large bande de stands a été installée avec des marchandises à vendre. Les marchands de Tarmalune tentent désespérément d'établir une présence commerciale solide dans la région, en grande partie pour contrer leurs marchands rivaux de la ville de Lylorn qui ont récemment établi une route commerciale dans la ville voisine de Luskan.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***No Free Two-Day Shipping***. If your players need something very specific and hard-to-acquire, it would be somewhat reasonable that the Tarmalune’s large trade network might be able to procure the item. However, it would *also* be entirely reasonable to expect this favor to come at a high price and to take some time. After all, it takes a long time, a lot of resources, and a lot of risk to sail such a distance in Toril.|
+|***Pas de livraison gratuite en deux jours***. Si vos joueurs ont besoin de quelque chose de très spécifique et difficile à acquérir, il serait assez raisonnable que le vaste réseau commercial de Tarmalune puisse se procurer l'objet. Cependant, il serait *aussi* tout à fait raisonnable de s'attendre à ce que cette faveur ait un prix élevé et prenne un certain temps. Après tout, il faut beaucoup de temps, beaucoup de ressources et beaucoup de risques pour parcourir une telle distance à Toril.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -297,27 +297,27 @@ A trade cartel from the city of Tarmalune has procured a large warehouse complex
 
 (print-page)
 
-![Shard of the Moon](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
+![Éclat de lune](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
 
 (print-column)
 
 ## Tower District
 
-![Shard of the Moon](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
+![Éclat de lune](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
-### The Shard of the Moon
+### L'Éclat de lune
 
-The Shard of the Moon, formerly called "The Shard of Night", is a floating tower in the Tower District of Padhiver. The tower has had a storied journey through both the Material Plane and Plane of Shadow.
+L'Éclat de lune, anciennement appelé "L'Éclat de la Nuit", est une tour flottante située dans le Quartier de la Tour de Padhiver. La tour a connu un voyage riche en histoires à travers le plan matériel et le plan de l'ombre.
 
-The tower began its existence as Moonshadow Hall, over a thousand miles away from Padhiver, in the city of Yhaunn. In the late 14th century DR, the Shadovar (dwellers of Shadowfell and one of the few remaining factions of Netherese) assaulted the temple and magically tore away one of its towers and sent it to Shadowfell. The Shadovar learned they were able to manifest the tower at arbitrary locations in the mortal realms, and thus placed it strategically floating over Padhiver during the Magepeste. The Netherese could use a portal in the tower to transport between Xinlenal and Padhiver. 
+La tour a commencé son existence sous le nom de Salle de l'ombre lunaire, à plus de mille kilomètres de Padhiver, dans la ville de Yhaunn. À la fin du 14ème siècle DR, les Shadovar (habitants de Shadowfell et l'une des rares factions restantes de Néthéril) ont attaqué le temple et ont magiquement arraché l'une de ses tours et l'ont envoyée à Shadowfell. Les Shadovar ont appris qu'ils étaient capables de manifester la tour à des endroits arbitraires dans les royaumes des mortels, et l'ont ainsi placée stratégiquement flottant au-dessus de Padhiver pendant la Magepeste. Les Nétherisses pouvaient utiliser un portail dans la tour pour se déplacer entre Xinlenal et Padhiver.
 
-The tower was darkened black and cast no shadow in the day. This was actually because the temple was magically manipulated to absorb shadow. This shadow, in turn, powered the tower’s teleportation devices. The ominous, forboding tower looming overhead was largely avoided by all in Padhiver as any who ventured inside would never return.
+La tour était noircie et ne projetait aucune ombre dans la journée. C'était en fait parce que le temple était magiquement manipulé pour absorber l'ombre. Cette ombre, à son tour, alimentait les dispositifs de téléportation de la tour. La tour inquiétante qui se dressait au-dessus de nos têtes était largement évitée par tous à Padhiver, car quiconque s'aventurait à l'intérieur ne reviendrait jamais.
 
 ![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}
 
 (print-page)
 
-In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to return to the tower and perform a purification, restoring the tower to its alabaster white appearance. Now, at night when three magical shards are placed within, or below, the floating tower, a stairway of solid moonlight descends from the tower entrance. The priests of Selûne will allow only trusted visitors entrance into the tower. Those particularly-trusted visitors that take a long rest in the tower find that they receive an extra healing surge until they next take a long rest.
+En 1479 CV, des aventuriers attaquèrent la tour et permirent aux prêtres de Sélune de revenir dans la tour et d'effectuer une purification, redonnant à la tour son aspect blanc d'albâtre. Maintenant, la nuit, lorsque trois éclats magiques sont placés à l'intérieur ou au-dessous de la tour flottante, un escalier de clair de lune solide descend de l'entrée de la tour. Les prêtres de Sélune n'autoriseront que les visiteurs de confiance à entrer dans la tour. Les visiteurs particulièrement dignes de confiance qui prennent un long repos dans la tour constatent qu'ils reçoivent une poussée de guérison supplémentaire jusqu'à leur prochain long repos.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -325,25 +325,25 @@ In 1479 DR, adventurers raided the tower and allowed the priests of Selûne to r
 |*Neverwinter Campaign Setting*, p. 158, (4th Edition)|
 {.references}
 
-### The Cloak Tower
+### La tour de la cape
 
-The Cloak Tower is a wizard tower that served as a meeting place and citadel to the Many-Starred Cloak order of wizards. The tower suffered a prolonged occupation by orcs, but has recently returned to the custody of the Order of the Many-Starred Cloaks.
+La tour de la cape est une tour de sorciers qui servait de lieu de rencontre et de citadelle à l'ordre des sorciers de la cape aux milles étoiles. La tour a subi une occupation prolongée par les orcs, mais est récemment revenue sous la garde de l'Ordre des capes aux milles étoiles.
 
-#### Vanishing Fortifications
+#### Fortifications en voie de disparition
 
-The Cloak Tower, and all of the wizards within, disappeared during the Magepeste in 1385 DR. The tower mysteriously returned about six months later — albeit in a new location. However, there were no traces of the wizards that had once resided there. 
+La tour de la cape et tous les sorciers qu'elle contenait ont disparu pendant la Magepeste en 1385 CV. La tour est mystérieusement revenue environ six mois plus tard, bien que dans un nouvel emplacement. Cependant, il n'y avait aucune trace des sorciers qui y avaient autrefois résidé.
 
-Naturally, once the tower returned to Padhiver, it didn’t take long for thieves to attempt looting the tower. The tower, after all, was thought to contain a wondrous magical device found in a Netherese ruin called "Halavar’s Universal Pantograph". The device could reportedly duplicate metal objects that were "the size of a large throne or smaller" — this included coins! However, all the thieves soon perished in the tower, leaving a sole survivor to recount the tales of what was seen.
+Naturellement, une fois la tour revenue à Padhiver, il n'a pas fallu longtemps aux voleurs pour tenter de la piller. Après tout, on pensait que la tour contenait un merveilleux dispositif magique trouvé dans une ruine nétherisses appelée "Pantographe universel de Halavar". L'appareil aurait pu dupliquer des objets métalliques "de la taille d'un grand trône ou plus petit" - cela comprenait des pièces de monnaie ! Cependant, tous les voleurs ont rapidement péri dans la tour, laissant un seul survivant pour raconter les histoires de ce qui a été vu.
 
-The thieves didn’t locate the magical device, and they saw neither wizards nor their bodies. The colorful cloaks mysteriously remained, however, hanging on the pegs where they were left. Suddenly, the colorful cloaks came to life and smothered the thieves to death, save the sole survivor.
+Les voleurs n'ont pas localisé l'appareil magique et ils n'ont vu ni sorciers ni leurs corps. Les capes colorées restèrent cependant mystérieusement accrochées aux patères où elles avaient été laissées. Soudain, les capes colorées ont pris vie et ont étouffé les voleurs à mort, sauf le seul survivant.
 
-#### Orc Infestation
+#### Infestation d'orcs
 
-The Many-Arrows orc tribe invaded the tower and were able to claim it. The Padhiver residents, assuming the tower was warded by some leftover magical defenses left by the Many-Starred Cloak wizards, thought the orcs too would soon perish in the tower. The orcs, however, seemingly did not meet any resistance in the tower and were able to hold it.
+La tribu des orcs Mille-Flèches [Many-Arrows], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles, pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n'ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
 
-Lord *Longuebraise* tolerated the orcs in the location largely because he had no better option. The tower was actually one of the most fortified locations in the city, which left *Longuebraise* simply biding his time until he could figure out a way to rid the city of the orcs. Luckily, the Many-Arrow orcs decided to vacate the tower and move east with to help their brethren battle the dwarves.
+*Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu'il n'avait pas de meilleure option. La tour était en fait l'un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu'à ce qu'il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [Many-Arrows] ont décidé de quitter la tour et de se déplacer vers l'est pour aider leurs frères à combattre les nains.
 
-The Order of the Many-Starred Cloaks has once again become active with some ranking members even working with*Lord Longuebraise* to secure the region. It is presumed that custody of the Cloak Tower has returned to the Many-Starred Cloaks.
+L'Ordre des capes aux milles étoiles est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -353,17 +353,17 @@ The Order of the Many-Starred Cloaks has once again become active with some rank
 |*Volo’s Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
-![Many-Arrows Orc Tribe](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
+![Tribu orc des Mille-Flèches](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
 
 (print-page)
 
-![The Fallen Tower](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
+![La tour déchue](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
 
-![The Fallen Tower](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
+![La tour déchue](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
-### The Fallen Tower
+### La tour déchue
 
-The Fallen Tower is a tavern constructed in the ruins of a wizard’s tower. The tavern features a rather unique and macabre nightly spectacle that has kept it a popular drinking location for well over a century.
+La tour déchue is a tavern constructed in the ruins of a wizard’s tower. The tavern features a rather unique and macabre nightly spectacle that has kept it a popular drinking location for well over a century.
 
 #### The Tower’s History
 
@@ -390,7 +390,7 @@ An enterprising single-eared orc named "Vagdru One-Ear" restored the site to bei
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
 |***Technical Difficulties***. Something goes wrong, and the previously-benign nightly magical visions of the falling mages become real; the flames of the falling mages scorch patrons. Adventurers must contain the Fallen Towers magic lest the tavern’s business be ruined.|
-|***Diplomatic Immunity***. The Fallen Tower is the perfect place to have a parlay between adventurers and some of the less-respected races of Faerûn.|
+|***Diplomatic Immunity***. La tour déchue is the perfect place to have a parlay between adventurers and some of the less-respected races of Faerûn.|
 |***The Other White Meat***. Vagdru One-Ear tasks the adventurers with heading out into the wilds to slay some gross-looking, level-appropriate monsters (e.g., [Giant Spiders](/monster/giant-spider){.red} or a [Sibriex](/monster/sibriex){.red}!) and return their corpses as proof of their accomplishments. To the adventurers’ horror, he serves the monsters’ meat to patrons for that night’s dinner.|
 {.dmidea}
 

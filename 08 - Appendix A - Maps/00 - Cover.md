@@ -1,8 +1,8 @@
 ---
-name: Appendix A - Maps
+name: Annexe A - Plans
 slug: appendix-a-maps-page
 order: 00
 include-in: print
 ---
 
-![Maps](Maps.svg){.size-cover}
+![Carte](Maps.svg){.size-cover}

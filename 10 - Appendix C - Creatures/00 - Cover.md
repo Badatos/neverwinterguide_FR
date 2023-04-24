@@ -1,5 +1,5 @@
 ---
-name: Appendix C - Creatures
+name: Annexe C - Créatures
 slug: appendix-c-creatures-page
 order: 00
 include-in: print

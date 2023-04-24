@@ -1,5 +1,5 @@
 ---
-name: Neverwinter Map
+name: Plan de Padhiver
 slug: neverwinter-map-clean
 order: 10
 cover: ../PrintImages/Maps/NeverwinterMapClean.jpg

@@ -1,13 +1,13 @@
 ---
-name: The Abandoned Townhouse
+name: The Villa abandonnée
 slug: the-abandoned-townhouse
 order: 01
 module-pagebreaks: h1, h2, h3
 ---
 
-![The Abandoned Townhouse Map](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
+![The Villa abandonnée Map](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
 
-# The Abandoned Townhouse
+# The Villa abandonnée
 
 |![Homebrew](../mug.svg)**Contenu "Homebrew"**|
 |---|

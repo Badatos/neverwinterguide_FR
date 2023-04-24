@@ -28,7 +28,7 @@ Masque de Pierre-lune illustration par [Syeda Farwa](https://www.fiverr.com/syed
 
 Léviathan échoué illustration par [Artem Pavlenko](https://www.fiverr.com/skiho_){.neutral}
 
-Shard of the Moon illustration par [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
+Éclat de lune illustration par [Syeda Farwa](https://www.fiverr.com/syedafarrwa){.neutral}
 
 Fallen Tower illustration par [Deryl Arrazaq](https://www.fiverr.com/derylarrazaq){.neutral}
 
