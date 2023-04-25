@@ -28,7 +28,7 @@ hide-footer-text: true
 - [L'éclat de la lune](l-éclat-de-la-lune)
 - [La tour du manteau](la-tour-du-manteau)
 - [La tour déchue](la-tour-déchue)
-- [Quartier de Bluelake](district-de-Bluelake) {.category}
+- [Quartier du Lac Bleu](district-de-Bluelake) {.category}
 - [Lac bleu](lac-bleu)
 - [Maison aux mille visages](maison-aux-mille-visages)
 - [Quartier du gouffre](le-district-du-gouffre) {.category}

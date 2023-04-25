@@ -18,9 +18,9 @@ This Quick Adventure is designed for a party of roughly three to five 5th level 
 
 ## Adventure Background
 
-In the Bluelake district of Padhiver sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Padhiver's residents into madness. Soon after this attack, he left Padhiver for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
+In the Bluelake quartier of Padhiver sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Padhiver's residents into madness. Soon after this attack, he left Padhiver for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
 
-Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake district, but the magical wards on the property have, so far, kept any squatters from taking the property.
+Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake quartier, but the magical wards on the property have, so far, kept any squatters from taking the property.
 
 The Dead Rats gang, who operates in the sewers of Padhiver, has been eying the property for some time. They have recently enlisted one of their mages from Luskan to help break the magic wards on the property so they can claim whatever magical relics might lie within.
 

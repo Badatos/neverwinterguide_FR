@@ -22,7 +22,7 @@ Be sure to check out [Appendix B](point-of-interest-cards-page) for useful shop 
 
 ### Aux défenses solides de Brannur
 
-Brannur Lutgehr, a talented and hard-working young (by dwarven standards) male dwarf, has seen an opportunity à Padhiver's reconstruction efforts. Brannur has opened up a blacksmithing shop à Padhiver's Chasm District to sell armor, tools, and larger pieces of farming equipment (e.g., plows). While the nascent shop is still only positioned to offer the more-standard forms of armor, Brannur is quickly gaining a reputation for well-crafted goods and has even scored some contracts supplying armor to Neverwinter's guard forces.
+Brannur Lutgehr, a talented and hard-working young (by dwarven standards) male dwarf, has seen an opportunity à Padhiver's reconstruction efforts. Brannur has opened up a blacksmithing shop à Padhiver's Chasm Quartier to sell armor, tools, and larger pieces of farming equipment (e.g., plows). While the nascent shop is still only positioned to offer the more-standard forms of armor, Brannur is quickly gaining a reputation for well-crafted goods and has even scored some contracts supplying armor to Neverwinter's guard forces.
 
 The shop is impeccably clean and well-organized. Much of the armor on display is polished to a mirror-like finish and always arranged in a perfectly symmetrical configuration on the shop's walls and stands. If Brannur isn't in the back of the shop working with the forges, he can be found in the front of the shop either sweeping or running around with a cloth to remove any smudges that may have found their way onto one of his works. A customer accidentally bumping one of the armor stands such that it skews slightly is likely to give Brannur an involuntary twitch.
 
@@ -67,25 +67,25 @@ Brannwyn's personality is almost the exact opposite of her brother's, and the "S
 
 ### Parfums et boissons de Priscilla
 
-Parfums et boissons de Priscilla is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake District, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
+Parfums et boissons de Priscilla is owned and operated by a young human woman who goes simply by "Priscilla" — never a last name given. The beautiful shop, located in the Bluelake Quartier, has floor-to-ceiling shelves filled with fresh flowers and glass bottles of vibrantly colored liquids. In fact, there are so many flowers in this shop that a number of newcomers have mistaken it for a florist. All of the cabinetry in the shop is ornately crafted and polished to a shine.
 
 While the shop's name may seem to indicate that it is focused around perfumes and fragrant beverages, Priscilla is an extremely talented alchemist and apothecary. She is capable of making exotic and rare concoctions for the right price. She also has some talent in diagnosing maladies, though she generally doesn't offer those services unless asked explicitly.
 
-While extremely jovial, Priscilla will avoid giving away much personal information. How she came to possess her skills at such a young age, how she could afford such a nice shop in the Bluelake District, and her family history are all mysterious. Local residents of Bluelake will tell you the shop itself seemed to spring up from nowhere overnight. 
+While extremely jovial, Priscilla will avoid giving away much personal information. How she came to possess her skills at such a young age, how she could afford such a nice shop in the Bluelake Quartier, and her family history are all mysterious. Local residents of Bluelake will tell you the shop itself seemed to spring up from nowhere overnight. 
 
 (print-page)
 
-Despite being relatively new to the city, Priscilla is now well known to a large swath de Padhiver residents as a person with great compassion. She frequently donates her goods and services to poorer Neverwinter residents that are truly in need. She even regularly makes her way down to the Chasm District to hand-deliver potions and poultices to the sick or injured.
+Despite being relatively new to the city, Priscilla is now well known to a large swath de Padhiver residents as a person with great compassion. She frequently donates her goods and services to poorer Neverwinter residents that are truly in need. She even regularly makes her way down to the Chasm Quartier to hand-deliver potions and poultices to the sick or injured.
 
 ![Priscilla](Images/Priscilla.jpg =370x)
 
-All the same, her shop is absolutely befitting of the Bluelake District's desire to be restored to noble estates and households. The more-wealthy residents de Padhiver all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents de Padhiver may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
+All the same, her shop is absolutely befitting of the Bluelake Quartier's desire to be restored to noble estates and households. The more-wealthy residents de Padhiver all know of Priscilla and frequent her shop for both her potions and finely-crafted fragrances. The poorer residents de Padhiver may not know of the shop, but will absolutely know of Priscilla herself and her supposed "miracle" cures.
 
 ![Articles divers de Coeur Vif](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
 ### Articles divers de Coeur Vif
 
-Articles divers de Coeur Vif is a general goods store owned by Coeur Vif, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm District. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
+Articles divers de Coeur Vif is a general goods store owned by Coeur Vif, an older female Tabaxi. The storefront is a modest new building that was built upon the foundations of a flattened building in the Chasm Quartier. The recently-constructed building smells of fresh wood, fresh flour, and hanging dried herbs. The offerings are humble, but the shop is tidy.
 
 Coeur Vif, after a long life filled with treasure-seeking adventures, has used her small collection of wealth to settle down and seek retirement. Always bold, however, Coeur Vif intentionally chose to place her shop in an unfamiliar city. She reasoned settling in a strange, new location would at least provide her excitement even in "retirement". Over the course of her travels, she has made numerous connections with suppliers and traders, and surmised she could use these connections to make a profitable little shop. Upon word of the nearly-free land available à Padhiver's now-sealed chasm, she made haste to the city to establish her store.
 
@@ -101,7 +101,7 @@ Coeur Vif now has a relaxed and empathetic disposition, but she will be the firs
 
 ### Acquisitions arcaniques
 
-Acquisitions arcaniques is a shop that sells magical arms and armor located in the Chasm district. The shop is generally very easy to locate, as it will generally be emanating a bright purple, green, or blue glow from one of its many forges and braziers (much to the chagrin of its neighbors). Approaching the shop, a customer will generally hear the banging of hammer on anvil, the hiss of steam valves being released from the many stills and alchemical contraptions, or the roar of seemingly-magical flames.
+Acquisitions arcaniques is a shop that sells magical arms and armor located in the Chasm quartier. The shop is generally very easy to locate, as it will generally be emanating a bright purple, green, or blue glow from one of its many forges and braziers (much to the chagrin of its neighbors). Approaching the shop, a customer will generally hear the banging of hammer on anvil, the hiss of steam valves being released from the many stills and alchemical contraptions, or the roar of seemingly-magical flames.
 
 The shop is run by the eccentric half-elf Wizard named Flinar Ralolar. Flinar wears a robe and goggles around his shop, where he quietly toils away with a perpetual frown on his face. His assistant, a goblin by the name of Gigz, performs most of the mundane blacksmithing at the shop. Patrons will never, however, hear Flinar and Gigz conversing as Flinar chooses to telepathically communicate with his assistant.
 

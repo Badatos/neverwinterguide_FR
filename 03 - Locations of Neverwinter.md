@@ -5,9 +5,9 @@ order: 30
 module-pagebreaks: h1, h2, h3
 ---
 
-# Lieux importants de Padhiver
+# Lieux importants de Padhiver [Neverwinter]
 
-## Castel-Nièvre
+## Castel-Nièvre [Castle Never]
 
 ![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
 
@@ -30,7 +30,7 @@ Tout au long des nombreuses attaques et catastrophes de Padhiver, Castel-Nièvre
 Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées:
 - ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [Myconids](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
 - ***Galerie des Glaces***. Auparavant une longue salle des miroirs où la noblesse pratiquait la démarche et la posture, tout intrus mortel qui entre dans cette salle trouvera une recréation magique de la destruction de la salle. Des éclats de verre miroir volant et des ruines enflammées seront lancés sur tous ceux qui restent trop longtemps dans le hall.
-- ***Jamais en dessous***. Les catacombes sous le château, appelées "Neverneath", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
+- ***Padessous***. Les catacombes sous le château, appelées "Padessous [Neverneath]", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
 - ***La Voûte des Neuf***. Ce tombeau est le lieu de repos des neuf gardes du corps de la lignée royale de Padhiver. La voûte contient une chambre extérieure qui comporte des torches éternelles qui éclairent la pièce lorsque les mortels entrent. Les morts-vivants se cachent dans l’ombre de cette chambre extérieure. La chambre intérieure, scellée derrière une porte en pierre géante portant le sceau de Padhiver, possède neuf cercueils en marbre qui encerclent un trône. Les visiteurs qui parviennent à se rendre dans la chambre intérieure de la Voûte des Neuf et à se reposer peuvent se réveiller pour trouver les esprits des Neuf qui veillent sur eux.
 
 (print-column)
@@ -60,9 +60,9 @@ Malheureusement, l’une des premières parties du château qui *a été* restau
 
 (print-page)
 
-## Enclave du Protecteur
+## Enclave du Protecteur [Protector's Enclave]
 
-### Le palais de justice
+### Le palais de justice [Hall of Justice]
 
 Le palais de justice est aussi le temple principal de Tyr, dieu de la loi et de la justice. Les grands murs de pierre de la salle, ses imposants piliers et son haut toit en dôme en font une structure impressionnante et intimidante. Son intérieur est également assez grand pour abriter de grandes races telles que des géants et des dragons.
 
@@ -79,7 +79,7 @@ Avec la récente résurrection de *Tyr*, le temple lui a été reconsacré, et *
 |*Volo’s Guide to the North*, p. 133 (2nd Edition)|
 {.references}
 
-### La Maison du Savoir
+### La Maison du Savoir [House of Knowledge]
 
 La Maison du Savoir est à la fois une bibliothèque et le temple principal d’*Oghma* dans la ville de Padhiver. Sur le plan architectural, elle est considérée comme l’une des structures les plus impressionnantes et les plus belles de la ville - avec de nombreuses fenêtres et un impressionnant toit voûté. Ses vastes rayonnages contiennent plusieurs siècles d'ouvrages et documents précieux, y compris la paperasse gouvernementale récente, car la ville n’a pas de siège officiel du gouvernement à l’heure actuelle.
 
@@ -104,13 +104,13 @@ Depuis le scellement du gouffre, les fidèles d’Oghma sont retournés au templ
 
 ![Le Masque de Pierre-lune](PrintImages/MoonstoneMaskCover.jpg){.size-cover .no-margin .print-only}
 
-## Les Terres flottantes
+## Les Terres flottantes [Floating Earthmotes]
 
 L’une des caractéristiques les plus enchanteresses de la ville de Padhiver est ses trois grandes terres flottantes. La Magepeste de 1385 CV a provoqué le soulèvement de morceaux de Padhiver (ainsi que d’autres zones de toute la planète Toril) qui ont commencé à flotter. Les habitants industrieux de Padhiver ont pu attacher quelques-unes de ces mottes de terre avec des cordes et les empêcher de s’envoler vers la Côte des épées.
 
 ![Le Masque de Pierre-lune](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
 
-### Le Masque de Pierre-lune
+### Le Masque de Pierre-lune [Moonstone Mask]
 
 Le Masque de Pierre-lune est une grande auberge qui se trouve sur une terre flottante reliée aux quais de l’Enclave du Protecteur. Il est considéré par beaucoup comme l’auberge la plus raffinée et la plus luxueuse de Padhiver. Le lieu porte le nom des demi-masques portés par tout son personnel, qui sont bordés de pierres de lune incandescentes.
 
@@ -128,7 +128,7 @@ Bien que le Masque de Pierre-lune n'emploie plus uniquement des femmes, tous les
 
 La propriétaire actuelle du Masque de Pierre-lune est *Liset Cheldar*, une femme demi-elfe. On dit qu’elle est la descendante de l’ancien propriétaire du Masque, *Ophala Cheldarstorn*. Contrairement à *Ophala*, qui était un mage puissant, *Liset* ne semble pas posséder de tels pouvoirs. Elle est sympathique et connue pour flirter avec les invités.
 
-#### Les commodités du masque
+#### Les commodités du Masque
 
 L’auberge dispose d’une grande salle à manger chaleureuse au rez-de-chaussée. La pièce sert également de salon confortable avec un impressionnant foyer. Le reste du rez-de-chaussée est occupé par des cuisines dédiées à la préparation de la cuisine gastronomique pour les nombreux hôtes de l’auberge. Un grand escalier en colimaçon mène de la salle à manger aux chambres d’hôtes au-dessus. L’atmosphère de la salle à manger est généralement détendue avec des conversations polies partout.
 
@@ -145,7 +145,7 @@ Pour les invités voyageant par les moyens les plus élaborés, le toit comporte
 |***Babioles au sous-sol***. Si les joueurs ont pu se faufiler dans les différentes salles de stockage du sous-sol du Mask sans se faire prendre, ils pourraient trouver toutes sortes d’objets magiques.|
 {.dmidea}
 
-![Liset Cheldar](Images/LisetCheldar.jpg =300x)
+![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =300x) **Liset Cheldar**, propriétaire & aubergiste
 
 (print-page)
 
@@ -163,13 +163,13 @@ Au milieu des années 1400 DR, l’auberge a dérivé vers la mer des épées ap
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
 
-### Château des pirates
+### Fort pirate [Pirates' Skyhold]
 
-Au nord-ouest de Padhiver, juste à côté de la Côte des épées, se trouve une autre terre flottante appelée "Pirates’ Skyhold". Peu de temps après la Magepeste, certains pirates de la région ont noté qu'une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Une bande de pirates, en possession d’un vaisseau spatial, a revendiqué cette terre flottante comme étant la leur et y a construit de modestes fortifications en bois.
+Au nord-ouest de Padhiver, juste à côté de la Côte des épées, se trouve une autre terre flottante appelée "le fort pirate [Pirates' Skyhold]". Peu de temps après la Magepeste, certains pirates de la région ont noté qu'une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Une bande de pirates, en possession d’un vaisseau spatial, a revendiqué cette terre flottante comme étant la leur et y a construit de modestes fortifications en bois.
 
 Une mystérieuse tragédie s’est abattue sur la forteresse qui a laissé la plupart, sinon la totalité, de ses habitants pirates morts ou disparus. Leur vaisseau spatial reste amarré sur la terre flottante comme un étrange rappel de son abandon. Personne ne sait exactement ce qui s’est passé sur la forteresse, mais des dizaines de rumeurs sur l’emplacement circulent à Padhiver. Certains prétendent qu’un dragon s’est emparé de la forteresse, d’autres prétendent qu’il est habité par des Netherese, tandis que d’autres encore prétendent qu’il est hanté par toutes sortes de fantômes.
 
-On dit aussi qu’un trésorcaché existe toujours sur l'île. Les pirates auraient entreposé leur butin dans la forteresse, et compte tenu de leur disparition soudaine, on pense que le trésor doit sûrement encore se trouver quelque part. Cependant, se rendre à la forteresse n’est pas une mince affaire. Une forme de transport aérien ou magique devra être achetée pour accéder à la zone.
+On dit aussi qu’un trésor caché existe toujours sur l'île. Les pirates auraient entreposé leur butin dans la forteresse, et compte tenu de leur disparition soudaine, on pense que le trésor doit sûrement encore se trouver quelque part. Cependant, se rendre à la forteresse n’est pas une mince affaire. Une forme de transport aérien ou magique devra être achetée pour accéder à la zone.
 
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
@@ -184,9 +184,9 @@ On dit aussi qu’un trésorcaché existe toujours sur l'île. Les pirates aurai
 |1 - *Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
 
-### Le Flotteur des pêcheurs
+### Le Flotteur des pêcheurs [Fisher's Float]
 
-Fisher’s Float est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
+Le Flotteur des pêcheurs [Fisher's Float] est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
 
 Alors que ces pêcheurs fournissent pacifiquement une grande partie des fruits de mer de Padhiver, ils parviennent également à en garder une grande partie pour eux. En conséquence, il existe de nombreuses rumeurs sur le Flotteur des pêcheurs. Une rumeur particulièrement répandue est que ses habitants ont sous une forme ou une autre fait allégeance à des dieux marins maléfiques et/ou à des monstres marins.
 
@@ -227,7 +227,7 @@ Un établissement comme le Léviathan échoué ne pourrait exister sans un capit
 
 ***Capitaine Harrag.*** *Le Capitaine Harrag* est un homme costaud et poilu avec une seule jambe (il a perdu l'autre dans un combat avec un sahuagin). Il a un extérieur effrayant et bourru, mais ceux qui le connaissent le mieux savent que l'homme possède une quantité impressionnante de compassion et d'empathie. Le Léviathan échoué est un véritable travail d'amour pour le capitaine, et il tire une immense fierté de l'établissement. Cela dit, *Harrag* n'est pas un enfant de coeur. Il n'hésitera pas à conclure de bonnes affaires pour son entreprise, même si la tactique exige qu'il soit impitoyable. De même, ceux qui menacent l'établissement seront traités rapidement et fermement.
 
-![Capitaine Harrag](Images/CaptainHarrag.jpg =290x)
+![Capitaine Harrag](Images/CaptainHarrag.jpg =290x) **Capitaine Harrag**, propriétaire & capitaine
 
 ##### Personnel ("Équipage")
 
@@ -267,7 +267,7 @@ En 1479, dans le cadre de la bagarre autour du véritable héritier du trône de
 |*Storm Over Padhiver*, p. 17 - 18, (4th Edition)|
 {.references}
 
-### La taverne du bois flotté
+### La taverne du bois flotté [Driftwood Tavern]
 
 Presque plus un musée qu'une taverne, l'établissement haut de gamme et cher "La taverne du bois flotté" se trouve dans la zone des quais nord de Padhiver. La taverne est l'un des plus anciens lieux de consommation de Padhiver - étant déjà en activité avant la Magepeste de 1385 CV. Après le cataclysme de 1451 CV, la taverne servit d'abri aux réfugiés et d'hôtel de ville de fortune, tandis que la ville retrouvait un semblant de normalité.
 
@@ -281,7 +281,7 @@ L'établissement regorge de bric-à-brac. Plutôt que de le considérer comme en
 |*Neverwinter Campaign Setting*, p. 154-155, (4th Edition)|
 {.references}
 
-### La Maison de Commerce de Tarmalune
+### La Maison de commerce de Tarmalune
 
 Un cartel commercial de la ville de Tarmalune s'est procuré un grand complexe d'entrepôts sur les quais sud de Padhiver. En dehors des quais, une large bande de stands a été installée avec des marchandises à vendre. Les marchands de Tarmalune tentent désespérément d'établir une présence commerciale solide dans la région, en grande partie pour contrer leurs marchands rivaux de la ville de Lylorn qui ont récemment établi une route commerciale dans la ville voisine de Luskan.
 
@@ -301,19 +301,19 @@ Un cartel commercial de la ville de Tarmalune s'est procuré un grand complexe d
 
 (print-column)
 
-## Tower District
+## Quartier de la Tour
 
 ![Éclat de lune](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
-### L'Éclat de lune
+### L'Éclat de lune [The Shard of the Moon]
 
-L'Éclat de lune, anciennement appelé "L'Éclat de la Nuit", est une tour flottante située dans le Quartier de la Tour de Padhiver. La tour a connu un voyage riche en histoires à travers le plan matériel et le plan de l'ombre.
+L'Éclat de lune [The Shard of the Moon], anciennement appelé "L'Éclat de la Nuit [The Shard of Night]", est une tour flottante située dans le Quartier de la Tour de Padhiver. La tour a connu un voyage riche en histoires à travers le plan matériel et le plan de l'ombre.
 
 La tour a commencé son existence sous le nom de Salle de l'ombre lunaire, à plus de mille kilomètres de Padhiver, dans la ville de Yhaunn. À la fin du 14ème siècle DR, les Shadovar (habitants de Shadowfell et l'une des rares factions restantes de Néthéril) ont attaqué le temple et ont magiquement arraché l'une de ses tours et l'ont envoyée à Shadowfell. Les Shadovar ont appris qu'ils étaient capables de manifester la tour à des endroits arbitraires dans les royaumes des mortels, et l'ont ainsi placée stratégiquement flottant au-dessus de Padhiver pendant la Magepeste. Les Nétherisses pouvaient utiliser un portail dans la tour pour se déplacer entre Xinlenal et Padhiver.
 
 La tour était noircie et ne projetait aucune ombre dans la journée. C'était en fait parce que le temple était magiquement manipulé pour absorber l'ombre. Cette ombre, à son tour, alimentait les dispositifs de téléportation de la tour. La tour inquiétante qui se dressait au-dessus de nos têtes était largement évitée par tous à Padhiver, car quiconque s'aventurait à l'intérieur ne reviendrait jamais.
 
-![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}
+![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}**Lady Jasmine**, prêtresse de Selûne
 
 (print-page)
 
@@ -325,11 +325,11 @@ En 1479 CV, des aventuriers attaquèrent la tour et permirent aux prêtres de S�
 |*Neverwinter Campaign Setting*, p. 158, (4th Edition)|
 {.references}
 
-### La tour de la cape
+### La tour de la cape [Cloak Tower]
 
 La tour de la cape est une tour de sorciers qui servait de lieu de rencontre et de citadelle à l'ordre des sorciers de la cape aux milles étoiles. La tour a subi une occupation prolongée par les orcs, mais est récemment revenue sous la garde de l'Ordre des capes aux milles étoiles.
 
-#### Fortifications en voie de disparition
+#### Fort disparu
 
 La tour de la cape et tous les sorciers qu'elle contenait ont disparu pendant la Magepeste en 1385 CV. La tour est mystérieusement revenue environ six mois plus tard, bien que dans un nouvel emplacement. Cependant, il n'y avait aucune trace des sorciers qui y avaient autrefois résidé.
 
@@ -339,11 +339,11 @@ Les voleurs n'ont pas localisé l'appareil magique et ils n'ont vu ni sorciers n
 
 #### Infestation d'orcs
 
-La tribu des orcs Mille-Flèches [Many-Arrows], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles, pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n'ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
+La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles[*Many-Starred Cloak*], pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n'ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
 
-*Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu'il n'avait pas de meilleure option. La tour était en fait l'un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu'à ce qu'il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [Many-Arrows] ont décidé de quitter la tour et de se déplacer vers l'est pour aider leurs frères à combattre les nains.
+*Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu'il n'avait pas de meilleure option. La tour était en fait l'un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu'à ce qu'il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [*Many-Arrows*] ont décidé de quitter la tour et de se déplacer vers l'est pour aider leurs frères à combattre les nains.
 
-L'Ordre des capes aux milles étoiles est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles.
+L'Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles[*Many-Starred Cloak*].
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -363,35 +363,35 @@ L'Ordre des capes aux milles étoiles est redevenu actif, certains membres de ra
 
 ### La tour déchue
 
-La tour déchue is a tavern constructed in the ruins of a wizard’s tower. The tavern features a rather unique and macabre nightly spectacle that has kept it a popular drinking location for well over a century.
+La tour déchue est une taverne construite dans les ruines d'une tour de sorcier. La taverne propose un spectacle nocturne assez unique et macabre qui en fait un lieu de consommation populaire depuis plus d'un siècle.
 
-#### The Tower’s History
+#### L'histoire de la tour
 
-Decades before the Magepeste, the tower was owned by a powerful wizard named Llomnauvel "Firehands" Oloadhin. The Arcane Brotherhood coveted Oloadhin’s accumulation of magical items. One night, the Brotherhood violently attacked the tower in an attempt to steal the magical goods and capture Oloadhin. A spectacular magical battle raged throughout the tower. Oloadhin had anticipated the attack and rigged his tower with all manner of magical traps, including maniacal spells that turned the trespassers into lowly sea creatures. However, Oloadhin’s traps were ultimately unable to stop the raid. Rather than let the Arcane Brotherhood take his tower and the contents within, the unhinged Oloadhin triggered a final massive spell that destroyed the tower. As the tower fell in a magical blaze, everyone inside perished (including Oloadhin himself).
+Des décennies avant la Magepeste, la tour appartenait à un puissant sorcier nommé *Llomnauvel "Mains brûlantes" Oloadhin*. La Confrérie des Arcanes convoitait l'accumulation d'objets magiques d'*Oloadhin*. Une nuit, la Confrérie a violemment attaqué la tour dans le but de voler les biens magiques et de capturer *Oloadhin*. Une bataille magique spectaculaire a fait rage dans toute la tour. *Oloadhin* avait anticipé l'attaque et truqué sa tour avec toutes sortes de pièges magiques, y compris des sorts maniaques qui transformaient les intrus en humbles créatures marines. Cependant, les pièges d'*Oloadhin* ont finalement été incapables d'arrêter le raid. Plutôt que de laisser la Confrérie des Arcanes prendre sa tour et son contenu, le déséquilibré *Oloadhin* déclencha un dernier sort massif qui détruisit la tour. Alors que la tour tombait dans un incendie magique, tout le monde à l'intérieur périt (y compris *Llomnauvel* lui-même).
 
 (print-page)
 
-#### The Nightly Show
+#### Le spectacle nocturne
 
-Phantasmic remnants of the tower’s destruction remain at the location. Every night, at the exact time Llomnauvel triggered the explosion that destroyed the tower, visions of those final moments appear at the ruined base of the tower. These silent magical projections depict Brotherhood mages, ablaze, falling helplessly to their deaths. This is soon followed by the Brotherhood’s Overwizard falling similarly while his limbs transform into eels.
+Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque nuit, au moment exact où *Llomnauvel* a déclenché l'explosion qui a détruit la tour, des visions de ces derniers instants apparaissent à la base de la tour en ruine. Ces projections magiques silencieuses représentent des mages de la Confrérie, en feu, tombant impuissants vers la mort. Ceux-ci sont ensuite suivis par le maître de la Confrérie tombant de la même manière, tandis que ses membres se transforment en anguilles.
 
-This seemingly harmless magical vision both horrified and fascinated onlookers. Naturally, some entrepreneurial individuals managed to turn this tragic spectacle into entertainment for locals and travelers alike. The base of the tower was renovated into a tavern. The area of the spectacle was railed off, and tables were placed all around it so that patrons may watch the "show" as they sipped on their drinks. Sadly, the tavern eventually gained a reputation for mediocre, overpriced drinks and a steep cover charge. That, combined with the multiple catastrophes that hit Padhiver in the 15th century DR, eventually left the tavern abandoned.
+Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XVe siècle RD, a laissé la taverne à l'abandon pendant des années.
 
-![Vagdru One-Ear](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
+![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
 
 (print-column)
 
-#### Under New Management
+#### Changement de propriétaire
 
-The Many-Arrow tribe discovered and started to loot the tavern and its vast wine stores when they invaded Padhiver’s Tower District. One night, in the midst of their looting and revelry at the Fallen Tower, the phantasmic images appeared and scared the orcs out of the building. The orcs eventually mustered their courage and, once realizing the phantom images were harmless, returned to the building.
+Lorsqu'ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu'ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
 
-An enterprising single-eared orc named "Vagdru One-Ear" restored the site to being a functioning tavern. By way of a mutual agreement between*Lord Longuebraise* and the leadership of the Many-Arrow tribe, the tavern now serves as a neutral ground between the orcs and other races that occupy the city. All are welcome to enjoy the tavern’s offerings provided they start no trouble. Any troublemakers that violate this truce are likely to face the immediate wrath of the tavern’s regular clientele. The tavern’s current offerings, however, are "humble" and priced accordingly. The wine and ale are inexpensive but satisfactory. Raw meat, of an unknown source, is served up to be prepared over an open cook fire.
+Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu'ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d'origine inconnue, est servie pour être préparée sur un feu ouvert.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Technical Difficulties***. Something goes wrong, and the previously-benign nightly magical visions of the falling mages become real; the flames of the falling mages scorch patrons. Adventurers must contain the Fallen Towers magic lest the tavern’s business be ruined.|
-|***Diplomatic Immunity***. La tour déchue is the perfect place to have a parlay between adventurers and some of the less-respected races of Faerûn.|
-|***The Other White Meat***. Vagdru One-Ear tasks the adventurers with heading out into the wilds to slay some gross-looking, level-appropriate monsters (e.g., [Giant Spiders](/monster/giant-spider){.red} or a [Sibriex](/monster/sibriex){.red}!) and return their corpses as proof of their accomplishments. To the adventurers’ horror, he serves the monsters’ meat to patrons for that night’s dinner.|
+|***Difficultés techniques***. Quelque chose ne va pas, et les visions magiques nocturnes auparavant bénignes des mages qui tombent deviennent réelles; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
+|***Immunité diplomatique***. La tour déchue est l'endroit idéal pour discuter entre les aventuriers et certaines des races les moins respectées de Faerûn.|
+|***L'Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red} ou un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -403,17 +403,17 @@ An enterprising single-eared orc named "Vagdru One-Ear" restored the site to bei
 
 (print-page)
 
-## Bluelake District
+## Quartier du Lac Bleu [Bluelake]
 
-The Bluelake District, formerly the "Blacklake District", was home to many of the noble estates in Padhiver. Most of the estates fared well against the cataclysm thanks to their sturdy construction. However, many were left abandoned after their owners perished in the cataclysm. The abandoned buildings proved fertile ground for the seedy underbelly of the city to gain a foothold. 
+Ce quartier, anciennement "quartier du lac Noir", abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l'abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature reprenne ses droits.
 
-Lord *Longuebraise* and his mercenaries saw great opportunity in resettling the overgrown estates in the district. However, when they attempted to do so, they found themselves attacked by a variety of factions. Seemingly every shadow faction of the city, from the Sons of Alagondar to the Dead Rats, had taken up residence in the area. It became extremely dangerous to traverse this section of the city. In recent years, however, it has improved dramatically.
+*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu'ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions fantômes de la ville, des Fils d'Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, il s'est considérablement amélioré.
 
-### Bluelake
+### Lac Bleu [Bluelake]
 
-Bluelake, formerly called "Blacklake", is a lake that sits in the center of its namesake district. The lake is used for boating activities at times. However, in the summer, the lake’s level decreases dramatically and becomes somewhat more of a swamp.
+Le lac Bleu, anciennement appelé "Lac Noir", est un lac qui se trouve au centre de son quartier éponyme. Le lac est parfois utilisé pour des activités nautiques. Cependant, en été, le niveau du lac diminue considérablement et devient un peu plus marécageux.
 
-The lake became particularly vile and sludge-filled after the eruption of Mount Hautchaud, which filled the lake with ash.*Lord Longuebraise* made dredging and restoring the lake one of his priorities. This effort seems to have been successful, and it was renamed "Bluelake".
+Le lac est devenu particulièrement vil et boueux depuis l'éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -421,24 +421,24 @@ The lake became particularly vile and sludge-filled after the eruption of Mount 
 |*Lost Crown of Padhiver*, p. 33, (4th Edition)|
 {.references}
 
-### House of a Thousand Faces
+### La maison aux mille visages [House of a Thousand Faces]
 
-The House of a Thousand Faces is a comfortable tavern in the Bluelake region of Padhiver. The building was once a boutique clothing store for the rich nobles of the area and is full of mirrors and mannequins displaying antiquated clothing styles. The mannequins and their reflection are what give the building its name of a "Thousand Faces". It features lush and comfortable couches where citizens sit and converse happily. 
+La maison aux mille visages est une taverne confortable dans la région du lac Bleu à Padhiver. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s'assoient et conversent joyeusement.
 
-The basement of the tavern is the secret meeting location for the Padhiver chapter of the Harpers. The Harpers, generally an organization that stands for preserving history and all things "good", have a particularly complicated history in Padhiver. The reputation of the local Padhiver chapter of the Harpers was damaged when one of its high-ranking members was caught acting as a sort of double-agent between*Lord Longuebraise* and the Sons of Alagondar (who opposed Longuebraise’s rule).
+Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. Une organisation qui tend généralement à préserver l'histoire et toutes les choses "bonnes", ont une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu'un de ses membres de haut rang a été surpris en train d'agir comme une sorte d'agent double entre *Lord Longuebraise* et les Fils d'Alagondar (qui s'opposaient au règne de *Longuebraise*).
 
 |![Book](book.svg)**En savoir plus**|
 |---|
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 {.references}
 
-## The Chasm District
+## Le Quartier du Gouffre [Chasm District]
 
-### The Sealed Chasm
+### Le gouffre scellé
 
-When Mount Hautchaud erupted, a giant canyon into a Magepeste-laden section of the Outreterre was torn open in the southeastern quarter of Padhiver. This portion of the city was essentially leveled in the process. From this giant chasm all manner of unnatural beasts emerged. Any that approached the chasm would experience anxiety and other unpleasant mental effects. A wall was erected around the region to contain the horrors that arose from the chasm.
+Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l'Outreterre a été déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été essentiellement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s'approchait du gouffre éprouvait de l'anxiété et d'autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
 
-With immense effort and expense, *Longuebraise* was able to have the chasm sealed shut with powerful magic. The chasm sealed, the district was left as not much more than leveled ruins. The area was made free for the taking. Anyone who wanted to make a settlement in the region was free to claim the land and do so. Bold settlers, particularly those too poor to do so elsewhere, are flocking to the Chasm District to build a new life for themselves. 
+Avec d'immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une magie puissante. Le gouffre scellé, le quartier n'était plus que des ruines rasées. La zone a été rendue libre pour la prise. Quiconque souhaitait établir une colonie dans la région était libre de revendiquer la terre et de le faire. Les colons audacieux, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -446,11 +446,11 @@ With immense effort and expense, *Longuebraise* was able to have the chasm seale
 |*Neverwinter Campaign Setting*, p. 159 - 164, (4th Edition)|
 {.references}
 
-## Neverdeath
+## Pademort [Neverdeath]
 
-Neverdeath is Padhiver’s graveyard. It is divided into two major sections. The Pauper’s section, to the southwest, contains rows upon rows of humble graves. Many are unmarked with nameless souls that perished in one of Padhiver’s numerous tragedies and cataclysms. The other section contains more elaborate mausoleums where nobility and wealthy were laid to rest.
+Pademort [Neverdeath] est le cimetière de Padhiver. Il est divisé en deux grandes sections. La section des pauvres, au sud-ouest, contient des rangées et des rangées de tombes humbles. Beaucoup sont anonymes, avec des âmes sans nom qui ont péri dans l'une des nombreuses tragédies et cataclysmes de Padhiver. L'autre section contient des mausolées plus élaborés, où la noblesse et les riches ont été inhumés.
 
-Both sections of Neverdeath were strongly affected by the Magepeste. In addition to physically altering the landscape of the graveyard, the corpses now spring back to life and attack visitors. Tall walls protect the horrors of the graveyard from attacking the city, and Padhiver’s residents know to stay well away from the horrors that await within. The people of Padhiver now burn their dead.
+Les deux sections de Pademort [Neverdeath] ont été fortement affectées par la Magepeste. En plus de modifier physiquement le paysage du cimetière, les cadavres reprennent vie et attaquent les visiteurs. De hauts murs empêchent les horreurs du cimetière d'attaquer la ville, et les habitants de Padhiver savent qu'il faut rester à l'écart des horreurs qui les attendent. Les habitants de Padhiver brûlent maintenant leurs morts.
 
 
 |![Book](book.svg)**En savoir plus**|
