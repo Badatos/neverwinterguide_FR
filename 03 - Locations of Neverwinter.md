@@ -60,11 +60,11 @@ Malheureusement, l’une des premières parties du château qui *a été* restau
 
 (print-page)
 
-## Enclave du Protecteur [Protector's Enclave]
+## Enclave du Protecteur [Protector’s Enclave]
 
 ### Le palais de justice [Hall of Justice]
 
-Le palais de justice est aussi le temple principal de Tyr, dieu de la loi et de la justice. Les grands murs de pierre de la salle, ses imposants piliers et son haut toit en dôme en font une structure impressionnante et intimidante. Son intérieur est également assez grand pour abriter de grandes races telles que des géants et des dragons.
+Le palais de justice est aussi le temple principal de *Tyr*, dieu de la loi et de la justice. Les grands murs de pierre de la salle, ses imposants piliers et son haut toit en dôme en font une structure impressionnante et intimidante. Son intérieur est également assez grand pour abriter de grandes races telles que des géants et des dragons.
 
 Bien plus qu’un simple temple à une divinité, le palais de justice faisait office de tribunal de la ville pour les affaires mineures (c’est-à-dire excluant les crimes où l’accusé était de naissance noble, sans citoyenneté ou accusé de meurtre). Il servait également de terrain d’exercice et d’entraînement à l’armement discipliné pour les fidèles qui défendaient le temple et ce qu’il représentait. Les fonctions de la salle ont en grande partie cessé avec la mort de Tyr à la fin des années 1300 DR.
 
@@ -81,15 +81,15 @@ Avec la récente résurrection de *Tyr*, le temple lui a été reconsacré, et *
 
 ### La Maison du Savoir [House of Knowledge]
 
-La Maison du Savoir est à la fois une bibliothèque et le temple principal d’*Oghma* dans la ville de Padhiver. Sur le plan architectural, elle est considérée comme l’une des structures les plus impressionnantes et les plus belles de la ville - avec de nombreuses fenêtres et un impressionnant toit voûté. Ses vastes rayonnages contiennent plusieurs siècles d'ouvrages et documents précieux, y compris la paperasse gouvernementale récente, car la ville n’a pas de siège officiel du gouvernement à l’heure actuelle.
+La Maison du Savoir est à la fois une bibliothèque et le temple principal d’*Oghma* dans la ville de Padhiver. Sur le plan architectural, elle est considérée comme l’une des structures les plus impressionnantes et les plus belles de la ville - avec de nombreuses fenêtres et un impressionnant toit voûté. Ses vastes rayonnages contiennent plusieurs siècles d’ouvrages et documents précieux, y compris la paperasse gouvernementale récente, car la ville n’a pas de siège officiel du gouvernement à l’heure actuelle.
 
-Comme une grande partie de Padhiver, la Maison du Savoir a subi une destruction quasi totale avec l’éruption du Mont Hautchaud en 1451 CV. Un jeune maître du savoir dévoué, *Atlavast*, a sauvé une grande partie du précieux contenu de la bibliothèque en scellant le sanctuaire intérieur du temple et en se piégeant à l’intérieur. Seul et dans la solitude, *Atlavast* a réussi à survivre au cataclysme et à sauver des multitudes de tomes, documents et artefacts rares. Cependant, il est rapidement devenu reclus et l’isolement l'a rendu un peu fou. Il a passé son temps à cataloguer et à réorganiser à plusieurs reprises la bibliothèque. Il est devenu extrêmement protecteur de ce contenu. Pendant ce temps, les sections extérieures de la Maison de la Connaissance ont été prises en charge par divers squatters, y compris des cultistes Ashmadai adorateurs du démon.
+Comme une grande partie de Padhiver, la Maison du Savoir a subi une destruction quasi totale avec l’éruption du Mont Hautchaud en 1451 CV. Un jeune maître du savoir dévoué, *Atlavast*, a sauvé une grande partie du précieux contenu de la bibliothèque en scellant le sanctuaire intérieur du temple et en se piégeant à l’intérieur. Seul et dans la solitude, *Atlavast* a réussi à survivre au cataclysme et à sauver des multitudes de tomes, documents et artefacts rares. Cependant, il est rapidement devenu reclus et l’isolement l’a rendu un peu fou. Il a passé son temps à cataloguer et à réorganiser à plusieurs reprises la bibliothèque. Il est devenu extrêmement protecteur de ce contenu. Pendant ce temps, les sections extérieures de la Maison de la Connaissance ont été prises en charge par divers squatters, y compris des cultistes Ashmadai adorateurs du démon.
 
 Depuis le scellement du gouffre, les fidèles d’Oghma sont retournés au temple et travaillent à le restaurer en tant que centre de connaissance et d’apprentissage. Le sévère Grand Scribe *Spivey Liethennson* supervise désormais la reconstruction de la Maison avec une poigne de fer et un tempérament colérique. L’extérieur de la Maison de la Connaissance a déjà été en grande partie restauré, bien que de nombreux travaux restent en cours à l’intérieur. Pourtant, la maison est redevenue un lieu fonctionnel pour ceux qui recherchent des traditions et des archives locales.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Informations gênantes***. Les joueurs à la recherche de connaissances spécifiques sur Padhiver ou la région environnante seraient avisés de considérer la vaste richesse d’informations stockées à la Maison de la Connaissance. Cependant, pour accéder à certaines connaissances, le groupe devra peut-être faire face à l'irritable *Grand Scribe Liethennson* ou au comportement fêlé et surprotecteur du Maître du savoir *Atlavast*. L’un ou l’autre peut faire en sorte que le groupe fasse ses preuves d’une manière ou d’une autre avant de se voir confier le contenu de la bibliothèque.|
+|***Informations gênantes***. Les joueurs à la recherche de connaissances spécifiques sur Padhiver ou la région environnante seraient avisés de considérer la vaste richesse d’informations stockées à la Maison de la Connaissance. Cependant, pour accéder à certaines connaissances, le groupe devra peut-être faire face à l’irritable *Grand Scribe Liethennson* ou au comportement fêlé et surprotecteur du Maître du savoir *Atlavast*. L’un ou l’autre peut faire en sorte que le groupe fasse ses preuves d’une manière ou d’une autre avant de se voir confier le contenu de la bibliothèque.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -108,7 +108,7 @@ Depuis le scellement du gouffre, les fidèles d’Oghma sont retournés au templ
 
 L’une des caractéristiques les plus enchanteresses de la ville de Padhiver est ses trois grandes terres flottantes. La Magepeste de 1385 CV a provoqué le soulèvement de morceaux de Padhiver (ainsi que d’autres zones de toute la planète Toril) qui ont commencé à flotter. Les habitants industrieux de Padhiver ont pu attacher quelques-unes de ces mottes de terre avec des cordes et les empêcher de s’envoler vers la Côte des épées.
 
-![Le Masque de Pierre-lune](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
+![Affichette du Masque de Pierre-lune](Images/POICards/MoonstoneMask.webp){.size-full .screen-only .before-next-page-header}
 
 ### Le Masque de Pierre-lune [Moonstone Mask]
 
@@ -124,7 +124,7 @@ On pourrait supposer que les chambres impeccables et la vue incomparable du Masq
 
 (print-page)
 
-Bien que le Masque de Pierre-lune n'emploie plus uniquement des femmes, tous les employés en contact avec la clientèle sont exceptionnellement attrayants. Les employés sont tous vêtus de noir, chacun portant également les masques éponymes de l'auberge et une amulette. Cependant, ces vêtements ne sont pas de simples uniformes. Les masques fournissent au porteur les capacités de Vision dans le noir, permettant à tout le personnel de traverser gracieusement les zones sombres ou ténébreuses de l'auberge. Les amulettes, également magiques, offrent au personnel une immunité contre la lecture de l'esprit ou le contrôle mental - une qualité importante compte tenu de la quantité d'informations sensibles confiées aux compagnons de l'auberge. Les amulettes permettent également une communication magique avec le propriétaire de l'auberge en utilisant uniquement la télépathie - une caractéristique de sécurité importante si un employé rencontrait un jour un invité indiscipliné ou peu recommandable.
+Bien que le Masque de Pierre-lune n’emploie plus uniquement des femmes, tous les employés en contact avec la clientèle sont exceptionnellement attrayants. Les employés sont tous vêtus de noir, chacun portant également les masques éponymes de l’auberge et une amulette. Cependant, ces vêtements ne sont pas de simples uniformes. Les masques fournissent au porteur les capacités de Vision dans le noir, permettant à tout le personnel de traverser gracieusement les zones sombres ou ténébreuses de l’auberge. Les amulettes, également magiques, offrent au personnel une immunité contre la lecture de l’esprit ou le contrôle mental - une qualité importante compte tenu de la quantité d’informations sensibles confiées aux compagnons de l’auberge. Les amulettes permettent également une communication magique avec le propriétaire de l’auberge en utilisant uniquement la télépathie - une caractéristique de sécurité importante si un employé rencontrait un jour un invité indiscipliné ou peu recommandable.
 
 La propriétaire actuelle du Masque de Pierre-lune est *Liset Cheldar*, une femme demi-elfe. On dit qu’elle est la descendante de l’ancien propriétaire du Masque, *Ophala Cheldarstorn*. Contrairement à *Ophala*, qui était un mage puissant, *Liset* ne semble pas posséder de tels pouvoirs. Elle est sympathique et connue pour flirter avec les invités.
 
@@ -163,13 +163,13 @@ Au milieu des années 1400 DR, l’auberge a dérivé vers la mer des épées ap
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
 
-### Fort pirate [Pirates' Skyhold]
+### Le Fort aérien des pirates [Pirates’ Skyhold]
 
-Au nord-ouest de Padhiver, juste à côté de la Côte des épées, se trouve une autre terre flottante appelée "le fort pirate [Pirates' Skyhold]". Peu de temps après la Magepeste, certains pirates de la région ont noté qu'une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Une bande de pirates, en possession d’un vaisseau spatial, a revendiqué cette terre flottante comme étant la leur et y a construit de modestes fortifications en bois.
+Au nord-ouest de Padhiver, juste à côté de la Côte des épées, se trouve une autre terre flottante appelée "le fort aérien des pirates [Pirates’ Skyhold]". Peu de temps après la Magepeste, certains pirates de la région ont noté qu’une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Une bande de pirates, en possession d’un vaisseau spatial, a revendiqué cette terre flottante comme étant la leur et y a construit de modestes fortifications en bois.
 
 Une mystérieuse tragédie s’est abattue sur la forteresse qui a laissé la plupart, sinon la totalité, de ses habitants pirates morts ou disparus. Leur vaisseau spatial reste amarré sur la terre flottante comme un étrange rappel de son abandon. Personne ne sait exactement ce qui s’est passé sur la forteresse, mais des dizaines de rumeurs sur l’emplacement circulent à Padhiver. Certains prétendent qu’un dragon s’est emparé de la forteresse, d’autres prétendent qu’il est habité par des Netherese, tandis que d’autres encore prétendent qu’il est hanté par toutes sortes de fantômes.
 
-On dit aussi qu’un trésor caché existe toujours sur l'île. Les pirates auraient entreposé leur butin dans la forteresse, et compte tenu de leur disparition soudaine, on pense que le trésor doit sûrement encore se trouver quelque part. Cependant, se rendre à la forteresse n’est pas une mince affaire. Une forme de transport aérien ou magique devra être achetée pour accéder à la zone.
+On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates auraient entreposé leur butin dans la forteresse, et compte tenu de leur disparition soudaine, on pense que le trésor doit sûrement encore se trouver quelque part. Cependant, se rendre à la forteresse n’est pas une mince affaire. Une forme de transport aérien ou magique devra être achetée pour accéder à la zone.
 
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
@@ -184,9 +184,9 @@ On dit aussi qu’un trésor caché existe toujours sur l'île. Les pirates aura
 |1 - *Neverwinter Campaign Setting*, p. 148, (4th Edition)|
 {.references}
 
-### Le Flotteur des pêcheurs [Fisher's Float]
+### Le Flotteur des pêcheurs [Fisher’s Float]
 
-Le Flotteur des pêcheurs [Fisher's Float] est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
+Le Flotteur des pêcheurs [Fisher’s Float] est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
 
 Alors que ces pêcheurs fournissent pacifiquement une grande partie des fruits de mer de Padhiver, ils parviennent également à en garder une grande partie pour eux. En conséquence, il existe de nombreuses rumeurs sur le Flotteur des pêcheurs. Une rumeur particulièrement répandue est que ses habitants ont sous une forme ou une autre fait allégeance à des dieux marins maléfiques et/ou à des monstres marins.
 
@@ -197,7 +197,7 @@ Alors que ces pêcheurs fournissent pacifiquement une grande partie des fruits d
 
 (print-page-single-column)
 
-## Les Docks
+## Quartier des quais
 
 ![Le Léviathan échoué](Images/POICards/BeachedLeviathan.webp){.size-full .screen-only .before-next-page-header}
 
@@ -223,41 +223,41 @@ Il est également extrêmement courant de trouver un certain nombre de factions 
 
 #### Fidèles compagnons de bord
 
-Un établissement comme le Léviathan échoué ne pourrait exister sans un capitaine intrépide et un équipage chaleureux pour le seconder. Le Léviathan échoué a une collection colorée de personnel et d'habitués qui font de l'endroit un lieu si intéressant. Devenir un habitué de la taverne est susceptible de vous valoir un surnom approprié sur le thème nautique.
+Un établissement comme le Léviathan échoué ne pourrait exister sans un capitaine intrépide et un équipage chaleureux pour le seconder. Le Léviathan échoué a une collection colorée de personnel et d’habitués qui font de l’endroit un lieu si intéressant. Devenir un habitué de la taverne est susceptible de vous valoir un surnom approprié sur le thème nautique.
 
-***Capitaine Harrag.*** *Le Capitaine Harrag* est un homme costaud et poilu avec une seule jambe (il a perdu l'autre dans un combat avec un sahuagin). Il a un extérieur effrayant et bourru, mais ceux qui le connaissent le mieux savent que l'homme possède une quantité impressionnante de compassion et d'empathie. Le Léviathan échoué est un véritable travail d'amour pour le capitaine, et il tire une immense fierté de l'établissement. Cela dit, *Harrag* n'est pas un enfant de cœur. Il n'hésitera pas à conclure de bonnes affaires pour son entreprise, même si la tactique exige qu'il soit impitoyable. De même, ceux qui menacent l'établissement seront traités rapidement et fermement.
+***Capitaine Harrag.*** *Le Capitaine Harrag* est un homme costaud et poilu avec une seule jambe (il a perdu l’autre dans un combat avec un sahuagin). Il a un extérieur effrayant et bourru, mais ceux qui le connaissent le mieux savent que l’homme possède une quantité impressionnante de compassion et d’empathie. Le Léviathan échoué est un véritable travail d’amour pour le capitaine, et il tire une immense fierté de l’établissement. Cela dit, *Harrag* n’est pas un enfant de cœur. Il n’hésitera pas à conclure de bonnes affaires pour son entreprise, même si la tactique exige qu’il soit impitoyable. De même, ceux qui menacent l’établissement seront traités rapidement et fermement.
 
 ![Capitaine Harrag](Images/CaptainHarrag.jpg =290x) **Capitaine Harrag**, propriétaire & capitaine
 
 ##### Personnel ("Équipage")
 
-***Andrella.*** "Camarade" - *Andrella* est le bras droit de Harrag. Une humaine d'âge moyen, elle est la barmaid principale (*Jyseria*, *Sandrine* et *Willow* étant les autres barmaids). Elle dirige le personnel quand *Harrag* n'est pas là et se soucie très profondément de lui. Elle a développé une sorte d'amour secret et non partagé pour le capitaine.
+***Andrella.*** "Camarade" - *Andrella* est le bras droit de Harrag. Une humaine d’âge moyen, elle est la barmaid principale (*Jyseria*, *Sandrine* et *Willow* étant les autres barmaids). Elle dirige le personnel quand *Harrag* n’est pas là et se soucie très profondément de lui. Elle a développé une sorte d’amour secret et non partagé pour le capitaine.
 
 ***Feng.*** Un très grand mâle demi-orc, *Feng* sert de videur de la taverne.
 
-***Tabnab.*** Un homme bizarre, *Tabnab* est le cuisinier de l'auberge.
+***Tabnab.*** Un homme bizarre, *Tabnab* est le cuisinier de l’auberge.
 
 ##### Habitués
 
-***Len-jes.*** "Capitaine de port" - *Len-jes*, une genasi de l'eau cicatrisée, est en fait la capitaine du port de Padhiver. Elle loue une chambre au Léviathan échoué de manière semi-régulière.
+***Len-jes.*** "Capitaine de port" - *Len-jes*, une genasi de l’eau cicatrisée, est en fait la capitaine du port de Padhiver. Elle loue une chambre au Léviathan échoué de manière semi-régulière.
 
-***Umi.*** "Barreuse" - *Umi*, également une femme genasi de l’eau, est la cousine de *Len-jes* et sert de remplaçante à *Feng* si une situation à la taverne devient trop tapageuse. Elle est très habile avec l'épée.
+***Umi.*** "Barreuse" - *Umi*, également une femme genasi de l’eau, est la cousine de *Len-jes* et sert de remplaçante à *Feng* si une situation à la taverne devient trop tapageuse. Elle est très habile avec l’épée.
 
-***Bobrik Haut-manteau.*** "Maître d'équipage" - *Bobrik*, un nain mâle corpulent avec un singe de compagnie, est un habitué du bar. Il a un tempérament fougueux qui le fait parfois expulser de la taverne pendant quelques jours.
+***Bobrik Haut-manteau.*** "Maître d’équipage" - *Bobrik*, un nain mâle corpulent avec un singe de compagnie, est un habitué du bar. Il a un tempérament fougueux qui le fait parfois expulser de la taverne pendant quelques jours.
 
-***Markul.*** "Vigie" - *Markul*, un jeune humain, écoute constamment tout ce qui se passe à la taverne. Pour le juste prix, il est prêt à partager les secrets qu'il a appris, tant qu'il ne s'agit pas de secrets qui, selon lui, nuiraient au Léviathan.
+***Markul.*** "Vigie" - *Markul*, un jeune humain, écoute constamment tout ce qui se passe à la taverne. Pour le juste prix, il est prêt à partager les secrets qu’il a appris, tant qu’il ne s’agit pas de secrets qui, selon lui, nuiraient au Léviathan.
 
-***Ettain.*** "Calfateur" - *Ettain*, un homme demi-elfe, travaille comme bricoleur du navire. C'est un charpentier qualifié qui peut réparer le navire ainsi que fabriquer ou réparer ses meubles en cas de besoin. Il connaît chaque centimètre carré du navire, y compris ses secrets.
+***Ettain.*** "Calfateur" - *Ettain*, un homme demi-elfe, travaille comme bricoleur du navire. C’est un charpentier qualifié qui peut réparer le navire ainsi que fabriquer ou réparer ses meubles en cas de besoin. Il connaît chaque centimètre carré du navire, y compris ses secrets.
 
-***Korin.*** "Chanteur" - Korin, un barde draconique d'âge moyen, joue de la musique et chante à la taverne. Il est souvent connu pour faire chanter tout le bar des chants de marins et des chansons folkloriques. Il accepte volontiers les pourboires et les boissons. Sa famille a été massacrée par des cultistes, qu'il transformera parfois en un chant funèbre chargé de chagrin.
+***Korin.*** "Chanteur" - Korin, un barde draconique d’âge moyen, joue de la musique et chante à la taverne. Il est souvent connu pour faire chanter tout le bar des chants de marins et des chansons folkloriques. Il accepte volontiers les pourboires et les boissons. Sa famille a été massacrée par des cultistes, qu’il transformera parfois en un chant funèbre chargé de chagrin.
 
 (print-page)
 
 #### Eaux troubles
 
-Tout au long de son histoire relativement brève à Padhiver, le Léviathan échoué s'est retrouvé mêlé à des conflits malgrès son humilité apparente. C'est en grande partie à cause du type de patronage autorisé dans le Léviathan, en plus de la propre implication de *Lord Longuebraise* dans la région. C'est avec le soutien et le patronage du *Seigneur Protecteur* que *Harrag* a pu créer l'établissement - car *Longuebraise* a effacé le dossier de ses nombreux crimes en haute mer. Cela a fait de du capitaine un véritable loyaliste à *Longuebraise*, qui utilise *Harrag* pour ses propres ambitions. *Longuebraise* est même allé jusqu'à transformer l'ombre de *Harrag* en une créature utilisée pour espionner l'établissement.
+Tout au long de son histoire relativement brève à Padhiver, le Léviathan échoué s’est retrouvé mêlé à des conflits malgrès son humilité apparente. C’est en grande partie à cause du type de patronage autorisé dans le Léviathan, en plus de la propre implication de *Lord Longuebraise* dans la région. C’est avec le soutien et le patronage du *Seigneur Protecteur* que *Harrag* a pu créer l’établissement - car *Longuebraise* a effacé le dossier de ses nombreux crimes en haute mer. Cela a fait de du capitaine un véritable loyaliste à *Longuebraise*, qui utilise *Harrag* pour ses propres ambitions. *Longuebraise* est même allé jusqu’à transformer l’ombre de *Harrag* en une créature utilisée pour espionner l’établissement.
 
-En 1479, dans le cadre de la bagarre autour du véritable héritier du trône de Padhiver et de la couronne perdue d'Alagondar, le Léviathan fut attaqué par des membres furieux de Padhiver. Le Léviathan ne fut sauvé que grâce à l'intervention d'aventuriers et du général en chef de *Longuebraise*, le *général Sabine*. Plus tard, cette même année, des cultistes et des démons Ashmadai infiltrèrent le Léviathan échoué et tuèrent l'un des principaux conseillers du *général Sabine*. Cela faisait finalement partie d'un complot plus vaste mené par un puissant mage nommé *Elden Vargas* pour utiliser les pouvoirs d'Asmodeus à ses propres fins.
+En 1479, dans le cadre de la bagarre autour du véritable héritier du trône de Padhiver et de la couronne perdue d’Alagondar, le Léviathan fut attaqué par des membres furieux de Padhiver. Le Léviathan ne fut sauvé que grâce à l’intervention d’aventuriers et du général en chef de *Longuebraise*, le *général Sabine*. Plus tard, cette même année, des cultistes et des démons Ashmadai infiltrèrent le Léviathan échoué et tuèrent l’un des principaux conseillers du *général Sabine*. Cela faisait finalement partie d’un complot plus vaste mené par un puissant mage nommé *Elden Vargas* pour utiliser les pouvoirs d’Asmodeus à ses propres fins.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -269,11 +269,11 @@ En 1479, dans le cadre de la bagarre autour du véritable héritier du trône de
 
 ### La taverne du bois flotté [Driftwood Tavern]
 
-Presque plus un musée qu'une taverne, l'établissement haut de gamme et cher "La taverne du bois flotté" se trouve dans la zone des quais nord de Padhiver. La taverne est l'un des plus anciens lieux de consommation de Padhiver - étant déjà en activité avant la Magepeste de 1385 CV. Après le cataclysme de 1451 CV, la taverne servit d'abri aux réfugiés et d'hôtel de ville de fortune, tandis que la ville retrouvait un semblant de normalité.
+Presque plus un musée qu’une taverne, l’établissement haut de gamme et cher "La taverne du bois flotté" se trouve dans la zone des quais nord de Padhiver. La taverne est l’un des plus anciens lieux de consommation de Padhiver - étant déjà en activité avant la Magepeste de 1385 CV. Après le cataclysme de 1451 CV, la taverne servit d’abri aux réfugiés et d’hôtel de ville de fortune, tandis que la ville retrouvait un semblant de normalité.
 
-L'établissement regorge de bric-à-brac. Plutôt que de le considérer comme encombré ou désorganisé, beaucoup le considèrent comme un bel hommage à l'ancien Padhiver et un élément essentiel de la préservation de l'histoire de la ville. En effet, de nombreux voyageurs visitent la taverne et paient ses prix élevés pour les boissons et/ou l'hébergement simplement pour profiter des reliques recueillies à l'établissement.
+L’établissement regorge de bric-à-brac. Plutôt que de le considérer comme encombré ou désorganisé, beaucoup le considèrent comme un bel hommage à l’ancien Padhiver et un élément essentiel de la préservation de l’histoire de la ville. En effet, de nombreux voyageurs visitent la taverne et paient ses prix élevés pour les boissons et/ou l’hébergement simplement pour profiter des reliques recueillies à l’établissement.
 
-*Madame Rosene*, aujourd'hui âgée d'environ 70 ans, dirige l'établissement. En 1479 CV, elle était secrètement le chef des Fils d'Alagondar (c'est-à-dire les Manteaux gris), un groupe rebelle qui s'opposait au règne de *Lord Longuebraise* dans la ville. La faction, maintenant, a largement fait la paix avec le règne de *Longuebraise*, de nombreux membres s'enrôlant même dans l'armée de Padhiver (estimant qu'il valait mieux qu'ils contrôlent leur propre armée plutôt que de continuer à laisser les mercenaires Mintarn avoir le pouvoir dans la ville). *Madame Rosene* est une source de connaissances sur l'histoire de la ville et se fera un plaisir de discuter du bon vieux temps avec les clients.
+*Madame Rosene*, aujourd’hui âgée d’environ 70 ans, dirige l’établissement. En 1479 CV, elle était secrètement le chef des Fils d’Alagondar (c’est-à-dire les Manteaux gris), un groupe rebelle qui s’opposait au règne de *Lord Longuebraise* dans la ville. La faction, maintenant, a largement fait la paix avec le règne de *Longuebraise*, de nombreux membres s’enrôlant même dans l’armée de Padhiver (estimant qu’il valait mieux qu’ils contrôlent leur propre armée plutôt que de continuer à laisser les mercenaires Mintarn avoir le pouvoir dans la ville). *Madame Rosene* est une source de connaissances sur l’histoire de la ville et se fera un plaisir de discuter du bon vieux temps avec les clients.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -283,11 +283,11 @@ L'établissement regorge de bric-à-brac. Plutôt que de le considérer comme en
 
 ### La Maison de commerce de Tarmalune
 
-Un cartel commercial de la ville de Tarmalune s'est procuré un grand complexe d'entrepôts sur les quais sud de Padhiver. En dehors des quais, une large bande de stands a été installée avec des marchandises à vendre. Les marchands de Tarmalune tentent désespérément d'établir une présence commerciale solide dans la région, en grande partie pour contrer leurs marchands rivaux de la ville de Lylorn qui ont récemment établi une route commerciale dans la ville voisine de Luskan.
+Un cartel commercial de la ville de Tarmalune s’est procuré un grand complexe d’entrepôts sur les quais sud de Padhiver. En dehors des quais, une large bande de stands a été installée avec des marchandises à vendre. Les marchands de Tarmalune tentent désespérément d’établir une présence commerciale solide dans la région, en grande partie pour contrer leurs marchands rivaux de la ville de Lylorn qui ont récemment établi une route commerciale dans la ville voisine de Luskan.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Pas de livraison gratuite en deux jours***. Si vos joueurs ont besoin de quelque chose de très spécifique et difficile à acquérir, il serait assez raisonnable que le vaste réseau commercial de Tarmalune puisse se procurer l'objet. Cependant, il serait *aussi* tout à fait raisonnable de s'attendre à ce que cette faveur ait un prix élevé et prenne un certain temps. Après tout, il faut beaucoup de temps, beaucoup de ressources et beaucoup de risques pour parcourir une telle distance à Toril.|
+|***Pas de livraison gratuite en deux jours***. Si vos joueurs ont besoin de quelque chose de très spécifique et difficile à acquérir, il serait assez raisonnable que le vaste réseau commercial de Tarmalune puisse se procurer l’objet. Cependant, il serait *aussi* tout à fait raisonnable de s’attendre à ce que cette faveur ait un prix élevé et prenne un certain temps. Après tout, il faut beaucoup de temps, beaucoup de ressources et beaucoup de risques pour parcourir une telle distance à Toril.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -305,19 +305,19 @@ Un cartel commercial de la ville de Tarmalune s'est procuré un grand complexe d
 
 ![Éclat de lune](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
-### L'Éclat de lune [The Shard of the Moon]
+### L’Éclat de lune [The Shard of the Moon]
 
-L'Éclat de lune [The Shard of the Moon], anciennement appelé "L'Éclat de la Nuit [The Shard of Night]", est une tour flottante située dans le Quartier de la Tour de Padhiver. La tour a connu un voyage riche en histoires à travers le plan matériel et le plan de l'ombre.
+L’Éclat de lune [The Shard of the Moon], anciennement appelé "L’Éclat de la Nuit [The Shard of Night]", est une tour flottante située dans le Quartier de la Tour de Padhiver. La tour a connu un voyage riche en histoires à travers le plan matériel et le plan de l’ombre.
 
-La tour a commencé son existence sous le nom de Salle de l'ombre lunaire, à plus de mille kilomètres de Padhiver, dans la ville de Yhaunn. À la fin du 14ème siècle DR, les Shadovar (habitants de Shadowfell et l'une des rares factions restantes de Néthéril) ont attaqué le temple et ont magiquement arraché l'une de ses tours et l'ont envoyée à Shadowfell. Les Shadovar ont appris qu'ils étaient capables de manifester la tour à des endroits arbitraires dans les royaumes des mortels, et l'ont ainsi placée stratégiquement flottant au-dessus de Padhiver pendant la Magepeste. Les Nétherisses pouvaient utiliser un portail dans la tour pour se déplacer entre Xinlenal et Padhiver.
+La tour a commencé son existence sous le nom de Salle de l’ombre lunaire, à plus de mille kilomètres de Padhiver, dans la ville de Yhaunn. À la fin du 14ème siècle DR, les Shadovar (habitants de Shadowfell et l’une des rares factions restantes de Néthéril) ont attaqué le temple et ont magiquement arraché l’une de ses tours et l’ont envoyée à Shadowfell. Les Shadovar ont appris qu’ils étaient capables de manifester la tour à des endroits arbitraires dans les royaumes des mortels, et l’ont ainsi placée stratégiquement flottant au-dessus de Padhiver pendant la Magepeste. Les Nétherisses pouvaient utiliser un portail dans la tour pour se déplacer entre Xinlenal et Padhiver.
 
-La tour était noircie et ne projetait aucune ombre dans la journée. C'était en fait parce que le temple était magiquement manipulé pour absorber l'ombre. Cette ombre, à son tour, alimentait les dispositifs de téléportation de la tour. La tour inquiétante qui se dressait au-dessus de nos têtes était largement évitée par tous à Padhiver, car quiconque s'aventurait à l'intérieur ne reviendrait jamais.
+La tour était noircie et ne projetait aucune ombre dans la journée. C’était en fait parce que le temple était magiquement manipulé pour absorber l’ombre. Cette ombre, à son tour, alimentait les dispositifs de téléportation de la tour. La tour inquiétante qui se dressait au-dessus de nos têtes était largement évitée par tous à Padhiver, car quiconque s’aventurait à l’intérieur ne reviendrait jamais.
 
 ![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}**Lady Jasmine**, prêtresse de Selûne
 
 (print-page)
 
-En 1479 CV, des aventuriers attaquèrent la tour et permirent aux prêtres de Sélune de revenir dans la tour et d'effectuer une purification, redonnant à la tour son aspect blanc d'albâtre. Maintenant, la nuit, lorsque trois éclats magiques sont placés à l'intérieur ou au-dessous de la tour flottante, un escalier de clair de lune solide descend de l'entrée de la tour. Les prêtres de Sélune n'autoriseront que les visiteurs de confiance à entrer dans la tour. Les visiteurs particulièrement dignes de confiance qui prennent un long repos dans la tour constatent qu'ils reçoivent une poussée de guérison supplémentaire jusqu'à leur prochain long repos.
+En 1479 CV, des aventuriers attaquèrent la tour et permirent aux prêtres de Sélune de revenir dans la tour et d’effectuer une purification, redonnant à la tour son aspect blanc d’albâtre. Maintenant, la nuit, lorsque trois éclats magiques sont placés à l’intérieur ou au-dessous de la tour flottante, un escalier de clair de lune solide descend de l’entrée de la tour. Les prêtres de Sélune n’autoriseront que les visiteurs de confiance à entrer dans la tour. Les visiteurs particulièrement dignes de confiance qui prennent un long repos dans la tour constatent qu’ils reçoivent une poussée de guérison supplémentaire jusqu’à leur prochain long repos.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -327,23 +327,23 @@ En 1479 CV, des aventuriers attaquèrent la tour et permirent aux prêtres de S�
 
 ### La tour de la cape [Cloak Tower]
 
-La tour de la cape est une tour de sorciers qui servait de lieu de rencontre et de citadelle à l'ordre des sorciers de la cape aux milles étoiles. La tour a subi une occupation prolongée par les orcs, mais est récemment revenue sous la garde de l'Ordre des capes aux milles étoiles.
+La tour de la cape est une tour de sorciers qui servait de lieu de rencontre et de citadelle à l’ordre des sorciers de la cape aux milles étoiles. La tour a subi une occupation prolongée par les orcs, mais est récemment revenue sous la garde de l’Ordre des capes aux milles étoiles.
 
 #### Fort disparu
 
-La tour de la cape et tous les sorciers qu'elle contenait ont disparu pendant la Magepeste en 1385 CV. La tour est mystérieusement revenue environ six mois plus tard, bien que dans un nouvel emplacement. Cependant, il n'y avait aucune trace des sorciers qui y avaient autrefois résidé.
+La tour de la cape et tous les sorciers qu’elle contenait ont disparu pendant la Magepeste en 1385 CV. La tour est mystérieusement revenue environ six mois plus tard, bien que dans un nouvel emplacement. Cependant, il n’y avait aucune trace des sorciers qui y avaient autrefois résidé.
 
-Naturellement, une fois la tour revenue à Padhiver, il n'a pas fallu longtemps aux voleurs pour tenter de la piller. Après tout, on pensait que la tour contenait un merveilleux dispositif magique trouvé dans une ruine nétherisses appelée "Pantographe universel de Halavar". L'appareil aurait pu dupliquer des objets métalliques "de la taille d'un grand trône ou plus petit" - cela comprenait des pièces de monnaie ! Cependant, tous les voleurs ont rapidement péri dans la tour, laissant un seul survivant pour raconter les histoires de ce qui a été vu.
+Naturellement, une fois la tour revenue à Padhiver, il n’a pas fallu longtemps aux voleurs pour tenter de la piller. Après tout, on pensait que la tour contenait un merveilleux dispositif magique trouvé dans une ruine nétherisses appelée "Pantographe universel de Halavar". L’appareil aurait pu dupliquer des objets métalliques "de la taille d’un grand trône ou plus petit" - cela comprenait des pièces de monnaie ! Cependant, tous les voleurs ont rapidement péri dans la tour, laissant un seul survivant pour raconter les histoires de ce qui a été vu.
 
-Les voleurs n'ont pas localisé l'appareil magique et ils n'ont vu ni sorciers ni leurs corps. Les capes colorées restèrent cependant mystérieusement accrochées aux patères où elles avaient été laissées. Soudain, les capes colorées ont pris vie et ont étouffé les voleurs à mort, sauf le seul survivant.
+Les voleurs n’ont pas localisé l’appareil magique et ils n’ont vu ni sorciers ni leurs corps. Les capes colorées restèrent cependant mystérieusement accrochées aux patères où elles avaient été laissées. Soudain, les capes colorées ont pris vie et ont étouffé les voleurs à mort, sauf le seul survivant.
 
-#### Infestation d'orcs
+#### Infestation d’orcs
 
-La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles[*Many-Starred Cloak*], pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n'ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
+La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles[*Many-Starred Cloak*], pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n’ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
 
-*Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu'il n'avait pas de meilleure option. La tour était en fait l'un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu'à ce qu'il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [*Many-Arrows*] ont décidé de quitter la tour et de se déplacer vers l'est pour aider leurs frères à combattre les nains.
+*Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu’il n’avait pas de meilleure option. La tour était en fait l’un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu’à ce qu’il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [*Many-Arrows*] ont décidé de quitter la tour et de se déplacer vers l’est pour aider leurs frères à combattre les nains.
 
-L'Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles[*Many-Starred Cloak*].
+L’Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles[*Many-Starred Cloak*].
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -363,19 +363,19 @@ L'Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif,
 
 ### La tour déchue
 
-La tour déchue est une taverne construite dans les ruines d'une tour de sorcier. La taverne propose un spectacle nocturne assez unique et macabre qui en fait un lieu de consommation populaire depuis plus d'un siècle.
+La tour déchue est une taverne construite dans les ruines d’une tour de sorcier. La taverne propose un spectacle nocturne assez unique et macabre qui en fait un lieu de consommation populaire depuis plus d’un siècle.
 
-#### L'histoire de la tour
+#### L’histoire de la tour
 
-Des décennies avant la Magepeste, la tour appartenait à un puissant sorcier nommé *Llomnauvel "Mains brûlantes" Oloadhin*. La Confrérie des Arcanes convoitait l'accumulation d'objets magiques d'*Oloadhin*. Une nuit, la Confrérie a violemment attaqué la tour dans le but de voler les biens magiques et de capturer *Oloadhin*. Une bataille magique spectaculaire a fait rage dans toute la tour. *Oloadhin* avait anticipé l'attaque et truqué sa tour avec toutes sortes de pièges magiques, y compris des sorts maniaques qui transformaient les intrus en humbles créatures marines. Cependant, les pièges d'*Oloadhin* ont finalement été incapables d'arrêter le raid. Plutôt que de laisser la Confrérie des Arcanes prendre sa tour et son contenu, le déséquilibré *Oloadhin* déclencha un dernier sort massif qui détruisit la tour. Alors que la tour tombait dans un incendie magique, tout le monde à l'intérieur périt (y compris *Llomnauvel* lui-même).
+Des décennies avant la Magepeste, la tour appartenait à un puissant sorcier nommé *Llomnauvel "Mains brûlantes" Oloadhin*. La Confrérie des Arcanes convoitait l’accumulation d’objets magiques d’*Oloadhin*. Une nuit, la Confrérie a violemment attaqué la tour dans le but de voler les biens magiques et de capturer *Oloadhin*. Une bataille magique spectaculaire a fait rage dans toute la tour. *Oloadhin* avait anticipé l’attaque et truqué sa tour avec toutes sortes de pièges magiques, y compris des sorts maniaques qui transformaient les intrus en humbles créatures marines. Cependant, les pièges d’*Oloadhin* ont finalement été incapables d’arrêter le raid. Plutôt que de laisser la Confrérie des Arcanes prendre sa tour et son contenu, le déséquilibré *Oloadhin* déclencha un dernier sort massif qui détruisit la tour. Alors que la tour tombait dans un incendie magique, tout le monde à l’intérieur périt (y compris *Llomnauvel* lui-même).
 
 (print-page)
 
 #### Le spectacle nocturne
 
-Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque nuit, au moment exact où *Llomnauvel* a déclenché l'explosion qui a détruit la tour, des visions de ces derniers instants apparaissent à la base de la tour en ruine. Ces projections magiques silencieuses représentent des mages de la Confrérie, en feu, tombant impuissants vers la mort. Ceux-ci sont ensuite suivis par le maître de la Confrérie tombant de la même manière, tandis que ses membres se transforment en anguilles.
+Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque nuit, au moment exact où *Llomnauvel* a déclenché l’explosion qui a détruit la tour, des visions de ces derniers instants apparaissent à la base de la tour en ruine. Ces projections magiques silencieuses représentent des mages de la Confrérie, en feu, tombant impuissants vers la mort. Ceux-ci sont ensuite suivis par le maître de la Confrérie tombant de la même manière, tandis que ses membres se transforment en anguilles.
 
-Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XVe siècle RD, a laissé la taverne à l'abandon pendant des années.
+Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XVe siècle RD, a laissé la taverne à l’abandon pendant des années.
 
 ![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
 
@@ -383,15 +383,15 @@ Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné 
 
 #### Changement de propriétaire
 
-Lorsqu'ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu'ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
+Lorsqu’ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu’ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
 
-Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu'ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d'origine inconnue, est servie pour être préparée sur un feu ouvert.
+Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu’ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d’origine inconnue, est servie pour être préparée sur un feu ouvert.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
 |***Difficultés techniques***. Quelque chose ne va pas, et les visions magiques nocturnes auparavant bénignes des mages qui tombent deviennent réelles; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
-|***Immunité diplomatique***. La tour déchue est l'endroit idéal pour discuter entre les aventuriers et certaines des races les moins respectées de Faerûn.|
-|***L'Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red} ou un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
+|***Immunité diplomatique***. La tour déchue est l’endroit idéal pour discuter entre les aventuriers et certaines des races les moins respectées de Faerûn.|
+|***L’Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red} ou un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -405,15 +405,15 @@ Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le 
 
 ## Quartier du Lac Bleu [Bluelake]
 
-Ce quartier, anciennement "quartier du lac Noir", abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l'abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature reprenne ses droits.
+Ce quartier, anciennement "quartier du lac Noir", abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature reprenne ses droits.
 
-*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu'ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions fantômes de la ville, des Fils d'Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, il s'est considérablement amélioré.
+*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu’ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions fantômes de la ville, des Fils d’Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, il s’est considérablement amélioré.
 
 ### Lac Bleu [Bluelake]
 
 Le lac Bleu, anciennement appelé "Lac Noir", est un lac qui se trouve au centre de son quartier éponyme. Le lac est parfois utilisé pour des activités nautiques. Cependant, en été, le niveau du lac diminue considérablement et devient un peu plus marécageux.
 
-Le lac est devenu particulièrement vil et boueux depuis l'éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
+Le lac est devenu particulièrement vil et boueux depuis l’éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -423,9 +423,9 @@ Le lac est devenu particulièrement vil et boueux depuis l'éruption du mont Hau
 
 ### La maison aux mille visages [House of a Thousand Faces]
 
-La maison aux mille visages est une taverne confortable dans la région du lac Bleu à Padhiver. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s'assoient et conversent joyeusement.
+La maison aux mille visages est une taverne confortable dans la région du lac Bleu à Padhiver. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s’assoient et conversent joyeusement.
 
-Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. Une organisation qui tend généralement à préserver l'histoire et toutes les choses "bonnes", ont une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu'un de ses membres de haut rang a été surpris en train d'agir comme une sorte d'agent double entre *Lord Longuebraise* et les Fils d'Alagondar (qui s'opposaient au règne de *Longuebraise*).
+Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. Une organisation qui tend généralement à préserver l’histoire et toutes les choses "bonnes", ont une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu’un de ses membres de haut rang a été surpris en train d’agir comme une sorte d’agent double entre *Lord Longuebraise* et les Fils d’Alagondar (qui s’opposaient au règne de *Longuebraise*).
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -436,9 +436,9 @@ Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhive
 
 ### Le gouffre scellé
 
-Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l'Outreterre a été déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été essentiellement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s'approchait du gouffre éprouvait de l'anxiété et d'autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
+Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l’Outreterre a été déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été essentiellement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s’approchait du gouffre éprouvait de l’anxiété et d’autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
 
-Avec d'immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une magie puissante. Le gouffre scellé, le quartier n'était plus que des ruines rasées. La zone a été rendue libre pour la prise. Quiconque souhaitait établir une colonie dans la région était libre de revendiquer la terre et de le faire. Les colons audacieux, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
+Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une magie puissante. Le gouffre scellé, le quartier n’était plus que des ruines rasées. La zone a été rendue libre pour la prise. Quiconque souhaitait établir une colonie dans la région était libre de revendiquer la terre et de le faire. Les colons audacieux, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -448,9 +448,9 @@ Avec d'immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffr
 
 ## Pademort [Neverdeath]
 
-Pademort [Neverdeath] est le cimetière de Padhiver. Il est divisé en deux grandes sections. La section des pauvres, au sud-ouest, contient des rangées et des rangées de tombes humbles. Beaucoup sont anonymes, avec des âmes sans nom qui ont péri dans l'une des nombreuses tragédies et cataclysmes de Padhiver. L'autre section contient des mausolées plus élaborés, où la noblesse et les riches ont été inhumés.
+Pademort [Neverdeath] est le cimetière de Padhiver. Il est divisé en deux grandes sections. La section des pauvres, au sud-ouest, contient des rangées et des rangées de tombes humbles. Beaucoup sont anonymes, avec des âmes sans nom qui ont péri dans l’une des nombreuses tragédies et cataclysmes de Padhiver. L’autre section contient des mausolées plus élaborés, où la noblesse et les riches ont été inhumés.
 
-Les deux sections de Pademort [Neverdeath] ont été fortement affectées par la Magepeste. En plus de modifier physiquement le paysage du cimetière, les cadavres reprennent vie et attaquent les visiteurs. De hauts murs empêchent les horreurs du cimetière d'attaquer la ville, et les habitants de Padhiver savent qu'il faut rester à l'écart des horreurs qui les attendent. Les habitants de Padhiver brûlent maintenant leurs morts.
+Les deux sections de Pademort [Neverdeath] ont été fortement affectées par la Magepeste. En plus de modifier physiquement le paysage du cimetière, les cadavres reprennent vie et attaquent les visiteurs. De hauts murs empêchent les horreurs du cimetière d’attaquer la ville, et les habitants de Padhiver savent qu’il faut rester à l’écart des horreurs qui les attendent. Les habitants de Padhiver brûlent maintenant leurs morts.
 
 
 |![Book](book.svg)**En savoir plus**|

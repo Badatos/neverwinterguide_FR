@@ -1,7 +1,7 @@
 ---
 name: Crédits
 slug: credits
-order: 110
+order: 900
 pdf-page-style: single-column
 ---
 
@@ -41,14 +41,14 @@ Toutes les autres illustrations par [Jacob Johnston](https://inchoatethoughts.co
 #### Contributeurs
 
 Un remerciement spécial aux premiers relecteurs qui ont lu ce guide dans ses formes les plus anciennes et les plus grossières.
-Merci d'avoir aidé à être un peu plus cohérent !
+Merci d’avoir aidé à être un peu plus cohérent !
 - Jordan Cooper
 - Jennifer Johnston
 
 Merci aux contributeurs suivants qui ont [soumis des modifications](https://github.com/jacobjohnston/neverwinterguide) à ce guide : @GuardDanGnome, Christian Lewin (@Calius), @Minoxsta, Patrick, grummi
 
 #### Création du document
-Ce document est rédigé au format Markdown et compilé à l'aide du plug-in [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) pour Visual Studio Code. Vous pouvez en savoir plus sur cet outil sur notre [page GitHub](https://github.com/encounterplus/module-packer) ou sur [Discord](https://discord.gg/68sQ97Py).
+Ce document est rédigé au format Markdown et compilé à l’aide du plug-in [EncounterPlus Markdown](https://marketplace.visualstudio.com/items?itemName=JacobJohnston.encounterplus-markdown) pour Visual Studio Code. Vous pouvez en savoir plus sur cet outil sur notre [page GitHub](https://github.com/encounterplus/module-packer) ou sur [Discord](https://discord.gg/68sQ97Py).
 
 <br /><br />
 

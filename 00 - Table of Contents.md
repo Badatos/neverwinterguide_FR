@@ -10,45 +10,46 @@ hide-footer-text: true
 # Table des matières
 
 - [Introduction](introduction) {.part}
-- [À propos de ce guide](about-this-guide)
+- [À propos de ce guide](a-propos-de-ce-guide)
 - [Lieux importants de Padhiver](locations-of-neverwinter) {.part}
-- [Castel-Nièvre](castle-never) {.category}
-- [Enclave du Protecteur](protectors-enclave) {.category}
-- [Le palais de justice](le-hall-de-justice)
-- [La maison du savoir](la-maison-du-savoir)
-- [Les terres flottantes](the-floating-earthmotes) {.category}
-- [Le masque de pierre de lune](le-masque-de-pierre-de-lune)
-- [Forteresse des pirates](forteresse-des-pirates)
-- [Fisher's Float](fishers-float)
-- [Quartier des Quais](neverwinters-docks) {.category}
-- [Le Léviathan échoué](le-léviathan-échoué)
-- [La taverne du bois flotté](la-taverne-du-bois-flotte)
+- [Castel-Nièvre [Castle Never]](castel-nievre-castle-never) {.category}
+- [Enclave du Protecteur [Protector’s Enclave]](enclave-du-protecteur-protectors-enclave) {.category}
+- [Le palais de justice [Hall of Justice]](le-palais-de-justice-hall-of-justice)
+- [La maison du savoir [House of Knowledge]](la-maison-du-savoir-house-of-knowledge)
+- [Les Terres flottantes [Floating Earthmotes]](les-terres-flottantes-floating-earthmotes) {.category}
+- [Le Masque de Pierre-lune [Moonstone Mask]](le-masque-de-pierre-lune-moonstone-mask)
+- [Le Fort aérien des pirates [Pirates’ Skyhold]](le-fort-aerien-des-pirates-pirates-skyhold)
+- [Le Flotteur des pêcheurs [Fisher’s Float]](le-flotteur-des-pecheurs-fishers-float)
+- [Quartier des Quais](quartier-des-quais) {.category}
+- [Le Léviathan échoué](le-leviathan-echoue)
+- [La taverne du bois flotté [Driftwood Tavern]](la-taverne-du-bois-flotte-driftwood-tavern)
 - [La maison de commerce de Tarmalune](la-maison-de-commerce-de-tarmalune)
-- [Quartier de la tour](tower-district) {.category}
-- [L'éclat de la lune](l-éclat-de-la-lune)
-- [La tour du manteau](la-tour-du-manteau)
-- [La tour déchue](la-tour-déchue)
-- [Quartier du Lac Bleu](district-de-Bluelake) {.category}
-- [Lac bleu](lac-bleu)
-- [Maison aux mille visages](maison-aux-mille-visages)
-- [Quartier du gouffre](le-district-du-gouffre) {.category}
-- [Le gouffre scellé](le-gouffre-scellé)
-- [Neverdeath](neverdeath) {.category}
+- [Quartier de la tour](quartier-de-la-tour) {.category}
+- [L’Éclat de lune [The Shard of the Moon]](leclat-de-lune-the-shard-of-the-moon)
+- [La tour de la cape [Cloak Tower]](la-tour-de-la-cape-cloak-tower)
+- [La tour déchue](la-tour-dechue)
+- [Quartier du Lac Bleu [Bluelake]](quartier-du-lac-bleu-bluelake) {.category}
+- [Le Lac bleu [Bluelake]](lac-bleu-bluelake)
+- [La maison aux mille visages [House of a Thousand Faces]](la-maison-aux-mille-visages-house-of-a-thousand-faces)
+- [Le Quartier du Gouffre [Chasm District]](le-quartier-du-gouffre-chasm-district) {.category}
+- [Le gouffre scellé](le-gouffre-scelle)
+- [Pademort [Neverdeath]](pademort-neverdeath) {.category}
 - [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
-- [Histoire de Padhiver](histoire-de-neverwinter) {.part}
+- [Histoire abrégée de Padhiver](une-histoire-abregee-de-padhiver) {.part}
 - [Commerces non-officiels](homebrew-locations) {.part}
-- [Défenses solides de Brannur](brannurs-dependable-defenses)
-- [Bord tranchant de Brannwyn](brannwyns-sharp-edge)
-- [Articles divers de Cœur-Vif](swift-heart-sundries)
-- [Parfums et boissons de Priscilla](priscillas-parfums-et-potables)
-- [Acquisitions arcaniques](arcane-acquisitions)
-- [Aventures rapides](Quick-Adventures) {.part}
+- [Défenses solides de Brannur](aux-defenses-solides-de-brannur)
+- [Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)
+- [Parfums et boissons de Priscilla](parfums-et-boissons-de-priscilla)
+- [Articles divers de Cœur-Vif](articles-divers-de-coeur-vif)
+- [Acquisitions arcaniques](acquisitions-arcaniques)
+- [Aventures rapides](quick-adventures) {.part}
 - [La villa abandonnée](la-villa-abandonnee)
 - [Annexes](appendix-a-maps-page) {.part}
-- [Annexe A - Plans](annexe-a-cartes-page)
+- [Annexe A - Plans](appendix-a-maps)
 - [Annexe B - Affichettes des magasins](appendix-b-point-of-interest-cards-page)
-- [Annexe C - Créatures](annexe-c-page-créatures)
-- [Crédits](crédits) {.part}
+- [Annexe C - Créatures](appendix-c-creatures)
+- [Annexe D - Liste d’objets magiques](magical-items-page)
+- [Crédits](credits) {.part}
 {.toc}
 
-Version 1.6 {.print-bottom-right .with-margin}
+Version 1.7-FR {.print-bottom-right .with-margin}

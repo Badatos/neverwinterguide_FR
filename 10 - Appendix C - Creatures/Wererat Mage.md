@@ -20,9 +20,9 @@ wis: 12
 cha: 11
 saves: Int +6, Wis +4
 skills: Arcana +6, History +6
-damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 senses: darkvision 60 ft., passive Perception 11
-languages: any three languages and thieves' cant (can't speak in rat form)
+languages: any three languages and thieves’ cant (can’t speak in rat form)
 challenge: 5
 environments: Urban
 traits:
@@ -44,7 +44,7 @@ actions:
         2/day each: <i>fireball</i>, <i>mage armor</i>, <i>unseen servant</i>, <i>ice storm</i>"
 bonus-actions:
   - name: Change Shape
-    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
 image: WereratMage.jpg
 token: WereratMageToken.png
 column-after: actions

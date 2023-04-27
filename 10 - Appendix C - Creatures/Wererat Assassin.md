@@ -20,9 +20,9 @@ wis: 11
 cha: 12
 saves: Dex +7, Int +3
 skills: Perception +3, Stealth +7
-damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
 senses: darkvision 60 ft., passive Perception 13
-languages: common, thieves' cant (can't speak in rat form)
+languages: common, thieves’ cant (can’t speak in rat form)
 challenge: 4
 environments: Urban
 traits:
@@ -39,7 +39,7 @@ actions:
     description: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target Hit: 6 (1d4 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
 bonus-actions:
   - name: Change Shape
-    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
 reactions:
   - name: Uncanny Dodge
     description: "The wererat halves the damage that it takes from an attack that hits it. It must be able to see the attacker."

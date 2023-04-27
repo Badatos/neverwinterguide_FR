@@ -1,5 +1,5 @@
 # Fonts
-Fonts used in these POI cards are all from Solbera's CC-BY-SA-4.0 at https://github.com/jonathonf/solbera-dnd-fonts {.no-fancy}
+Fonts used in these POI cards are all from Solbera’s CC-BY-SA-4.0 at https://github.com/jonathonf/solbera-dnd-fonts {.no-fancy}
 
 ## POI Title
 Bookinsanity / 144pt / #7a200d

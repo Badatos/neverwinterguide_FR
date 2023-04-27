@@ -18,7 +18,7 @@ This Quick Adventure is designed for a party of roughly three to five 5th level 
 
 ## Adventure Background
 
-In the Bluelake quartier of Padhiver sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm's Hold. In an attempt to rescue his wife from Helm's Hold, he used his substantial psychic magic to send many of Padhiver's residents into madness. Soon after this attack, he left Padhiver for Helm's Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm's Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
+In the Bluelake quartier of Padhiver sits an abandoned townhouse. The home used to belong to the Cormyrean war wizard, Elden Vargas. Elden Vargas had dealings with the Ashmadai who ultimately exploited him and kidnapped his wife and committed her to Helm’s Hold. In an attempt to rescue his wife from Helm’s Hold, he used his substantial psychic magic to send many of Padhiver’s residents into madness. Soon after this attack, he left Padhiver for Helm’s Hold. Elden Vargas and his foul deeds were ultimately stopped at Helm’s Hold (where heroic adventurers either captured or killed him), and Vargas never returned to his townhouse.
 
 Before leaving, Elden Vargas used magic to seal shut his townhouse to prevent intruders from entering. This abandoned property has been long-desired by those looking to claim the abandoned estates of the Bluelake quartier, but the magical wards on the property have, so far, kept any squatters from taking the property.
 
@@ -30,7 +30,7 @@ The Dead Rats gang, who operates in the sewers of Padhiver, has been eying the p
 The adventurers overhear tavern talk about a strange, abandoned noble estate that has yet to be looted. The tavern patrons speculate there are rare magical items in the estate and anyone brave enough to enter the place would be richly rewarded.
 
 **Commissioned**<br />
-The adventurers are commissioned by a wealthy merchant to break down the magical barrier preventing entry into the house. The merchant would ultimately like to renovate and sell the estate, but can't do so until the magic barrier is removed.
+The adventurers are commissioned by a wealthy merchant to break down the magical barrier preventing entry into the house. The merchant would ultimately like to renovate and sell the estate, but can’t do so until the magic barrier is removed.
 
 (print-page)
 
@@ -51,7 +51,7 @@ The door to the townhouse is firmly locked. The entire house is protected with a
 
 As the players try to enter the door, however, three members of the Dead Rats gang (2 [Wererat Assassins](/monster/wererat-assassin){.screen-only}[Wererat Assassins](wererat-assassin-page){.print-only .monster} and a [Wererat Wizard](/monster/wererat-wizard){.screen-only}[Wererat Wizard](wererat-wizard-page){.print-only .monster}) approach from behind:
 
-> As you work out how to enter the structure, three half-man-half-rat hybrids enter the gates behind you. Two are dressed in black leather and carry an array of swords and daggers, and one is in robes and carries a glowing staff. One of the leather-clad rats snarls at you, "this is Dead Rats property you're trespassing on, and we think it is best if you leave." {.read}
+> As you work out how to enter the structure, three half-man-half-rat hybrids enter the gates behind you. Two are dressed in black leather and carry an array of swords and daggers, and one is in robes and carries a glowing staff. One of the leather-clad rats snarls at you, "this is Dead Rats property you’re trespassing on, and we think it is best if you leave." {.read}
 
 The party is free to leave unharmed if they wish. If they choose to do so, the next time they return to the property, it will be ransacked and empty of all items. If the adventurers decline to leave, the wererats attack. If the Wererat Assassins are killed first, the Wererat Wizard will attempt to flee. The Wererat Wizard can be coerced to dispel the magic barrier if captured alive.
 
@@ -65,7 +65,7 @@ The same strange blue flame is in the kitchen hearth. Despite producing no heat,
 
 ### 4. Study
 
-The floor in the study has grown creaky and the upstairs furniture is coated in dust like all the other areas of the home. A potted plant has long since died and withered away. The door to Elden Vargas's bedroom (Section 5) gently bangs as if a window inside were left open. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [2nd Level Spell Scroll](/item/spell-scroll-2nd-level){.magic-item}.
+The floor in the study has grown creaky and the upstairs furniture is coated in dust like all the other areas of the home. A potted plant has long since died and withered away. The door to Elden Vargas’s bedroom (Section 5) gently bangs as if a window inside were left open. A DC 15 Intelligence (Investigation) check on the bookshelves will reveal a [2nd Level Spell Scroll](/item/spell-scroll-2nd-level){.magic-item}.
 
 ### 5. Bedroom
 
@@ -80,6 +80,6 @@ Elden Vargas has left a [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gy
 
 The Storm Gyre attacks any creatures on sight and will fight until it is destroyed. It is not particularly smart, and will attack the nearest creature. However, if multiple creatures are close together, it will attempt to use its lightning attack to arc lightning through multiple creatures.
 
-After defeating the Storm Gyre, players that search through the wardrobe in the bedroom will find a random item from [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) from the Maître du Donjon's Guide. Pinned to a desk is a note that simply reads:
+After defeating the Storm Gyre, players that search through the wardrobe in the bedroom will find a random item from [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB) from the Maître du Donjon’s Guide. Pinned to a desk is a note that simply reads:
 
-> My dearest Karis - If you're reading this, know that I'm truly sorry. - **Elden** {.paper}
+> My dearest Karis - If you’re reading this, know that I’m truly sorry. - **Elden** {.paper}
