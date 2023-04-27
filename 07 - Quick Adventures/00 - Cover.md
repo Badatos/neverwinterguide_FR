@@ -5,4 +5,4 @@ order: 00
 include-in: print
 ---
 
-![QuickAdventures](QuickAdventures.svg){.size-cover}
+![Aventures rapides](QuickAdventures.svg){.size-cover}

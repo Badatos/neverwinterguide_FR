@@ -1,5 +1,5 @@
 ---
-name: Annexe A - Plans
+name: Annexe A - Cartes & Plans
 slug: appendix-a-maps-page
 order: 00
 include-in: print

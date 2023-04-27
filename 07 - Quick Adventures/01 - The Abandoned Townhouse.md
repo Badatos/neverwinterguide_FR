@@ -5,9 +5,9 @@ order: 01
 module-pagebreaks: h1, h2, h3
 ---
 
-![The Villa abandonnée Map](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
+![Plan de la Villa abandonnée](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
 
-# The Villa abandonnée
+# La Villa abandonnée
 
 |![Homebrew](../mug.svg)**Contenu "Homebrew"**|
 |---|

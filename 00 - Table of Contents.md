@@ -20,7 +20,7 @@ hide-footer-text: true
 - [Le masque de pierre de lune](le-masque-de-pierre-de-lune)
 - [Forteresse des pirates](forteresse-des-pirates)
 - [Fisher's Float](fishers-float)
-- [Quais de Padhiver](neverwinters-docks) {.category}
+- [Quartier des Quais](neverwinters-docks) {.category}
 - [Le Léviathan échoué](le-léviathan-échoué)
 - [La taverne du bois flotté](la-taverne-du-bois-flotte)
 - [La maison de commerce de Tarmalune](la-maison-de-commerce-de-tarmalune)
@@ -39,7 +39,7 @@ hide-footer-text: true
 - [Commerces non-officiels](homebrew-locations) {.part}
 - [Défenses solides de Brannur](brannurs-dependable-defenses)
 - [Bord tranchant de Brannwyn](brannwyns-sharp-edge)
-- [Articles divers de Coeur Vif](swift-heart-sundries)
+- [Articles divers de Cœur-Vif](swift-heart-sundries)
 - [Parfums et boissons de Priscilla](priscillas-parfums-et-potables)
 - [Acquisitions arcaniques](arcane-acquisitions)
 - [Aventures rapides](Quick-Adventures) {.part}

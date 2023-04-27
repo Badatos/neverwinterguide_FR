@@ -40,7 +40,7 @@ order: 1
 
 <br /><br />
 
-![Articles divers de Coeur Vif](../Images/POICards/SwiftHeartSundries.webp){.size-full}
+![Articles divers de Cœur-Vif](../Images/POICards/SwiftHeartSundries.webp){.size-full}
 
 (print-page)
 

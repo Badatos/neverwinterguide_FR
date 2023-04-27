@@ -11,8 +11,10 @@ Ce guide ne serait pas possible sans les contributions de tous les merveilleux a
 
 #### Auteurs
 
-Contenu original écrit par [Jacob Johnston](https://inchoatethoughts.com){.neutral}
-Traduction française par @Badatos
+Contenu original écrit par [Jacob Johnston](https://inchoatethoughts.com){.neutral}.
+
+#### Traducteurs
+Traduction française par [@Badatos](https://github.com/Badatos){.neutral}
 
 #### Cartographie
 

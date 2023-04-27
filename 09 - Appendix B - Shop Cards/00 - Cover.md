@@ -5,4 +5,8 @@ order: 00
 include-in: print
 ---
 
+
+Annexe B - Affichettes des magasins
+===================================
+
 ![Magasin](POICards.svg){.size-cover}
