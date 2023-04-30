@@ -7,9 +7,9 @@ module-pagebreaks: h1, h2, h3
 
 # Lieux "Homebrew"
 
-|![Homebrew](mug.svg)**Contenu "Homebrew"**| gp |
-|---| gp |
-|Cette section présente des lieux non officiels de Padhiver, créés pour ce guide. Personnalisez-les pour *votre* campagne !| gp |
+|![Homebrew](mug.svg)**Contenu "Homebrew"**|
+|---|
+|Cette section présente des lieux non officiels de Padhiver, créés pour ce guide. Personnalisez-les pour *votre* campagne !|
 {.homebrew}
 
 Bienvenue, maîtres de donjon ! Alors que ce guide s’est jusqu’à présent concentré sur les lieux officiels et l’histoire de Padhiver, cette section vise à fournir des lieux nouvellement créés que les maîtres de donjon pourraient trouver utiles s’ils mènent une campagne dans cette ville tentaculaire. Malgré les excellents emplacements proposés dans les sources officielles, la ville est en fait peuplée de magasins et d’emplacements utilitaires plus banals (du moins par rapport à d’autres communes comme Phandaline).
@@ -28,16 +28,17 @@ La boutique est impeccablement propre et bien organisée. La majeure partie des 
 
 Brannur a un comportement calme et poli, et la plupart de ses clients auraient du mal à l’imaginer élever la voix, que ce soit dans l’excitation ou la colère. Cela transparaît dans son travail, car Brannur aime concentrer ses talents sur la fabrication d’objets de défense et d’utilité plutôt que sur des objets destinés à nuire. Cependant, cette illusion d’un stoïcisme calme serait rapidement dissipée si l’on voyait Brannur et sa sœur, Brannwyn, interagir. Lorsque ces deux-là sont dans la même pièce, une vive dispute surgit à coup sûr.
 
-|![D20](d20.svg)**Inspiration pour le Maître du Donjon**| gp |
-|---| gp |
-|***Ingrédient supérieur***. Brannur veut faire monter sa boutique en gamme, mais pour ce faire, il a besoin d’un ingrédient rare difficilement accessible. Il a entendu dire que l’ingrédient était en possession des pirates de la Forteresse et aimerait que le groupe le lui en procure.| gp |
+|![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
+|---|
+|***Ingrédient supérieur***. Brannur veut faire monter sa boutique en gamme, mais pour ce faire, il a besoin d’un ingrédient rare difficilement accessible. Il a entendu dire que l’ingrédient était en possession des pirates de la Forteresse et aimerait que le groupe le lui en procure.|
+|***Métal rare***. Si dans leurs aventures les héros obtiennent du Mithral, de l'adamantium ou même des écailles de dragon, et en apportent suffisament à Brannur, celui-ci pourra leur confectionner une armure avec.|
 {.dmidea}
 
-![Brannur Lutgehr](Images/Brannur.jpg =370x){.print-bottom-right .with-margin}
+![Brannur Lutgehr](Images/Brannur.jpg =320x){.print-bottom-right .with-margin}
 
 (print-page)
 
-![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}**Brannur Lutgehr**, Forgeron
+![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
 
 ![Lames tranchantes de Brannwyn](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
 
@@ -55,11 +56,11 @@ La personnalité de Brannwyn est presque l’exact opposée de celle de son frè
 
 ![PotionShop](PrintImages/PotionShop.jpg){.print-only .size-cover .no-margin}
 
-> **Sibling Rivalry**
+> **Rivalité fraternelle**
 >
-> Brannur et Brannwyn sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs deux magasins sont situés juste à côté l’un de l’autre, ce qui signifie que de telles compétitions sont fréquentes. Certains acheteurs passionnés ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en jouant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’autre frère a revendiqué la capacité de faire quelque chose de mieux que l’autre ; cela obligera le premier frère à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
+> Brannur et Brannwyn sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs magasins sont situés juste à côté l’un de l’autre, autant dire que les compétitions sont fréquentes. Certains acheteurs habiles ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en montant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’autre frère a revendiqué pouvoir faire quelque chose de mieux que l’autre ; cela obligera le premier à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
 >
-> Cependant, insulter Brannur ou Brannwyn devant l’autre frère sera accueilli avec une fureur rapide. Au cœur de celui-ci, les frères et sœurs se soucient profondément les uns des autres, et leurs petites querelles sont de loin éclipsées par l’immense sentiment de fierté et d’unité familiale. Il est assez courant de voir l’un des frères et sœurs Lutgehr aider l’autre en prêtant un outil ou même en faisant don de métaux et de matériaux coûteux. Un étranger faisant une remarque désobligeante envers un des frères et sœurs sera, au mieux, accueilli par un regard noir et une insulte en retour et, au pire, se vrera expulser du magasin ou appellera tout le clan Lutgehr aux armes.
+> Cependant, insulter un des frère et sœur devant l’autre sera accueilli avec fureur. Au fond, ils se soucient profondément l’un de l’autres, et leurs petites querelles sont de loin éclipsées par l’immense sentiment de fierté et d’unité familiale. Il est assez courant de voir l’un aider l’autre en prêtant un outil ou même en faisant don de métaux et de matériaux coûteux. Un étranger faisant une remarque désobligeante envers un des frères et sœurs sera, au mieux, accueilli par un regard noir et une insulte en retour et, au pire, se verra expulser du magasin ou appellera tout le clan Lutgehr aux armes.
 
 (print-column)
 
@@ -94,11 +95,11 @@ Cœur-Vif, après une longue vie remplie d’aventures à la recherche de tréso
 
 Cœur-Vif a maintenant une disposition détendue et empathique, mais elle sera la première à vous dire qu’elle était une aventurière passionnée dans sa jeunesse. Elle se fera un plaisir de vous raconter une histoire ou deux sur ses randonnées dangereuses à travers des jungles remplies de serpents venimeux géants, des expériences de mort imminente errant dans des dunes désertiques sans fin, ou même des moments passés en haute mer avec son ami capitaine de la marine Tabaxi, *pattes-de-goudron [Stands in Tar]*.
 
-![Cœur-Vif](Images/SwiftHeart.jpg =370x){.print-bottom-right .with-margin}
+![Cœur-Vif](Images/SwiftHeart.jpg =300x){.print-bottom-right .with-margin}
 
-|![Book](book.svg)**En savoir plus**| gp |
-|---| gp |
-|*pattes-de-goudron [Stands in Tar]* est le capitaine de la quête "Thunder Cliffs" de *Storm’s Lord Wrath*| gp |
+|![Book](book.svg)**En savoir plus**|
+|---|
+|*pattes-de-goudron [Stands in Tar]* est le capitaine de la quête "Thunder Cliffs" de *Storm’s Lord Wrath*|
 {.references}
 
 (print-page)
@@ -118,7 +119,7 @@ La boutique est dirigée par l’excentrique magicien nommé *Flinar Ralolar*. C
 
 *Flinar Ralolar,* d’âge inconnu, est un individu mystérieux. Pas du genre à fournir beaucoup d’informations, on sait peu de choses sur le sorcier. Ce que certains savent, cependant, c’est qu’avant que *Flinar* n’arrive à Padhiver, il faisait partie des nombreux qui sont venus à la caverne du Ressac de Phandaline pour y étudier la Forge des sorts (une fois qu’elle a été débarrassée des forces malveillantes par les aventuriers).
 
-![Flinar and Gigz](Images/FlinarAndGigz.jpg =370x){.print-bottom-right .with-margin}**Flinar Ralolar**, Owner, and his assistant **Gigz**.
+![Flinar and Gigz](Images/FlinarAndGigz.jpg =300x){.print-bottom-right .with-margin}
 
 (print-page)
 
@@ -128,34 +129,34 @@ Flinar n’est pas hostile en soi, juste très plat dans son comportement. Son f
 
 Utilisez le tableau suivant pour les objets magiques qui pourraient être proposés dans la boutique de Flinar :
 
-|[D12](/roll/d12)| Objet magique| Prix |
-|---|---|---|
-|**1**|[Épée longue en vif-argent](/item/quicksilver-longsword)| 550 po |
-|**2**| [Cotte de mailles activée par la pluie](/item/rain-activated-chain-mail)| 0 po |
-|**3**| [Chapeau de traqueur de cerf](/item/deerstalker-hat)| 0 po |
-|**4**| [Masse de la Dîme](/item/tithing-mace)| 350 po |
-|**5**| [Couperet défensif](/item/defensive-cleaver)| 250 po |
-|**6**| [Arc long extra-léger](/item/extra-light-longbow)| po |
-|**7**| [Bottes de barman](/item/bartenders-boots)| po |
-|**8**| [Armure en cuir aérée](/item/airy-leather-armor)| po |
-|**9**| [Dague enragée](/item/enraged-dagger)| po |
-|**10**| [Boucle d’oreille de Babel](/item/babel-earring)| po |
-|**11**| [Armure du crépuscule](/item/shadowgarb-armor)| po |
-|**12**| [Anneau des échos](/item/ring-of-echoes)| po |
+|[D12](/roll/d12)| Objet magique|
+|---|---|
+|**1**|[Épée longue en vif-argent](/item/quicksilver-longsword)|
+|**2**| [Cotte de mailles activée par la pluie](/item/rain-activated-chain-mail)|
+|**3**| [Chapeau de traqueur de cerf](/item/deerstalker-hat)|
+|**4**| [Masse de la Dîme](/item/tithing-mace)|
+|**5**| [Couperet défensif](/item/defensive-cleaver)|
+|**6**| [Arc long extra-léger](/item/extra-light-longbow)|
+|**7**| [Bottes de barman](/item/bartenders-boots)|
+|**8**| [Armure en cuir aérée](/item/airy-leather-armor)|
+|**9**| [Dague enragée](/item/enraged-dagger)|
+|**10**| [Boucle d’oreille de Babel](/item/babel-earring)|
+|**11**| [Armure du crépuscule](/item/shadowgarb-armor)|
+|**12**| [Anneau des échos](/item/ring-of-echoes)|
 {.allow-breaks}
 
 EN
-|[D12](/roll/d12)| Magical item| Price |
-|---|---|---|
-|**1**|[Quicksilver Longsword](/item/quicksilver-longsword)| 550 gp |
-|**2**| [Rain-Activated Chain Mail](/item/rain-activated-chain-mail)| 0 gp |
-|**3**| [Deerstalker Hat](/item/deerstalker-hat)| 0 gp |
-|**4**| [Tithing Mace](/item/tithing-mace)| 350 gp |
-|**5**| [Defensive Cleaver](/item/defensive-cleaver)| 250 gp |
-|**6**| [Extra-Light Longbow](/item/extra-light-longbow)| gp |
-|**7**| [Bartender’s Boots](/item/bartenders-boots)| gp |
-|**8**| [Airy Leather Armor](/item/airy-leather-armor)| gp |
-|**9**| [Enraged Dagger](/item/enraged-dagger)| gp |
-|**10**| [Babel Earring](/item/babel-earring)| gp |
-|**11**| [Shadowgarb Armor](/item/shadowgarb-armor)| gp |
-|**12**| [Ring of Echoes](/item/ring-of-echoes)| gp |
+|[D12](/roll/d12)| Magical item|
+|---|---|
+|**1**|[Quicksilver Longsword](/item/quicksilver-longsword)|
+|**2**| [Rain-Activated Chain Mail](/item/rain-activated-chain-mail)|
+|**3**| [Deerstalker Hat](/item/deerstalker-hat)|
+|**4**| [Tithing Mace](/item/tithing-mace)|
+|**5**| [Defensive Cleaver](/item/defensive-cleaver)|
+|**6**| [Extra-Light Longbow](/item/extra-light-longbow)|
+|**7**| [Bartender’s Boots](/item/bartenders-boots)|
+|**8**| [Airy Leather Armor](/item/airy-leather-armor)|
+|**9**| [Enraged Dagger](/item/enraged-dagger)|
+|**10**| [Babel Earring](/item/babel-earring)|
+|**11**| [Shadowgarb Armor](/item/shadowgarb-armor)|
+|**12**| [Ring of Echoes](/item/ring-of-echoes)|

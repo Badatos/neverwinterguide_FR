@@ -3,14 +3,14 @@ name: Guide de Padhiver
 slug: guide-to-neverwinter-fr
 description: Un guide pour explorer la ville captivante de Padhiver.
 category: adventure
-author: Jacob Johnston, traduction FR by @Badatos
+author: Jacob Johnston, traduction FR par @Badatos
 cover: Cover.jpg
 print-cover: Cover.jpg
 print-link-update: D&D Beyond Entries
-version: 6
+version: 7
 auto-increment-version: false
 delete-empty-groups: true
-print-document-size: letter
+print-document-size: a4
 ignore:
   - CHANGELOG.md
   - README.md

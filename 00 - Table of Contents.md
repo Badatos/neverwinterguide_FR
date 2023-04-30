@@ -15,10 +15,10 @@ hide-footer-text: true
 - [Castel-Nièvre [Castle Never]](castel-nievre-castle-never) {.category}
 - [Enclave du Protecteur [Protector’s Enclave]](enclave-du-protecteur-protectors-enclave) {.category}
 - [Le palais de justice [Hall of Justice]](le-palais-de-justice-hall-of-justice)
-- [La maison du savoir [House of Knowledge]](la-maison-du-savoir-house-of-knowledge)
+- [La maison du savoir [House of Knowledge]](la-maison-du-savoir)
 - [Les Terres flottantes [Floating Earthmotes]](les-terres-flottantes-floating-earthmotes) {.category}
 - [Le Masque de Pierre-lune [Moonstone Mask]](le-masque-de-pierre-lune-moonstone-mask)
-- [Le Fort aérien des pirates [Pirates’ Skyhold]](le-fort-aerien-des-pirates-pirates-skyhold)
+- [Le Fort aérien des pirates [Pirates’ Skyhold]](fort-aerien-des-pirates-pirates-skyhold)
 - [Le Flotteur des pêcheurs [Fisher’s Float]](le-flotteur-des-pecheurs-fishers-float)
 - [Quartier des Quais](quartier-des-quais) {.category}
 - [Le Léviathan échoué](le-leviathan-echoue)
@@ -30,8 +30,8 @@ hide-footer-text: true
 - [La tour déchue](la-tour-dechue)
 - [Quartier du Lac Bleu [Bluelake]](quartier-du-lac-bleu-bluelake) {.category}
 - [Le Lac bleu [Bluelake]](lac-bleu-bluelake)
-- [La maison aux mille visages [House of a Thousand Faces]](la-maison-aux-mille-visages-house-of-a-thousand-faces)
-- [Le Quartier du Gouffre [Chasm District]](le-quartier-du-gouffre-chasm-district) {.category}
+- [La maison aux mille visages [House of a Thousand Faces]](la-maison-aux-mille-visages)
+- [Quartier du Gouffre [Chasm District]](le-quartier-du-gouffre-chasm) {.category}
 - [Le gouffre scellé](le-gouffre-scelle)
 - [Pademort [Neverdeath]](pademort-neverdeath) {.category}
 - [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
@@ -51,5 +51,7 @@ hide-footer-text: true
 - [Annexe D - Liste d’objets magiques](magical-items-page)
 - [Crédits](credits) {.part}
 {.toc}
+
+> L’ouvrage *Un guide du Maître du Donjon pour Padhiver* est un contenu de fan non officiel autorisé par la politique relative au contenu des fans. Non approuvé par Wizards. Certains contenus utilisés sont la propriété de Wizards of the Coast. © Wizards of the Coast LLC. {.neutral .with-margin}
 
 Version 1.7-FR {.print-bottom-right .with-margin}

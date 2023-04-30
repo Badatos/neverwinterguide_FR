@@ -5,4 +5,4 @@ order: 00
 include-in: print
 ---
 
-![Creatures](Creatures.svg){.size-cover}
+![Dragon](Creatures.svg){.size-cover}

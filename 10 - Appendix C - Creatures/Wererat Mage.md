@@ -1,17 +1,17 @@
 ---
-name: Wererat Wizard
+name: Magicien Rat-garou
 slug: wererat-wizard-page
 ---
 
 ```Monster {.two-column}
-name: Wererat Wizard
+name: Magicien Rat-garou
 slug: wererat-wizard
-size: Medium
-type: Humanoid
-alignment: Any Alignment
-ac: 12 (15 with mage armor)
+size: Taille M
+type: Humanoïde
+alignment: Loyal Mauvais
+ac: 12 (15 avec armure de mage)
 hp: 49 (11d8)
-speed: 30 ft.
+speed: 9m
 str: 9
 dex: 14
 con: 11
@@ -19,34 +19,31 @@ int: 17
 wis: 12
 cha: 11
 saves: Int +6, Wis +4
-skills: Arcana +6, History +6
-damageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
-senses: darkvision 60 ft., passive Perception 11
-languages: any three languages and thieves’ cant (can’t speak in rat form)
+skills: Arcanes +6, Histoire +6
+damageImmunities: contondant, perforant et tranchant d'attaques non magiques qui ne sont pas en argent
+senses: vision dans le noir 18m, Perception passive 11
+languages: commun + 2 langues au choix et Jargon des voleurs (mais ne peut pas parler sous forme de rat)
 challenge: 5
-environments: Urban
+environments: Urbain
 traits:
-  - name: Keen Smell
-    description: The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+  - name: Odorat aiguisé
+    description: Le rat-garou a un avantage aux jets de Sagesse (Perception) basés sur l'odorat.
 actions:
-  - name: Multiattack (Humanoid or Hybrid Form Only)
-    description: "The wererat makes three Arcane Burst attacks."
-  - name: Arcane Burst (Humanoid or Hybrid Form Only)
-    description: "Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 120 ft., one target. Hit: 19 (3d10 + 3) force damage."
-  - name: Bite (Rat or Hybrid Form Only)
-    description: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy."
-  - name: Spellcasting (Humanoid or Hybrid Form Only)
-    description: "The wererat casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+  - name: Explosion arcanique (forme humanoïde ou hybride uniquement)
+    description: "Attaque au corps à corps ou à distance avec un sort : +6 au toucher, allonge 1,50m ou portée 36m, une cible. *Touché* : 19 (3d10 + 3) dégâts de force."
+  - name: Morsure (forme de rat ou hybride uniquement)
+    description: "Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. *Touché* : 4 (1d4 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11 ou être atteinte de la lycanthropie de rat-garou."
+  - name: Incantation (forme humanoïde ou hybride uniquement)
+    description: "Le rat-garou lance l'un des sorts suivants, en utilisant l'Intelligence comme capacité d'incantation (jet de sauvegarde contre ses sorts DD 14) :
 
+        * À volonté : <i>Lumières dansantes</i>, <i>Main de mage</i>, <i>Prestidigitation</i>
 
-        At will: <i>dancing lights</i>, <i>mage hand</i>, <i>prestidigitation</i>
-
-        2/day each: <i>fireball</i>, <i>mage armor</i>, <i>unseen servant</i>, <i>ice storm</i>"
+        * 2/jour chacun: <i>Boule de feu</i>, <i>Armure de mage</i>, <i>Serviteur invisible</i>, <i>Tempête de grêle</i>"
 bonus-actions:
-  - name: Change Shape
-    description: "The wererat transforms into a rat-humanoid hybrid, into a giant rat, or back into its humanoid form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies."
+  - name: Métamorphose
+    description: Le rat-garou se change en un hybride rat-humanoïde ou en rat géant, ou reprend sa forme véritable (la forme humanoïde). Mise à part sa taille, ses statistiques sont les mêmes quelle que soit sa forme. L'équipement qu'il porte ou transporte ne se transforme pas. Il retrouve sa forme véritable s'il meurt.
 image: WereratMage.jpg
 token: WereratMageToken.png
 column-after: actions
-column-after-property: Bite (Rat or Hybrid Form Only)
+column-after-property: Morsure (forme de rat ou hybride uniquement)
 ```

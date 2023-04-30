@@ -9,7 +9,7 @@ module-pagebreaks: h1, h2, h3
 
 ## Castel-Nièvre [Castle Never]
 
-![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-bottom-right}
+![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-top-right}
 
 Le Castel-Nièvre, dominant l’extrémité ouest de la ville, est incontournable. Ce château se trouve sur les falaises rocheuses et les affleurements du côté nord de l’estuaire où la rivière Padhiver et la mer des épées se rencontrent. Le château est construit sur un rocher circulaire duquel trois ponts rayonnent sur la rivière Padhiver : le pont du dragon endormi, le pont de la wyverne ailée et le pont du dauphin.
 
@@ -79,9 +79,9 @@ Avec la récente résurrection de *Tyr*, le temple lui a été reconsacré, et *
 |*Volo’s Guide to the North*, p. 133 (2nd Edition)|
 {.references}
 
-### La Maison du Savoir [House of Knowledge]
+### La Maison du Savoir
 
-La Maison du Savoir est à la fois une bibliothèque et le temple principal d’*Oghma* dans la ville de Padhiver. Sur le plan architectural, elle est considérée comme l’une des structures les plus impressionnantes et les plus belles de la ville - avec de nombreuses fenêtres et un impressionnant toit voûté. Ses vastes rayonnages contiennent plusieurs siècles d’ouvrages et documents précieux, y compris la paperasse gouvernementale récente, car la ville n’a pas de siège officiel du gouvernement à l’heure actuelle.
+Cette maison [House of Knowledge] est à la fois une bibliothèque et le temple principal d’*Oghma* dans la ville de Padhiver. Sur le plan architectural, elle est considérée comme l’une des structures les plus impressionnantes et les plus belles de la ville - avec de nombreuses fenêtres et un impressionnant toit voûté. Ses vastes rayonnages contiennent plusieurs siècles d’ouvrages et documents précieux, y compris la paperasse gouvernementale récente, car la ville n’a pas de siège officiel du gouvernement à l’heure actuelle.
 
 Comme une grande partie de Padhiver, la Maison du Savoir a subi une destruction quasi totale avec l’éruption du Mont Hautchaud en 1451 CV. Un jeune maître du savoir dévoué, *Atlavast*, a sauvé une grande partie du précieux contenu de la bibliothèque en scellant le sanctuaire intérieur du temple et en se piégeant à l’intérieur. Seul et dans la solitude, *Atlavast* a réussi à survivre au cataclysme et à sauver des multitudes de tomes, documents et artefacts rares. Cependant, il est rapidement devenu reclus et l’isolement l’a rendu un peu fou. Il a passé son temps à cataloguer et à réorganiser à plusieurs reprises la bibliothèque. Il est devenu extrêmement protecteur de ce contenu. Pendant ce temps, les sections extérieures de la Maison de la Connaissance ont été prises en charge par divers squatters, y compris des cultistes Ashmadai adorateurs du démon.
 
@@ -136,8 +136,6 @@ Les chambres occupent 3 étages. Elles varient en taille, des studios à un lit 
 
 Pour les invités voyageant par les moyens les plus élaborés, le toit comporte un palier spécial pour les coursiers ailés. On dit que le masque est chargé de panneaux muraux cachés qui peuvent s’ouvrir pour un voyage secret à l’intérieur de l’auberge elle-même. On dit que le personnel ouvre ces panneaux en prononçant certains mots magiques. Le 4e étage, juste en dessous des suites penthouse, abrite une salle des fêtes animée avec de la musique et de la danse. Une insonorisation magique garantit que cela ne dérangera aucun des invités.
 
-(print-column)
-
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
 |***Base de connaissances***. *Liset* et les autres membres du Masque de Pierre-lune détiennent une mine d’informations et de rumeurs sur la ville. Ils ne divulgueraient jamais d’informations confidentielles sur l’un de leurs clients, mais ils pourraient informer les aventuriers d’événements et de rumeurs non confidentiels.|
@@ -145,7 +143,7 @@ Pour les invités voyageant par les moyens les plus élaborés, le toit comporte
 |***Babioles au sous-sol***. Si les joueurs ont pu se faufiler dans les différentes salles de stockage du sous-sol du Mask sans se faire prendre, ils pourraient trouver toutes sortes d’objets magiques.|
 {.dmidea}
 
-![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =300x) **Liset Cheldar**, propriétaire & aubergiste
+![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =300x)<br>**Liset Cheldar**, propriétaire & aubergiste
 
 (print-page)
 
@@ -163,20 +161,20 @@ Au milieu des années 1400 DR, l’auberge a dérivé vers la mer des épées ap
 |*The North - Guide to the Savage Frontier - Cities and Civilizations*, p. 16 - 17 (2nd Edition)|
 {.references}
 
-### Le Fort aérien des pirates [Pirates’ Skyhold]
+### Fort aérien des pirates [Pirates’ Skyhold]
 
-Au nord-ouest de Padhiver, juste à côté de la Côte des épées, se trouve une autre terre flottante appelée "le fort aérien des pirates [Pirates’ Skyhold]". Peu de temps après la Magepeste, certains pirates de la région ont noté qu’une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Une bande de pirates, en possession d’un vaisseau spatial, a revendiqué cette terre flottante comme étant la leur et y a construit de modestes fortifications en bois.
+Au nord-ouest de Padhiver, près de la côte, se trouve une autre terre flottante appelée "le fort aérien des pirates". Peu de temps après la Magepeste, certains pirates de la région ont noté qu’une terre flottante pouvait servir de base défendable sur les côtes qu’ils parcouraient. Alors en possession d’un vaisseau spatial, ils ont revendiqué cette terre comme étant la leur et y ont construit de modestes fortifications en bois.
 
-Une mystérieuse tragédie s’est abattue sur la forteresse qui a laissé la plupart, sinon la totalité, de ses habitants pirates morts ou disparus. Leur vaisseau spatial reste amarré sur la terre flottante comme un étrange rappel de son abandon. Personne ne sait exactement ce qui s’est passé sur la forteresse, mais des dizaines de rumeurs sur l’emplacement circulent à Padhiver. Certains prétendent qu’un dragon s’est emparé de la forteresse, d’autres prétendent qu’il est habité par des Netherese, tandis que d’autres encore prétendent qu’il est hanté par toutes sortes de fantômes.
+Une mystérieuse tragédie s’est abattue sur le fort qui a laissé la plupart, sinon la totalité, de ses habitants pirates morts ou disparus. Leur vaisseau spatial reste amarré sur la terre flottante comme un étrange rappel de son abandon. Personne ne sait exactement ce qui s’est passé, mais des dizaines de rumeurs circulent à Padhiver. Certains prétendent qu’un dragon s’est emparé de la forteresse, d’autres prétendent qu’il est habité par des Netherisses, tandis que d’autres encore prétendent qu’il est hanté par toutes sortes de fantômes.
 
 On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates auraient entreposé leur butin dans la forteresse, et compte tenu de leur disparition soudaine, on pense que le trésor doit sûrement encore se trouver quelque part. Cependant, se rendre à la forteresse n’est pas une mince affaire. Une forme de transport aérien ou magique devra être achetée pour accéder à la zone.
 
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
-|***Un livre ouvert***. Dans la quatrième édition, le Pirate’s Skyhold a été intentionnellement laissé mystérieux et ouvert aux maîtres de donjon pour créer leurs propres aventures sur place.|
+|***Un livre ouvert***. Dans la 4e édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
 |***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un dragon plus jeune a peut-être attaqué le Fort céleste, tué tous les habitants et gardé le butin des pirates comme son propre trésor.|
-|***Pirates zombies [niv. 9-11]***. Le dieu de la mort, *Myrkul*, a été très actif dans la région (voir la trilogie [Le dragon de la Flèche de Givre](https://www.dndbeyond.com/sources/doip) et [Au delà du dragon de la Flèche de Givre](https://www.dndbeyond.com/essentials/continue-the-adventure) Sleeping Dragon’s Wake). Les morts-vivants ont envahi le Fort Céleste et l’ont transformé en un fort des damnés. Le Death Knight-Dreadnaught est étrangement ancré sous la Earthmote.|
-|***Je vais en prendre un de chaque***. Myrkul a envoyé un [Dracolich](/monster/adult-blue-dracolich){.red} ou [Ghost Dragon](/monster/ghost-dragon){.red} au Fort Céleste, où il repose sur un trésor de pirates butin et seigneurs d’une armée de pirates morts-vivants !|
+|***Pirates zombies [niv. 9-11]***. Le dieu de la mort, *Myrkul*, a été très actif dans la région (voir la trilogie [Le dragon de la Flèche de Givre](https://www.dndbeyond.com/sources/doip) et [Au delà du dragon de la Flèche de Givre](https://www.dndbeyond.com/essentials/continue-the-adventure). Les morts-vivants ont envahi le Fort Céleste et l’ont transformé en un fort des damnés. Le Death Knight-Dreadnaught est étrangement ancré sous la terre flottante.|
+|***Je vais en prendre un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -186,7 +184,7 @@ On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates au
 
 ### Le Flotteur des pêcheurs [Fisher’s Float]
 
-Le Flotteur des pêcheurs [Fisher’s Float] est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
+Le Flotteur des pêcheurs est une terre flottante juste au sud-ouest de Padhiver où une chaleureuse guilde de pêcheurs a fait sa maison et son siège social. Les maisons et les entrepôts visibles sur la terre flottante sont austères à tous points de vue. Les petites cabanes en bois impliquent certainement que les pêcheurs et les marins qui habitent le Flotteur n’ont pas un style de vie indulgent.
 
 Alors que ces pêcheurs fournissent pacifiquement une grande partie des fruits de mer de Padhiver, ils parviennent également à en garder une grande partie pour eux. En conséquence, il existe de nombreuses rumeurs sur le Flotteur des pêcheurs. Une rumeur particulièrement répandue est que ses habitants ont sous une forme ou une autre fait allégeance à des dieux marins maléfiques et/ou à des monstres marins.
 
@@ -227,8 +225,9 @@ Un établissement comme le Léviathan échoué ne pourrait exister sans un capit
 
 ***Capitaine Harrag.*** *Le Capitaine Harrag* est un homme costaud et poilu avec une seule jambe (il a perdu l’autre dans un combat avec un sahuagin). Il a un extérieur effrayant et bourru, mais ceux qui le connaissent le mieux savent que l’homme possède une quantité impressionnante de compassion et d’empathie. Le Léviathan échoué est un véritable travail d’amour pour le capitaine, et il tire une immense fierté de l’établissement. Cela dit, *Harrag* n’est pas un enfant de cœur. Il n’hésitera pas à conclure de bonnes affaires pour son entreprise, même si la tactique exige qu’il soit impitoyable. De même, ceux qui menacent l’établissement seront traités rapidement et fermement.
 
-![Capitaine Harrag](Images/CaptainHarrag.jpg =290x) **Capitaine Harrag**, propriétaire & capitaine
+![Capitaine Harrag](Images/CaptainHarrag.jpg =280x)<br>**Harrag**, propriétaire & capitaine
 
+(print-column)
 ##### Personnel ("Équipage")
 
 ***Andrella.*** "Camarade" - *Andrella* est le bras droit de Harrag. Une humaine d’âge moyen, elle est la barmaid principale (*Jyseria*, *Sandrine* et *Willow* étant les autres barmaids). Elle dirige le personnel quand *Harrag* n’est pas là et se soucie très profondément de lui. Elle a développé une sorte d’amour secret et non partagé pour le capitaine.
@@ -339,11 +338,11 @@ Les voleurs n’ont pas localisé l’appareil magique et ils n’ont vu ni sorc
 
 #### Infestation d’orcs
 
-La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles[*Many-Starred Cloak*], pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n’ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
+La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la revendiquer. Les habitants de Padhiver, en supposant que la tour était protégée par des défenses magiques laissées par les sorciers de la cape aux milles étoiles [*Many-Starred Cloak*], pensaient que les orcs aussi périraient rapidement dans la tour. Les orcs, cependant, n’ont apparemment rencontré aucune résistance dans la tour et ont pu la tenir.
 
 *Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu’il n’avait pas de meilleure option. La tour était en fait l’un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu’à ce qu’il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [*Many-Arrows*] ont décidé de quitter la tour et de se déplacer vers l’est pour aider leurs frères à combattre les nains.
 
-L’Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles[*Many-Starred Cloak*].
+L’Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles [*Many-Starred Cloak*].
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -405,15 +404,15 @@ Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le 
 
 ## Quartier du Lac Bleu [Bluelake]
 
-Ce quartier, anciennement "quartier du lac Noir", abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature reprenne ses droits.
+Ce quartier abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature y reprenne ses droits.
 
-*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu’ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions fantômes de la ville, des Fils d’Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, il s’est considérablement amélioré.
+*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu’ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions clandestines de la ville, des Fils d’Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, cela s’est considérablement amélioré.
 
 ### Lac Bleu [Bluelake]
 
-Le lac Bleu, anciennement appelé "Lac Noir", est un lac qui se trouve au centre de son quartier éponyme. Le lac est parfois utilisé pour des activités nautiques. Cependant, en été, le niveau du lac diminue considérablement et devient un peu plus marécageux.
+Le lac Bleu, anciennement appelé "Lac Noir", se trouve au centre de son quartier éponyme. Le lac est parfois utilisé pour des activités nautiques. Cependant, en été, le niveau du lac diminue considérablement et devient un peu plus marécageux.
 
-Le lac est devenu particulièrement vil et boueux depuis l’éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
+Le lac est devenu particulièrement vil et boueux après l’éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* a fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -421,9 +420,9 @@ Le lac est devenu particulièrement vil et boueux depuis l’éruption du mont H
 |*Lost Crown of Padhiver*, p. 33, (4th Edition)|
 {.references}
 
-### La maison aux mille visages [House of a Thousand Faces]
+### La maison aux mille visages
 
-La maison aux mille visages est une taverne confortable dans la région du lac Bleu à Padhiver. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s’assoient et conversent joyeusement.
+Cette maison [House of a Thousand Faces] est une taverne confortable dans la région du lac Bleu. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s’assoient et conversent joyeusement.
 
 Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. Une organisation qui tend généralement à préserver l’histoire et toutes les choses "bonnes", ont une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu’un de ses membres de haut rang a été surpris en train d’agir comme une sorte d’agent double entre *Lord Longuebraise* et les Fils d’Alagondar (qui s’opposaient au règne de *Longuebraise*).
 
@@ -432,13 +431,13 @@ Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhive
 |*Neverwinter Campaign Setting*, p. 153 - 154, (4th Edition)|
 {.references}
 
-## Le Quartier du Gouffre [Chasm District]
+## Le Quartier du Gouffre \[Chasm\]
 
 ### Le gouffre scellé
 
 Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l’Outreterre a été déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été essentiellement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s’approchait du gouffre éprouvait de l’anxiété et d’autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
 
-Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une magie puissante. Le gouffre scellé, le quartier n’était plus que des ruines rasées. La zone a été rendue libre pour la prise. Quiconque souhaitait établir une colonie dans la région était libre de revendiquer la terre et de le faire. Les colons audacieux, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
+Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une puissante magie. Une fois le gouffre scellé, le quartier était réduit à des ruines. Longuebraise déclara la zone libérée, et quiconque souhaitant s'y établir était libre de revendiquer un lopin de terre. C'est ainsi que d'audacieux colons, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -448,10 +447,9 @@ Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouf
 
 ## Pademort [Neverdeath]
 
-Pademort [Neverdeath] est le cimetière de Padhiver. Il est divisé en deux grandes sections. La section des pauvres, au sud-ouest, contient des rangées et des rangées de tombes humbles. Beaucoup sont anonymes, avec des âmes sans nom qui ont péri dans l’une des nombreuses tragédies et cataclysmes de Padhiver. L’autre section contient des mausolées plus élaborés, où la noblesse et les riches ont été inhumés.
+Pademort est le cimetière de Padhiver. Il est divisé en deux grandes sections. La section des pauvres, au sud-ouest, contient des rangées et des rangées de simples tombes. Beaucoup sont anonymes, avec des âmes sans nom qui ont péri dans l’une des nombreuses tragédies et cataclysmes de Padhiver. L’autre section contient des mausolées plus élaborés, où la noblesse et les riches ont été inhumés.
 
-Les deux sections de Pademort [Neverdeath] ont été fortement affectées par la Magepeste. En plus de modifier physiquement le paysage du cimetière, les cadavres reprennent vie et attaquent les visiteurs. De hauts murs empêchent les horreurs du cimetière d’attaquer la ville, et les habitants de Padhiver savent qu’il faut rester à l’écart des horreurs qui les attendent. Les habitants de Padhiver brûlent maintenant leurs morts.
-
+Les deux sections de Pademort ont été fortement affectées par la Magepeste. En plus de modifier physiquement le paysage du cimetière, les cadavres reprennent vie et attaquent les visiteurs. De hauts murs empêchent les horreurs du cimetière d’attaquer la ville, et les habitants de Padhiver savent qu’il faut rester à l’écart des horreurs qui les attendent. Les habitants de Padhiver brûlent maintenant leurs morts.
 
 |![Book](book.svg)**En savoir plus**|
 |---|

@@ -1,3 +1,21 @@
+@media print {
+  .print-cover-page,
+  .print-section-cover-page {
+    background-repeat: no-repeat;
+    background-position-y: center;
+  }
+
+  .print-page .page-content {
+    height: 270mm;
+  }
+
+  .print-page .footer-background,
+  .print-page .footer-content,
+  .print-page .footer-page-number {
+    z-index: 40;
+  }
+}
+
 table.wrapping {
   display: inline-block;
 }
