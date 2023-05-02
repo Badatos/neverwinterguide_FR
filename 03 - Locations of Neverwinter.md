@@ -118,9 +118,9 @@ Le Masque de Pierre-lune est une grande auberge qui se trouve sur une terre flot
 
 #### Le personnel du Masque
 
-On pourrait supposer que les chambres impeccables et la vue incomparable du Masque de Pierre-lune sont ce qui attire ses clients, mais c’est en fait le personnel du Masque qui est le principal attrait de l’auberge. Les membres du personnel sont formés pour être des compagnons qualifiés ainsi que des confidents amicaux et loyaux. Ils offrent une conversation érudite et sont compétents dans une grande variété de jeux. C’est cette compagnie qui a fait du Masque de Pierre-lune une destination de choix pour les personnes riches et de haut rang depuis plus d’un siècle. 
+On pourrait supposer que les chambres impeccables et la vue incomparable du Masque de Pierre-lune sont ce qui attire ses clients, mais c’est en fait le personnel du Masque qui est le principal attrait de l’auberge. Les membres du personnel sont formés pour être des compagnons qualifiés ainsi que des confidents amicaux et loyaux. Ils offrent une conversation érudite et sont compétents dans une grande variété de jeux. C’est cette compagnie qui a fait du Masque de Pierre-lune une destination de choix pour les personnes riches et de haut rang depuis plus d’un siècle.
 
-![Dame du Masque de Pierre-lune](Images/MoonstoneMaskLady.jpg =320x){.print-bottom-right .with-margin}
+![Dame du Masque de Pierre-lune](Images/MoonstoneMaskLady.jpg =370x){.print-bottom-right .with-margin}
 
 (print-page)
 
@@ -143,15 +143,15 @@ Pour les invités voyageant par les moyens les plus élaborés, le toit comporte
 |***Babioles au sous-sol***. Si les joueurs ont pu se faufiler dans les différentes salles de stockage du sous-sol du Mask sans se faire prendre, ils pourraient trouver toutes sortes d’objets magiques.|
 {.dmidea}
 
-![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =300x)<br>**Liset Cheldar**, propriétaire & aubergiste
+![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =350x)<br>**Liset Cheldar**, propriétaire & aubergiste
 
 (print-page)
 
-#### L’histoire du Masque
+#### L’histoire du Masque de Pierre-lune
 
-Le Masque de Pierre-lune a été construit par *Ophala Cheldarstorn*, mage et membre du Many-Starred Cloak. *Ophala* a également créé les masques magiques et les amulettes portés par le personnel. Avant que le Masque ne flotte au-dessus de Padhiver, la rumeur disait qu’il comportait des entrées secrètes où des invités spéciaux pouvaient entrer et sortir inaperçus. On disait aussi qu’il y avait des sous-sols reliés aux tunnels des zones tenues par les nains de l’Outreterre.
+Le Masque a été construit par *Ophala Cheldarstorn*, mage et membre de l’Ordre des capes aux milles étoiles. *Ophala* a également créé les masques magiques et les amulettes portés par le personnel. Avant que le batiment ne flotte au-dessus de Padhiver, la rumeur disait qu’il comportait des entrées secrètes où des invités spéciaux pouvaient aller et venir discrètement. On disait aussi que des sous-sols le reliaient aux tunnels des zones tenues par les nains de l’Outreterre.
 
-Au milieu des années 1400 DR, l’auberge a dérivé vers la mer des épées après que l’éruption du mont Hautchaud a cassé les attaches de corde de l’auberge. Les cordes qui attachaient l’auberge ont finalement été remplacées par de grandes chaînes solides, mais seulement après que l’auberge ait dérivé pendant des mois au-dessus de la mer des épées. Même après le retour du Masque à Padhiver, il a finalement attiré trop peu d’invités, est devenu insolvable et fermé pendant quelques décennies. Après que *Lord Dagult Longuebraise* ait lancé son mouvement "Nouveau Padhiver" pour commencer à reconstruire Padhiver, *Liset Cheldar* a pu non seulement convaincre *Longuebraise* qu’elle était l’héritière légitime du Masque de Pierre-lune, mais aussi pouvoir l’aider à financer la restauration de l’auberge à une grande partie de son ancienne gloire sous *Ophala Cheldarstorn*. En guise de remboursement, l’auberge servait souvent à loger *Longuebraise* et plusieurs de ses mercenaires et officiers tout au long des années 1470 et 1480 DR.
+Au milieu des années 1400 DR, l’éruption du mont Hautchaud a cassé les cordes qui l'ammaraient au sol. Elle a ainsi dérivé pendant des mois au-dessus de la mer des épées avant qu'on l'ammare à nouveau via de grandes chaînes solides. Même après le retour du Masque à Padhiver, le manque de clients l'obligea à fermer pendant quelques décennies. Lorsque *Lord Longuebraise* a lancé son mouvement "Nouveau Padhiver" pour la reconstruction de la ville, *Liset Cheldar* a pu non seulement convaincre *Longuebraise* qu’elle était l’héritière légitime du Masque, mais aussi de l’aider à financer la restauration de l’auberge, lui redonnant sa gloire d'antant. En guise de remboursement, l’auberge servit souvent à loger *Longuebraise* et plusieurs de ses mercenaires et officiers tout au long des années 1470 et 1480 DR.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -171,10 +171,10 @@ On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates au
 
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
-|***Un livre ouvert***. Dans la 4e édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
-|***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un dragon plus jeune a peut-être attaqué le Fort céleste, tué tous les habitants et gardé le butin des pirates comme son propre trésor.|
+|***Un livre ouvert***. Dans la 4<sup>e</sup> édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
+|***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un jeune dragon a peut-être attaqué le Fort céleste, tué tous les habitants et s'est attribué le butin des pirates.|
 |***Pirates zombies [niv. 9-11]***. Le dieu de la mort, *Myrkul*, a été très actif dans la région (voir la trilogie [Le dragon de la Flèche de Givre](https://www.dndbeyond.com/sources/doip) et [Au delà du dragon de la Flèche de Givre](https://www.dndbeyond.com/essentials/continue-the-adventure). Les morts-vivants ont envahi le Fort Céleste et l’ont transformé en un fort des damnés. Le Death Knight-Dreadnaught est étrangement ancré sous la terre flottante.|
-|***Je vais en prendre un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
+|***J'en prendrai un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -342,7 +342,7 @@ La tribu des orcs Mille-Flèches [*Many-Arrows*], a envahi la tour et a pu la re
 
 *Lord Longuebraise* a toléré les orcs à cet endroit en grande partie parce qu’il n’avait pas de meilleure option. La tour était en fait l’un des endroits les plus fortifiés de la ville, ce qui laissait *Longuebraise* attendre son heure jusqu’à ce qu’il puisse trouver un moyen de débarrasser la ville des orcs. Heureusement, les orcs Mille-Flèches [*Many-Arrows*] ont décidé de quitter la tour et de se déplacer vers l’est pour aider leurs frères à combattre les nains.
 
-L’Ordre des capes aux milles étoiles [*Many-Starred Cloak*] est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles [*Many-Starred Cloak*].
+L’Ordre des capes aux milles étoiles est redevenu actif, certains membres de rang travaillant même avec *Lord Longuebraise* pour sécuriser la région. Il est présumé que la garde de la tour des capes est revenue aux capes aux milles étoiles.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
