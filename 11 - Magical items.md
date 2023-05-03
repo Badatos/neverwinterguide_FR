@@ -2,13 +2,15 @@
 name: Annexe D - Liste des objets magiques
 slug: magical-items-page
 order: 110
+module-pagebreaks: h1, h2
 ---
 
 # Annexe D - Liste d’objets magiques
 
 Ci-dessous vous trouverez une liste des objets magiques qu’on peut trouver à Padhiver, classés par lieu.{.no-fancy}
 
-## Prix des objets magiques
+## Estimation des objets magiques
+Le tableau ci-dessous vous permert d’évaluer le prix d'un objet magique en fonction de sa rareté.
 |Rareté|Niveau du personnage|Valeur|
 |--|--|--|
 |Commun| 1 ou +| 50 - 100 po|

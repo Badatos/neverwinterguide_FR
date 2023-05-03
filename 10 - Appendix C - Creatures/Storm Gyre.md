@@ -19,7 +19,7 @@ int: 5
 wis: 14
 cha: 5
 senses: vision dans le noir 18 m,  Perception passive 12
-resistances: foudre, tonnerre ; contondant, perforant, et tranchant d'attaques non magiques
+resistances: foudre, tonnerre ; contondant, perforant, et tranchant d'attaques non magiques
 damageImmunities: poison
 conditionImmunities: épuisement, agrippé, paralysé, pétrifié, empoisoné, à terre, entravé, inconscient
 languages: aérien

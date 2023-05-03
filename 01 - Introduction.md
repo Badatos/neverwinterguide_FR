@@ -13,7 +13,7 @@ De nombreux Maîtres de Donjoon ont commencé leurs campagnes, et souvent leur r
 
 ## À propos de ce guide
 
-Il a 2 buts principaux : 
+Il a 2 buts principaux :
 1. Fournir des informations précises sur Padhiver telles qu’elles proviennent des livres sources et aventures officiels de Dungeons & Dragons. Les informations qui *ne proviennent pas* d’une telle source seront clairement indiquées.
 2. Fournir aux maîtres de donjon un ensemble d’outils et d’idées pour les aider à créer une aventure si leur table décide de se promener dans Padhiver.
 
@@ -27,7 +27,7 @@ Ceci est un guide pour les Maîtres de Donjon et contient quelques spoilers sur 
 
 La première partie de ce guide détaille les lieux officiels de Padhiver. Cette section contient une multitude de ressources pour toute campagne se déroulant dans Padhiver. Nous avons une incroyable carte haute résolution de la ville elle-même et de belles illustrations pour de nombreux points d’intérêt de la ville. Assurez-vous de consulter l’[Annexe B](appendix-b-point-of-interest-cards-page) pour les cartes indiquant les prix des biens et des services, et bien plus encore. Tout dans cette section est issu de matériel officiel (sauf la section "Inspiration pour le maître du donjon").
 
-Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! [Cartes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
+Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! [Cartes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
 
 ### La section "Aventures rapides"
 

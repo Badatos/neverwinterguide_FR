@@ -48,7 +48,7 @@ Lorsque les joueurs approchent de la villa, lisez ce qui suit :
 
 La porte de la villa est verrouillé, toute la maison est protégée par une magie d’abjuration, et les tentatives de percer physiquement une fenêtre ou une porte échoueront (peu importe la force des membres du groupe). La barrière magique, placée par *Elden Vargas*, était destinée à empêcher les voleurs ordinaires d’entrer chez lui pendant son absence. Un simple sort [Dissipation de la magie](/spell/dispel-magic) débarrassera toute la villa de la barrière.
 
-Alors que les joueurs tentent de franchir la porte, trois membres du gang des Rats Morts [Dead Rats] (2 [Assassins rats-garous](/monster/wererat-assassin){.screen-only}[Assassin rat-garou](wererat-assassin-page){ .print-only .monster} et une [Magicienne ratte-garou](/monster/wererat-wizard){.screen-only}[Magicien rat-garou](wererat-wizard-page){.print-only .monster}) approchent par derrière :
+Alors que les joueurs tentent de franchir la porte, trois membres du gang des Rats Morts [Dead Rats] (2 [Assassins rats-garous](/monster/wererat-assassin){.screen-only}[Assassin rat-garou](wererat-assassin-page){ .print-only .monster} et une [Magicienne ratte-garou](/monster/wererat-wizard){.screen-only}[Magicien rat-garou](wererat-wizard-page){.print-only .monster}) approchent par derrière :
 
 > Alors que vous essayez d’entrer dans la structure, trois hybrides mi-homme mi-rat franchissent les portes derrière vous. Deux sont vêtus de cuir noir et portent un assortiment d’épées et de poignards, et un est en robe et porte un bâton lumineux. L’un des rats vêtus de cuir vous gronde : "Vous empiétez sur une propriété des *Rats Morts*, et il serait préférable que vous partiez."{.read}
 
@@ -77,7 +77,7 @@ La porte qui claque donne sur la chambre d’*Elden Vargas* (section 5). Un test
 |![Crâne](../skull.svg)[Rencontre : 1x Tornade orageuse](abandoned-townhouse-storm-gyre-encounter)|
 {.enemy .screen-only}
 
-Elden Vargas a laissé un [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gyre](storm-gyre-page){.print-only .monster} dans sa chambre comme sentinelle. Lorsque les joueurs ouvrent la porte de la salle, lisez :
+Elden Vargas a laissé un [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gyre](storm-gyre-page){.print-only .monster} dans sa chambre comme sentinelle. Lorsque les joueurs ouvrent la porte de la salle, lisez :
 
 > Au centre de la salle, un vortex tourbillonnant crépite d’arcs de foudre. Le vortex reste stable au centre de la pièce pendant quelques battements de cœur, mais ensuite un visage émerge de la tempête. Un vent chaotique balaie la pièce et fait voler les papiers sur le bureau. Le vortex se précipite sur vous. {.lire}
 

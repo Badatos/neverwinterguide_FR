@@ -11,6 +11,7 @@
 		"markdown.styles": [
 			"assets/css/custom.css"
 		],
+		"editor.renderWhitespace": "all",
 		"cSpell.words": [
 			"Aganazzar",
 			"Alagondar",
@@ -96,7 +97,7 @@
 			"Nasher",
 			"Nashers",
 			"Netherese",
-			"Neverdeath",
+			"Pademort",
 			"Longuebraise",
 			"Neverneath",
 			"Padhiver",
@@ -108,8 +109,8 @@
 			"Overwizard",
 			"pagebreaks",
 			"Pavlenko",
-			"Phandalin",
-			"Phandelver",
+			"Phandaline",
+			"Phancreux",
 			"Pinterest",
 			"plaguechanged",
 			"Presper",

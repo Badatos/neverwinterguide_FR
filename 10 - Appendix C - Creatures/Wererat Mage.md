@@ -34,7 +34,7 @@ actions:
   - name: Morsure (forme de rat ou hybride uniquement)
     description: "Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. *Touché* : 4 (1d4 + 2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11 ou être atteinte de la lycanthropie de rat-garou."
   - name: Incantation (forme humanoïde ou hybride uniquement)
-    description: "Le rat-garou lance l'un des sorts suivants, en utilisant l'Intelligence comme capacité d'incantation (jet de sauvegarde contre ses sorts DD 14) :
+    description: "Le rat-garou lance l'un des sorts suivants, en utilisant l'Intelligence comme capacité d'incantation (jet de sauvegarde contre ses sorts DD 14) :
 
         * À volonté : <i>Lumières dansantes</i>, <i>Main de mage</i>, <i>Prestidigitation</i>
 

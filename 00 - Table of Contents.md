@@ -17,15 +17,15 @@ hide-footer-text: true
 - [Le palais de justice [Hall of Justice]](le-palais-de-justice-hall-of-justice)
 - [La maison du savoir [House of Knowledge]](la-maison-du-savoir)
 - [Les Terres flottantes [Floating Earthmotes]](les-terres-flottantes-floating-earthmotes) {.category}
-- [Le Masque de Pierre-lune [Moonstone Mask]](le-masque-de-pierre-lune-moonstone-mask)
-- [Le Fort aérien des pirates [Pirates’ Skyhold]](fort-aerien-des-pirates-pirates-skyhold)
-- [Le Flotteur des pêcheurs [Fisher’s Float]](le-flotteur-des-pecheurs-fishers-float)
+- [☁ Le Masque de Pierre-lune [Moonstone Mask]](le-masque-de-pierre-lune-moonstone-mask)
+- [☁ Le Fort aérien des pirates [Pirates’ Skyhold]](fort-aerien-des-pirates-pirates-skyhold)
+- [☁ Le Flotteur des pêcheurs [Fisher’s Float]](le-flotteur-des-pecheurs-fishers-float)
 - [Quartier des Quais](quartier-des-quais) {.category}
 - [Le Léviathan échoué](le-leviathan-echoue)
 - [La taverne du bois flotté [Driftwood Tavern]](la-taverne-du-bois-flotte-driftwood-tavern)
 - [La maison de commerce de Tarmalune](la-maison-de-commerce-de-tarmalune)
 - [Quartier de la tour](quartier-de-la-tour) {.category}
-- [L’Éclat de lune [The Shard of the Moon]](leclat-de-lune-the-shard-of-the-moon)
+- [☁ L’Éclat de lune [The Shard of the Moon]](leclat-de-lune-the-shard-of-the-moon)
 - [La tour de la cape [Cloak Tower]](la-tour-de-la-cape-cloak-tower)
 - [La tour déchue](la-tour-dechue)
 - [Quartier du Lac Bleu [Bluelake]](quartier-du-lac-bleu-bluelake) {.category}
@@ -37,11 +37,11 @@ hide-footer-text: true
 - [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
 - [Histoire abrégée de Padhiver](une-histoire-abregee-de-padhiver) {.part}
 - [Commerces non-officiels](homebrew-locations) {.part}
-- [Défenses solides de Brannur](aux-defenses-solides-de-brannur)
-- [Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)
-- [Parfums et boissons de Priscilla](parfums-et-boissons-de-priscilla)
-- [Articles divers de Cœur-Vif](articles-divers-de-coeur-vif)
-- [Acquisitions arcaniques](acquisitions-arcaniques)
+- [🍺 Défenses solides de Brannur](aux-defenses-solides-de-brannur)
+- [🍺 Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)
+- [🍺 Parfums et boissons de Priscilla](parfums-et-boissons-de-priscilla)
+- [🍺 Articles divers de Cœur-Vif](articles-divers-de-coeur-vif)
+- [🍺 Acquisitions arcaniques](acquisitions-arcaniques)
 - [Aventures rapides](quick-adventures) {.part}
 - [La villa abandonnée](la-villa-abandonnee)
 - [Annexes](appendix-a-maps-page) {.part}

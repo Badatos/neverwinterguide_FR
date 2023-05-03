@@ -12,7 +12,7 @@ module-pagebreaks: h1, h2, h3
 |Cette section présente des lieux non officiels de Padhiver, créés pour ce guide. Personnalisez-les pour *votre* campagne !|
 {.homebrew}
 
-Bienvenue, maîtres de donjon ! Alors que ce guide s’est jusqu’à présent concentré sur les lieux officiels et l’histoire de Padhiver, cette section vise à fournir des lieux nouvellement créés que les maîtres de donjon pourraient trouver utiles s’ils mènent une campagne dans cette ville tentaculaire. Malgré les excellents emplacements proposés dans les sources officielles, la ville est en fait peuplée de magasins et d’emplacements utilitaires plus banals (du moins par rapport à d’autres communes comme Phandaline).
+Bienvenue, maîtres de donjon ! Alors que ce guide s’est jusqu’à présent concentré sur les lieux officiels et l’histoire de Padhiver, cette section vise à fournir des lieux nouvellement créés que les maîtres de donjon pourraient trouver utiles s’ils mènent une campagne dans cette ville tentaculaire. Malgré les excellents emplacements proposés dans les sources officielles, la ville est en fait peuplée de magasins et d’emplacements utilitaires plus banals (du moins par rapport à d’autres communes comme Phandaline).
 
 Dans cette section, vous trouverez un magasin d’armures, un magasin d’armes, un magasin de potions, un magasin de marchandises générales et un magasin d’objets magiques - toutes sortes de choses que l’on pourrait s’attendre à trouver dans une grande ville de Faerûn. Tout dans cette section a été conçu uniquement pour ce guide, n’ayez donc aucun remord à modifier les détails de ces emplacements pour votre campagne si vous décidez de les utiliser !
 
@@ -22,15 +22,15 @@ Assurez-vous de consulter l’[Annexe B](point-of-interest-cards-page) pour des 
 
 ### Aux défenses solides de Brannur
 
-*Brannur Lutgehr*, un jeune nain mâle talentueux et travailleur (selon les normes naines), a vu une opportunité dans les efforts de reconstruction de Padhiver. Brannur a ouvert un atelier de forge au quartier du gouffre de Padhiver pour y vendre des armures, des outils et de plus gros équipements agricoles (par exemple, des charrues). Alors que la boutique naissante n’est encore positionnée que pour offrir les formes d’armures les plus standard, Brannur acquiert rapidement une réputation de produits bien conçus et a même signé des contrats de fourniture d’armures aux forces de l’ordre de Padhiver.
+*Brannur Lutgehr*, un jeune nain mâle talentueux et travailleur (selon les normes naines), a vu une opportunité dans les efforts de reconstruction de Padhiver. *Brannur* a ouvert un atelier de forge au quartier du gouffre de Padhiver pour y vendre des armures, des outils et de plus gros équipements agricoles (par exemple, des charrues). Alors que la boutique naissante n’est encore positionnée que pour offrir les formes d’armures les plus standard, *Brannur* acquiert rapidement une réputation de produits bien conçus et a même signé des contrats de fourniture d’armures aux forces de l’ordre de Padhiver.
 
-La boutique est impeccablement propre et bien organisée. La majeure partie des armures exposées sont poliee avec une finition miroir et toujours disposées dans une configuration parfaitement symétrique sur les murs et les stands de la boutique. Si Brannur n’est pas à l’arrière de la boutique en train de travailler avec les forges, on peut le trouver à l’avant de la boutique en train de balayer ou de courir avec un chiffon pour enlever les taches qui auraient pu se retrouver sur l’une de ses œuvres. Un client qui heurte accidentellement l’un des supports d’armure de telle sorte qu’il s’incline légèrement est susceptible de donner à Brannur une contraction involontaire.
+La boutique est impeccablement propre et bien organisée. La majeure partie des armures exposées sont poliee avec une finition miroir et toujours disposées dans une configuration parfaitement symétrique sur les murs et les stands de la boutique. Si *Brannur* n’est pas à l’arrière de la boutique en train de travailler avec les forges, on peut le trouver à l’avant de la boutique en train de balayer ou de courir avec un chiffon pour enlever les taches qui auraient pu se retrouver sur l’une de ses œuvres. Un client qui heurte accidentellement l’un des supports d’armure de telle sorte qu’il s’incline légèrement est susceptible de donner à *Brannur* une contraction involontaire.
 
-Brannur a un comportement calme et poli, et la plupart de ses clients auraient du mal à l’imaginer élever la voix, que ce soit dans l’excitation ou la colère. Cela transparaît dans son travail, car Brannur aime concentrer ses talents sur la fabrication d’objets de défense et d’utilité plutôt que sur des objets destinés à nuire. Cependant, cette illusion d’un stoïcisme calme serait rapidement dissipée si l’on voyait Brannur et sa sœur, Brannwyn, interagir. Lorsque ces deux-là sont dans la même pièce, une vive dispute surgit à coup sûr.
+Brannur a un comportement calme et poli, et la plupart de ses clients auraient du mal à l’imaginer élever la voix, que ce soit dans l’excitation ou la colère. Cela transparaît dans son travail, car *Brannur* aime concentrer ses talents sur la fabrication d’objets de défense et d’utilité plutôt que sur des objets destinés à nuire. Cependant, cette illusion d’un stoïcisme calme serait rapidement dissipée si l’on voyait *Brannur* et sa sœur, Brannwyn, interagir. Lorsque ces deux-là sont dans la même pièce, une vive dispute surgit à coup sûr.
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Ingrédient supérieur***. Brannur veut faire monter sa boutique en gamme, mais pour ce faire, il a besoin d’un ingrédient rare difficilement accessible. Il a entendu dire que l’ingrédient était en possession des pirates de la Forteresse et aimerait que le groupe le lui en procure.|
+|***Ingrédient supérieur***. *Brannur* veut faire monter sa boutique en gamme, mais pour ce faire, il a besoin d’un ingrédient rare difficilement accessible. Il a entendu dire que l’ingrédient était en possession des pirates de la Forteresse et aimerait que le groupe le lui en procure.|
 |***Métal rare***. Si dans leurs aventures les héros obtiennent du Mithral, de l'adamantium ou même des écailles de dragon, et en apportent suffisament à Brannur, celui-ci pourra leur confectionner une armure avec.|
 {.dmidea}
 
@@ -44,11 +44,11 @@ Brannur a un comportement calme et poli, et la plupart de ses clients auraient d
 
 ### Les Lames tranchantes de Brannwyn
 
-Brannwyn Lutgehr, sœur de Brannur, est également venue chercher la fortune qu’un Padhiver en évolution rapide pourrait lui offrir. Brannwyn a ouvert une boutique à côté de son frère, Brannur, où elle expose également ses talents de forgeron en créant toutes sortes d’armes. Comme son frère, Brannwyn acquiert également la réputation d’être une source fiable pour armer les forces de défense croissantes de Padhiver. En fait, certains membres du personnel d’approvisionnement de la ville ont irrité à la fois Brannur et Brannwyn en passant une seule commande d’armures et d’armes, pensant que leurs deux magasins ne forment qu’une seule entité.
+*Brannwyn Lutgehr*, sœur de *Brannur*, est également venue chercher la fortune qu’un Padhiver en évolution rapide pourrait lui offrir. *Brannwyn* a ouvert une boutique à côté de son frère, *Brannur*, où elle expose également ses talents de forgeron en créant toutes sortes d’armes. Comme son frère, *Brannwyn* acquiert également la réputation d’être une source fiable pour armer les forces de défense croissantes de Padhiver. En fait, certains membres du personnel d’approvisionnement de la ville ont irrité à la fois *Brannur* et *Brannwyn* en passant une seule commande d’armures et d’armes, pensant que leurs deux magasins ne forment qu’une seule entité.
 
-La boutique de Brannwyn n’a pas la propreté méticuleuse exposée dans la boutique de son frère, mais cela ne signifie pas que les produits sont de moindre qualité. Les armes fabriquées dans la boutique de Brannwyn sont forgées avec soin, et elles sont connues pour être aussi fiables que mortelles. Les épées fabriquées dans la boutique de Brannwyn sont tranchantes, bien équilibrées et très robustes.
+La boutique de *Brannwyn* n’a pas la propreté méticuleuse exposée dans la boutique de son frère, mais cela ne signifie pas que les produits sont de moindre qualité. Les armes fabriquées dans la boutique de *Brannwyn* sont forgées avec soin, et elles sont connues pour être aussi fiables que mortelles. Les épées fabriquées dans la boutique de *Brannwyn* sont tranchantes, bien équilibrées et très robustes.
 
-La personnalité de Brannwyn est presque l’exact opposée de celle de son frère, et le nom "Lame tranchantes" de sa boutique fait aussi probablement référence à son comportement qu’à ses armes finement conçues. Brannwyn est vive d’esprit et n’hésitera pas à prendre un coup verbal à tout ce qui arrive dans sa boutique. Ceux qui sont facilement offensés feraient probablement mieux de faire leurs courses ailleurs.
+La personnalité de *Brannwyn* est presque l’exact opposée de celle de son frère, et le nom "Lame tranchantes" de sa boutique fait aussi probablement référence à son comportement qu’à ses armes finement conçues. *Brannwyn* est vive d’esprit et n’hésitera pas à prendre un coup verbal à tout ce qui arrive dans sa boutique. Ceux qui sont facilement offensés feraient probablement mieux de faire leurs courses ailleurs.
 
 ![Brannwyn Lutgehr](Images/Brannwyn.jpg =370x)**Brannwyn Lutgehr**, Forgeronne
 
@@ -58,7 +58,7 @@ La personnalité de Brannwyn est presque l’exact opposée de celle de son frè
 
 > **Rivalité fraternelle**
 >
-> Brannur et Brannwyn sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs magasins sont situés juste à côté l’un de l’autre, autant dire que les compétitions sont fréquentes. Certains acheteurs habiles ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en montant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’autre frère a revendiqué pouvoir faire quelque chose de mieux que l’autre ; cela obligera le premier à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
+> *Brannur* et *Brannwyn* sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs magasins sont situés juste à côté l’un de l’autre, autant dire que les compétitions sont fréquentes. Certains acheteurs habiles ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en montant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’autre frère a revendiqué pouvoir faire quelque chose de mieux que l’autre ; cela obligera le premier à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
 >
 > Cependant, insulter un des frère et sœur devant l’autre sera accueilli avec fureur. Au fond, ils se soucient profondément l’un de l’autres, et leurs petites querelles sont de loin éclipsées par l’immense sentiment de fierté et d’unité familiale. Il est assez courant de voir l’un aider l’autre en prêtant un outil ou même en faisant don de métaux et de matériaux coûteux. Un étranger faisant une remarque désobligeante envers un des frères et sœurs sera, au mieux, accueilli par un regard noir et une insulte en retour et, au pire, se verra expulser du magasin ou appellera tout le clan Lutgehr aux armes.
 
@@ -86,7 +86,7 @@ Néanmoins, sa boutique correspond parfaitement à la volonté du quartier du La
 
 ### Articles divers de Cœur-Vif
 
-Articles divers de Cœur-Vif est un magasin de marchandises générales appartenant à *Cœur-Vif*, une Tabaxi relativement âgée. 
+Articles divers de Cœur-Vif est un magasin de marchandises générales appartenant à *Cœur-Vif*, une Tabaxi relativement âgée.
 La boutique est un nouveau bâtiment modeste qui a été construit sur les fondations d’un bâtiment effondré dans le quartier du Gouffre.
 
 >  Le bâtiment récemment construit sent le bois frais, la farine fraîche et les herbes séchées suspendues. Les étals sont modestes, mais la boutique est bien rangée.
@@ -113,7 +113,7 @@ Cœur-Vif a maintenant une disposition détendue et empathique, mais elle sera l
 Acquisitions arcaniques est une boutique qui vend des armes et armures magiques située dans le quartier du Gouffre.
 Le magasin est généralement très facile à localiser, car il émanera généralement une lueur violette, verte ou bleue brillante de l’une de ses nombreuses forges et braseros (au grand dam de ses voisins). En s’approchant de la boutique, un client entendra généralement le martèlement d’un marteau sur l’enclume, le sifflement des soupapes à vapeur libérées des nombreux alambics et engins alchimiques, ou le rugissement de flammes apparemment magiques.
 
-> Il émane de ce magasin une lueur changeante, variant de violet au vert. En s’approchant de la boutique, vous entendez divers martèlements et sifflement. Un voisins lâche un *"On est jamais tranquilles avec un voisin comme Flinar !"*.
+> Il émane de ce magasin une lueur changeante, variant de violet au vert. En s’approchant de la boutique, vous entendez divers martèlements et sifflement. Un voisins lâche un *"On est jamais tranquilles avec un voisin comme Flinar !"*.
 
 La boutique est dirigée par l’excentrique magicien nommé *Flinar Ralolar*. Ce demi-elfe porte une robe et des lunettes de soudeur. Il travaille tranquillement avec un froncement de sourcils perpétuel sur son visage. Son assistant, un gobelin du nom de *Gigz,* effectue la plupart des travaux de forge banals à la boutique. Cependant, les clients n’entendront jamais *Flinar* et *Gigz* converser : Le propriétaire ne communique que par télépathie avec son assistant.
 
@@ -143,7 +143,7 @@ Utilisez le tableau suivant pour les objets magiques qui pourraient être propos
 |**10**| [Boucle d’oreille de Babel](/item/babel-earring)|
 |**11**| [Armure du crépuscule](/item/shadowgarb-armor)|
 |**12**| [Anneau des échos](/item/ring-of-echoes)|
-{.allow-breaks}
+{.allow-breaks .shop}
 
 EN
 |[D12](/roll/d12)| Magical item|

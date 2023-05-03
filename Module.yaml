@@ -11,6 +11,7 @@ version: 7
 auto-increment-version: false
 delete-empty-groups: true
 print-document-size: a4
+create-roll-tables: true
 ignore:
   - CHANGELOG.md
   - README.md
