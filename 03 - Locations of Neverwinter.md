@@ -384,7 +384,20 @@ Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné 
 
 Lorsqu’ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu’ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
 
-Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu’ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d’origine inconnue, est servie pour être préparée sur un feu ouvert.
+Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu’ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d’origine inconnue, est servie pour être préparée sur un feu ouvert.
+#### “Refreshments”
+|Refreshment|Prix|
+|---|---|
+|Vagdru’s “Special” Brew, tankard|3 cp|
+|Cider, tankard|3 cp|
+|Stout, tankard|3 cp|
+|Ale, tankard|3 cp|
+|Brown Bread, loaf |3 cp|
+|“Meat” Pie, served raw upon request|5 cp|
+|Rhubarb Pie|5 cp|
+{.shop}
+
+*\* Tous nos prix tiennent comptent de la taxe de reconstruction de Padhiver*
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
