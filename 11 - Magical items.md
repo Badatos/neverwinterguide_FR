@@ -99,8 +99,15 @@ slug: extra-light-longbow
 type: Weapon
 rarity: Peu commun
 attunement: Nécessite un lien
-description: Le porteur gagne un bonus de +1 aux jets d’initiative.
-value: 200 po
+description: Le porteur gagne un bonus de +1 aux jets d’initiative et d'attaque.
+primaryDamage: 1d8
+damageType: Piercing
+weight: 500g
+properties:
+  - Munitions (portée 45 m/180 m)
+  - Lourde
+  - À deux mains
+value: 250 po
 ```
 
 #### 7
