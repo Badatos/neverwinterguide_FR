@@ -46,4 +46,4 @@ order: 1
 
 <br /><br />
 
-![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions-FR.webp){.size-full}
+![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions.webp){.size-full}
