@@ -27,7 +27,7 @@ Tout au long des nombreuses attaques et catastrophes de Padhiver, Castel-Nièvre
 
 #### L’intérieur du château
 
-Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées:
+Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées :
 - ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [Myconids](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
 - ***Galerie des Glaces***. Auparavant une longue salle des miroirs où la noblesse pratiquait la démarche et la posture, tout intrus mortel qui entre dans cette salle trouvera une recréation magique de la destruction de la salle. Des éclats de verre miroir volant et des ruines enflammées seront lancés sur tous ceux qui restent trop longtemps dans le hall.
 - ***Padessous***. Les catacombes sous le château, appelées "Padessous [Neverneath]", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
@@ -374,7 +374,7 @@ Des décennies avant la Magepeste, la tour appartenait à un puissant sorcier no
 
 Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque nuit, au moment exact où *Llomnauvel* a déclenché l’explosion qui a détruit la tour, des visions de ces derniers instants apparaissent à la base de la tour en ruine. Ces projections magiques silencieuses représentent des mages de la Confrérie, en feu, tombant impuissants vers la mort. Ceux-ci sont ensuite suivis par le maître de la Confrérie tombant de la même manière, tandis que ses membres se transforment en anguilles.
 
-Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XVe siècle RD, a laissé la taverne à l’abandon pendant des années.
+Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XV<sup>e</sup> siècle RD, a laissé la taverne à l’abandon pendant des années.
 
 ![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
 
@@ -385,25 +385,22 @@ Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné 
 Lorsqu’ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu’ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
 
 Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu’ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d’origine inconnue, est servie pour être préparée sur un feu ouvert.
-#### “Refreshments”
-|Refreshment|Prix|
+|Rafraîchissement|Prix|
 |---|---|
-|Vagdru’s “Special” Brew, tankard|3 cp|
-|Cider, tankard|3 cp|
-|Stout, tankard|3 cp|
-|Ale, tankard|3 cp|
-|Brown Bread, loaf |3 cp|
-|“Meat” Pie, served raw upon request|5 cp|
-|Rhubarb Pie|5 cp|
+|Cuvée “spéciale” de Vagdru, chope|3 pc|
+|Cidre, chope|3 pc|
+|Bière blonde “Stout”, chope|3 pc|
+|Bière brune “Ale”, chope|3 pc|
+|Pain brun, portion |3 pc|
+|“Tourte à la Viande”, servie crue sur demande|5 pc|
+|Tarte à la rhubarbe|5 pc|
 {.shop}
-
-*\* Tous nos prix tiennent comptent de la taxe de reconstruction de Padhiver*
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Difficultés techniques***. Quelque chose ne va pas, et les visions magiques nocturnes auparavant bénignes des mages qui tombent deviennent réelles; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
+|***Difficultés techniques***. Quelque chose ne va pas, et les visions magiques nocturnes auparavant bénignes des mages qui tombent deviennent réelles ; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
 |***Immunité diplomatique***. La tour déchue est l’endroit idéal pour discuter entre les aventuriers et certaines des races les moins respectées de Faerûn.|
-|***L’Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red} ou un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
+|***L’Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red}, une [Bête éclipsante](/monster/displacer-beast){.red} ou même un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
