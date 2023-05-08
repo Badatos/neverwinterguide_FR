@@ -93,4 +93,4 @@ order: 1
 
 \* Tous les prix indiqués tiennent compte de la taxe de rénovation de Padhiver.
 
-![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions-FR.webp){.size-full}
+![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions.webp){.size-full}
