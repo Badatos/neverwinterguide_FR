@@ -8,9 +8,9 @@ order: 50
 
 ***-10 DR***. *Lord Halueth Nièvre*, un elfe du soleil, colonise la région lors de sa conquête d’Illusk. Début de la construction de Castel-Nièvre.{.no-fancy}
 
-***87 DR***. Le village d'Eigersstor est fondé autour de Castel-Nièvre. Une traduction chondathan ultérieure nommera cette colonie "Padhiver".
+***87 DR***. Le village d’Eigersstor est fondé autour de Castel-Nièvre. Une traduction chondathan ultérieure nommera cette colonie "Padhiver".
 
-***457 DR***. Une école de sorcellerie est fondée à Padhiver par les sorciers Aganazzar, Ilyykur, Presper et Grimwald (collectivement connus sous le nom de l'Accord [Covenant]).
+***457 DR***. Une école de sorcellerie est fondée à Padhiver par les sorciers Aganazzar, Ilyykur, Presper et Grimwald (collectivement connus sous le nom de l’Accord [Covenant]).
 
 ***955 DR***. Les sorciers rouges de Thay aident des hordes d’orcs à échapper aux sorciers de Padhiver en déclenchant "l’affaire Orcgates" et une querelle séculaire entre Thay et Padhiver.
 
@@ -20,7 +20,7 @@ order: 50
 
 ***1372 DR***. Une maladie frappe Padhiver qui tue la plupart de ses habitants dans les dix jours suivant son apparition. Elle devient connue sous le nom de "La mort gémissante".
 
-***1379 DR***. Les Shadovar attaquent la Salle de l'ombre lunaire et envoient une de ses tours à Shadowfell. Dans quelques années, elle réapparaîtra à Padhiver comme l’Éclat flottant de la nuit  [The Shard of the Night].
+***1379 DR***. Les Shadovar attaquent la Salle de l’ombre lunaire et envoient une de ses tours à Shadowfell. Dans quelques années, elle réapparaîtra à Padhiver comme l’Éclat flottant de la nuit  [The Shard of the Night].
 
 ***1385 DR***. La Magepeste frappe Toril. Cela crée les terres flottantes sur lesquels résident certains points de repère de Padhiver, déplace la tour des capes dans un lointain royaume, provoque le réveil des morts-vivants dans le cimetière de Pademort, permet aux Netherisses de transporter l’éclat de la nuit à Padhiver et corrompt l’Outreterre situé sous Padhiver (qui sera exposé plus tard sous à travers le Gouffre).
 

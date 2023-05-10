@@ -6,7 +6,6 @@ include-in: print
 ---
 
 
-Annexe B - Affichettes des magasins
-===================================
+# Annexe B - Affichettes des magasins
 
 ![Magasin](POICards.svg){.size-cover}

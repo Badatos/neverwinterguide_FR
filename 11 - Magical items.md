@@ -10,7 +10,7 @@ module-pagebreaks: h1, h2
 Ci-dessous vous trouverez une liste des objets magiques qu’on peut trouver à Padhiver, classés par lieu.{.no-fancy}
 
 ## Estimation des objets magiques
-Le tableau ci-dessous vous permert d’évaluer le prix d'un objet magique en fonction de sa rareté.
+Le tableau ci-dessous vous permet d’évaluer le prix d’un objet magique en fonction de sa rareté.
 |Rareté|Niveau du personnage|Valeur|
 |--|--|--|
 |Commun| 1 ou +| 50 - 100 po|
@@ -99,7 +99,7 @@ slug: extra-light-longbow
 type: Weapon
 rarity: Peu commun
 attunement: Nécessite un lien
-description: Le porteur gagne un bonus de +1 aux jets d’initiative et d'attaque. Munitions (portée 45 m/180 m)
+description: Le porteur gagne un bonus de +1 aux jets d’initiative et d’attaque. Munitions (portée 45 m/180 m)
 primaryDamage: 1d8
 damageType: Piercing
 weight: 500g
@@ -211,33 +211,33 @@ properties:
   - Finesse
 damageType: Slashing
 description: At first glance. this weapon appears to be a sword made entirely of silver, with a large emerald embedded in the pommel Once attuned, however, the weapon melts into a Duddle of mercury and forms into a silver bracer on vour arm. <br> You gain a +2 to attack and damage rolls when using this weapon. As a bonus action, you may transform Quicksilver into an weanon which does not have the heavvor two-handed properties. You can also choose transform it into an amulet or a shield as well as its bracer form. <br> In addition, this weapon has 6 charges and regains 1d4 + 2 expended charges daily at dawn and you can expend 1 or more of its charges for one of the following effects <br> * As an action, vou can launch forward a lance of l1gu1d metal that is 5 feet wide and 30 feet long. Each creature in that line must make a DC 17 Dexterity saving throw, taking 6d6 dégâts perforants on a failed save.<br> * As an action, you can spin the weapon around you. creating a razor sharp ribbon of liquid silver. Each creature within 5 feet of vou must make a DC 17 Dexterity saving throw. On a failed save, a creature takes 6d6 slashing damage.<br> * When targeted by an attack, as a reaction, vou can form a shimmering silver layer of metal over your skin. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and vou take nc damage from magic missile.<br>* As a bonus action, you can hold the sword aloft as it emits a blinding emerald light. All creatures within 15 feet of you must succeed a DC 17 Constitution saving throw or be blinded unti the start of their next turn.<br> If the weapon is more than 10 feet from vou. it melts into a puddle of mercury and moves towards you at lU feet per round. Upon reaching vou, it forms into its bracer form. If the emerald core is destroved, the weapon reverts to mundane mercury.
-source: Basil's Brews
+source: Basil’s Brews
 ```
 
 ## À la boutique "Les défenses solides de Brannur"
-Si les joueurs ont réussi à terrasser un dragon et qu'ils offrent ses écailles à Brannur, ce dernier pouura leur fabriquer une Armure d'écailles de dragon
+Si les joueurs ont réussi à terrasser un dragon et qu’ils offrent ses écailles à Brannur, ce dernier pouura leur fabriquer une Armure d’écailles de dragon
 
 ```Item
-name: Armure d'écailles de dragon
+name: Armure d’écailles de dragon
 slug: armure-ecailles-dragon
 rarity: Très rare
 attunement: Nécessite un lien
 type: Medium armor
 ac: 14 + Mod.Dex (max +2) + 1 - 	Désavantage à discretion
-description: Une armure d'écailles de dragon est fabriquée à partir des écailles d'une sorte de dragon. Parfois les dragons récoltent les écailles qu'ils ont perdues et les offrent aux humanoïdes. Dans d'autres cas, des chasseurs écorchent avec soin et préservent la peau écailleuse des dragons morts. Quoi qu'il en soit, une armure d'écailles de dragon est un objet très précieux et très apprécié.<br><br>Tant que vous portez cette armure, vous obtenez un bonus de +1 à la CA, vous avez un avantage à vos jets de sauvegarde contre la Présence terrifiante et les souffles des dragons, et vous avez la résistance à un type de dégâts déterminé par le type de dragon dont proviennent les écailles (voir la table ci-dessous).<br><br>De plus, vous pouvez concentrer vos sens, en utilisant une action, pour déterminer magiquement la distance et la direction du dragon (de même type que votre armure) le plus proche de vous et situé à 45 kilomètres maximum. Cette action spéciale ne peut pas être réutilisée avant le prochain lever de soleil.<br><br>Dragon	Résistance<br>Blanc	Froid<br>Bleu	Foudre<br>Noir	Acide<br>Rouge	Feu<br>Vert	Poison<br>Airain	Feu<br>Argent	Froid<br>Bronze	Foudre<br>Cuivre	Acide<br>Or	Feu
+description: Une armure d’écailles de dragon est fabriquée à partir des écailles d’une sorte de dragon. Parfois les dragons récoltent les écailles qu’ils ont perdues et les offrent aux humanoïdes. Dans d’autres cas, des chasseurs écorchent avec soin et préservent la peau écailleuse des dragons morts. Quoi qu’il en soit, une armure d’écailles de dragon est un objet très précieux et très apprécié.<br><br>Tant que vous portez cette armure, vous obtenez un bonus de +1 à la CA, vous avez un avantage à vos jets de sauvegarde contre la Présence terrifiante et les souffles des dragons, et vous avez la résistance à un type de dégâts déterminé par le type de dragon dont proviennent les écailles (voir la table ci-dessous).<br><br>De plus, vous pouvez concentrer vos sens, en utilisant une action, pour déterminer magiquement la distance et la direction du dragon (de même type que votre armure) le plus proche de vous et situé à 45 kilomètres maximum. Cette action spéciale ne peut pas être réutilisée avant le prochain lever de soleil.<br><br>Dragon	Résistance<br>Blanc	Froid<br>Bleu	Foudre<br>Noir	Acide<br>Rouge	Feu<br>Vert	Poison<br>Airain	Feu<br>Argent	Froid<br>Bronze	Foudre<br>Cuivre	Acide<br>Or	Feu
 value: 5000 po
 weight: 20 kg
 source: Dungeon Master´s Guide (SRD)
 ```
 
-Si les personnages apportent de l'adamantium à Brannur, il pourra leur confectionner une **Armure d'adamantium**
+Si les personnages apportent de l’adamantium à Brannur, il pourra leur confectionner une **Armure d’adamantium**
 
 ```Item
-name: Armure d'Adamantium
+name: Armure d’Adamantium
 slug: armure-adamantium
 type: Armor
 rarity: Peu commun
-description: Armure (intermédiaire ou lourde mais pas de peau).<br>Cette armure est renforcée par de l'adamantium, l'une des plus robustes substances au monde. Lorsque vous la portez, tout coup critique contre vous devient un coup normal.
+description: Armure (intermédiaire ou lourde mais pas de peau).<br>Cette armure est renforcée par de l’adamantium, l’une des plus robustes substances au monde. Lorsque vous la portez, tout coup critique contre vous devient un coup normal.
 value: valeur armure de base * 2
 source: Dungeon Master´s Guide (SRD)
 ```
@@ -249,7 +249,7 @@ name: Armure de Mithral
 slug: armure-mithral
 type: Armor
 rarity: Peu commun
-description: Armure (intermédiaire ou lourde mais pas de peau).<br>Le mithral est un métal souple et léger. Une chemise de mailles ou une cuirasse en mithral peuvent être portées sous des vêtements normaux. Si l'armure impose normalement un désavantage aux jets de Dextérité (Discrétion) ou a un prérequis de Force, la version en mithral de l'armure ne l'a pas.
+description: Armure (intermédiaire ou lourde mais pas de peau).<br>Le mithral est un métal souple et léger. Une chemise de mailles ou une cuirasse en mithral peuvent être portées sous des vêtements normaux. Si l’armure impose normalement un désavantage aux jets de Dextérité (Discrétion) ou a un prérequis de Force, la version en mithral de l’armure ne l’a pas.
 value: valeur armure de base * 2
 source: Dungeon Master´s Guide (SRD)
 ```
@@ -275,7 +275,7 @@ weight: 1kg
 source: Module d’exemple
 ```
 
-## Table d'objets magiques B
+## Table d’objets magiques B
 Lancez 1D100 pour choisir un objet magique aléatoire trouvé par les aventuriers.
 |D100| Objet magique|
 |---|---|
@@ -283,20 +283,20 @@ Lancez 1D100 pour choisir un objet magique aléatoire trouvé par les aventurier
 |16–22| Potion de souffle enflammé|
 |23–29| Potion de résistance|
 |30–34| Munitions +1 (*20)|
-|35–39| Potion d'amitié avec les animaux|
+|35–39| Potion d’amitié avec les animaux|
 |40–44| Potion de force de géant des collines|
-|45–49| Potion d'agrandissement|
+|45–49| Potion d’agrandissement|
 |50–54| Potion de respiration aquatique|
 |55–59| Parchemin de sort (niveau 2)|
 |60–64| Parchemin de sort (niveau 3)|
 |65–67| Sac sans fond|
 |68–70| Baume de Keoghtom|
-|71–73| Huile d'insaisissabilité|
+|71–73| Huile d’insaisissabilité|
 |74–75| Poussière de disparition|
 |76–77| Poussière dessicative|
 |78–79| Poudre à éternuer|
 |80–81| Gemme élémentaire|
-|82–83| Philtre d'amour|
+|82–83| Philtre d’amour|
 |84| Cruche alchimique|
 |85| Capuche de respiration aquatique|
 |86| Cape de la raie manta|
@@ -310,7 +310,7 @@ Lancez 1D100 pour choisir un objet magique aléatoire trouvé par les aventurier
 |94| Potion de poison|
 |95| Anneau de nage|
 |96| Robe de camelot|
-|97| Corde d'escalade|
+|97| Corde d’escalade|
 |98| Selle du cavalier|
 |99| Baguette de détection de la magie|
 |100| Baguette des secrets|

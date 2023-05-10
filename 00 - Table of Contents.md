@@ -35,7 +35,7 @@ hide-footer-text: true
 - [Le gouffre scellé](le-gouffre-scelle)
 - [Pademort [Neverdeath]](pademort-neverdeath) {.category}
 - [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
-- [Histoire abrégée de Padhiver](une-histoire-abregee-de-padhiver) {.part}
+- [Histoire abrégée de Padhiver](history-of-neverwinter) {.part}
 - [Commerces non-officiels](homebrew-locations) {.part}
 - [🍺📦 Défenses solides de Brannur](aux-defenses-solides-de-brannur)
 - [🍺📦 Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)

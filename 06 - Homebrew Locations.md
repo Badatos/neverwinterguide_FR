@@ -12,7 +12,7 @@ module-pagebreaks: h1, h2, h3
 |Cette section présente des lieux non officiels de Padhiver, créés pour ce guide. Personnalisez-les pour *votre* campagne !|
 {.homebrew}
 
-Bienvenue, maîtres de donjon ! Alors que ce guide s’est jusqu’à présent concentré sur les lieux officiels et l’histoire de Padhiver, cette section vise à fournir des lieux nouvellement créés que les maîtres de donjon pourraient trouver utiles s’ils mènent une campagne dans cette ville tentaculaire. Malgré les excellents emplacements proposés dans les sources officielles, la ville est en fait peuplée de magasins et d’emplacements utilitaires plus banals (du moins par rapport à d’autres communes comme Phandaline).
+Bienvenue, maîtres de donjon ! Alors que ce guide s’est jusqu’à présent concentré sur les lieux officiels et l’histoire de Padhiver, cette section vise à fournir des lieux nouvellement créés que les maîtres de donjon pourraient trouver utiles s’ils mènent une campagne dans cette ville tentaculaire. Malgré les excellents emplacements proposés dans les sources officielles, la ville est en fait peuplée de magasins et d’emplacements utilitaires plus banals (du moins par rapport à d’autres communes comme Phandaline).
 
 Dans cette section, vous trouverez un magasin d’armures, un magasin d’armes, un magasin de potions, un magasin de marchandises générales et un magasin d’objets magiques - toutes sortes de choses que l’on pourrait s’attendre à trouver dans une grande ville de Faerûn. Tout dans cette section a été conçu uniquement pour ce guide, n’ayez donc aucun remord à modifier les détails de ces emplacements pour votre campagne si vous décidez de les utiliser !
 
@@ -31,7 +31,7 @@ Brannur a un comportement calme et poli, et la plupart de ses clients auraient d
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
 |***Ingrédient supérieur***. *Brannur* veut faire monter sa boutique en gamme, mais pour ce faire, il a besoin d’un ingrédient rare difficilement accessible. Il a entendu dire que l’ingrédient était en possession des pirates de la Forteresse et aimerait que le groupe le lui en procure.|
-|***Métal rare***. Si dans leurs aventures les héros obtiennent du Mithral, de l'adamantium ou même des écailles de dragon, et en apportent suffisament à Brannur, celui-ci pourra leur confectionner une armure avec.|
+|***Métal rare***. Si dans leurs aventures les héros obtiennent du Mithral, de l’adamantium ou même des écailles de dragon, et en apportent suffisament à Brannur, celui-ci pourra leur confectionner une armure avec.|
 {.dmidea}
 
 ![Brannur Lutgehr](Images/Brannur.jpg =320x){.print-bottom-right .with-margin}
@@ -50,19 +50,18 @@ La boutique de *Brannwyn* n’a pas la propreté méticuleuse exposée dans la b
 
 La personnalité de *Brannwyn* est presque l’exact opposée de celle de son frère, et le nom "Lame tranchantes" de sa boutique fait aussi probablement référence à son comportement qu’à ses armes finement conçues. *Brannwyn* est vive d’esprit et n’hésitera pas à prendre un coup verbal à tout ce qui arrive dans sa boutique. Ceux qui sont facilement offensés feraient probablement mieux de faire leurs courses ailleurs.
 
-![Brannwyn Lutgehr](Images/Brannwyn.jpg =370x)**Brannwyn Lutgehr**, Forgeronne
+![Brannwyn Lutgehr](Images/Brannwyn.png =170x)<br>**Brannwyn Lutgehr**, Forgeronne
+<!--{p:.print-top-right.with-margin.above}-->
+
+> **Rivalité fraternelle**
+>
+> *Brannur* et *Brannwyn* sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs magasins sont situés juste à côté l’un de l’autre, autant dire que les compétitions sont fréquentes. Certains acheteurs habiles ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en montant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’un a revendiqué pouvoir faire quelque-chose de mieux que l’autre ; cela obligera le premier à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
+>
+> Cependant, insulter un des frère et sœur devant l’autre sera accueilli avec fureur. Au fond, ils se soucient profondément l’un de l’autres, et leurs petites querelles sont de loin éclipsées par l’immense sentiment de fierté et d’unité familiale. Il est assez courant de voir l’un aider l’autre en prêtant un outil ou même en faisant don de métaux et de matériaux coûteux. Un étranger faisant une remarque désobligeante envers un des frères et sœurs sera, au mieux, accueilli par un regard noir et une insulte en retour et, au pire, se verra expulser du magasin ou appellera tout le clan Lutgehr aux armes.
 
 (print-page)
 
 ![PotionShop](PrintImages/PotionShop.jpg){.print-only .size-cover .no-margin}
-
-> **Rivalité fraternelle**
->
-> *Brannur* et *Brannwyn* sont extrêmement compétitifs entre eux, et chacun fera presque n’importe quoi pour surpasser l’autre. Leurs magasins sont situés juste à côté l’un de l’autre, autant dire que les compétitions sont fréquentes. Certains acheteurs habiles ont remarqué qu’ils peuvent utiliser cette rivalité à leur avantage - généralement en montant les frères et sœurs les uns contre les autres. Tout ce qu’il faut généralement, c’est une simple affirmation que l’autre frère a revendiqué pouvoir faire quelque chose de mieux que l’autre ; cela obligera le premier à travailler très dur ou à réduire les prix simplement pour surclasser l’autre.
->
-> Cependant, insulter un des frère et sœur devant l’autre sera accueilli avec fureur. Au fond, ils se soucient profondément l’un de l’autres, et leurs petites querelles sont de loin éclipsées par l’immense sentiment de fierté et d’unité familiale. Il est assez courant de voir l’un aider l’autre en prêtant un outil ou même en faisant don de métaux et de matériaux coûteux. Un étranger faisant une remarque désobligeante envers un des frères et sœurs sera, au mieux, accueilli par un regard noir et une insulte en retour et, au pire, se verra expulser du magasin ou appellera tout le clan Lutgehr aux armes.
-
-(print-column)
 
 ![Parfums et boissons de Priscilla](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
 
@@ -74,13 +73,15 @@ Alors que le nom de la boutique peut sembler indiquer qu’elle se concentre sur
 
 Bien qu’extrêmement joviale, *Priscilla* évitera de donner beaucoup d’informations personnelles. Comment elle en est venue à posséder ses compétences à un si jeune âge, comment elle pouvait s’offrir une si belle boutique dans le quartier en vogue du Lac Bleu et son histoire familiale sont toutes mystérieuses. Les voisins du quartier vous diront que la boutique elle-même a semblé surgir de nulle part du jour au lendemain.
 
-(print-page)
+(print-column)
 
 Bien qu’elle soit relativement nouvelle dans la ville, *Priscilla* est maintenant bien connue d’un grand nombre d’habitants de Padhiver comme une personne dotée d’une grande compassion. Elle fait fréquemment don de ses biens et services aux résidents les plus pauvres de Padhiver qui en ont vraiment besoin. Elle se rend même régulièrement au quartier du Gouffre pour remettre en main propre des potions et des cataplasmes aux malades ou aux blessés.
 
-![Priscilla](Images/Priscilla.jpg =370x)
+![Priscilla](Images/Priscilla.jpg =205x)
 
 Néanmoins, sa boutique correspond parfaitement à la volonté du quartier du Lac Bleu d’être restaurée avec goût. Les résidents les plus riches de Padhiver connaissent tous *Priscilla* et fréquentent sa boutique pour ses potions et ses parfums finement travaillés. Les habitants les plus pauvres de Padhiver ne connaissent peut-être pas la boutique, mais connaîtront absolument *Priscilla* elle-même et ses supposés remèdes "miracles".
+
+(print-page)
 
 ![Articles divers de Cœur-Vif](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 

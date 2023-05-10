@@ -46,7 +46,7 @@ order: 1
 
 <br /><br />
 
-# Articles proposés par Cœur-Vif :
+# Articles proposés par Cœur-Vif
 |Objet|Prix|Poids|
 |---|---|---|
 | Équipement d’aventurier||{.shopH1}

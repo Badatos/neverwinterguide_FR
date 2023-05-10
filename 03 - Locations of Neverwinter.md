@@ -11,7 +11,7 @@ module-pagebreaks: h1, h2, h3
 
 ![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-top-right}
 
-Le Castel-Nièvre, dominant l’extrémité ouest de la ville, est incontournable. Ce château se trouve sur les falaises rocheuses et les affleurements du côté nord de l’estuaire où la rivière Padhiver et la mer des épées se rencontrent. Le château est construit sur un rocher circulaire duquel trois ponts rayonnent sur la rivière Padhiver : le pont du dragon endormi, le pont de la wyverne ailée et le pont du dauphin.
+Le Castel-Nièvre, dominant l’extrémité ouest de la ville, est incontournable. Ce château se trouve sur les falaises rocheuses et les affleurements du côté nord de l’estuaire où la rivière Padhiver et la mer des épées se rencontrent. Le château est construit sur un rocher circulaire duquel trois ponts rayonnent sur la rivière Padhiver : le pont du dragon endormi, le pont de la wyverne ailée et le pont du dauphin.
 
 Le château chevauche les frontières entre l’Enclave des Protecteurs, les Docks de Padhiver et le quartier de Bluelake. Au cours de l’histoire, Castel-Nièvre a été revendiqué comme faisant partie de nombreux quartiers de la ville, mais il serait peut-être préférable de considérer le château comme son propre quartier. Les trois ponts autour du château constituent une partie essentielle de l’infrastructure de la ville, offrant un moyen de traverser la rivière Padhiver et de se rendre entre les quartiers de l’Enclave des Protecteurs et Bluelake.
 
@@ -27,7 +27,7 @@ Tout au long des nombreuses attaques et catastrophes de Padhiver, Castel-Nièvre
 
 #### L’intérieur du château
 
-Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées :
+Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées :
 - ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [Myconids](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
 - ***Galerie des Glaces***. Auparavant une longue salle des miroirs où la noblesse pratiquait la démarche et la posture, tout intrus mortel qui entre dans cette salle trouvera une recréation magique de la destruction de la salle. Des éclats de verre miroir volant et des ruines enflammées seront lancés sur tous ceux qui restent trop longtemps dans le hall.
 - ***Padessous***. Les catacombes sous le château, appelées "Padessous [Neverneath]", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
@@ -151,7 +151,7 @@ Pour les invités voyageant par les moyens les plus élaborés, le toit comporte
 
 Le Masque a été construit par *Ophala Cheldarstorn*, mage et membre de l’Ordre des capes aux milles étoiles. *Ophala* a également créé les masques magiques et les amulettes portés par le personnel. Avant que le batiment ne flotte au-dessus de Padhiver, la rumeur disait qu’il comportait des entrées secrètes où des invités spéciaux pouvaient aller et venir discrètement. On disait aussi que des sous-sols le reliaient aux tunnels des zones tenues par les nains de l’Outreterre.
 
-Au milieu des années 1400 DR, l’éruption du mont Hautchaud a cassé les cordes qui l'ammaraient au sol. Elle a ainsi dérivé pendant des mois au-dessus de la mer des épées avant qu'on l'ammare à nouveau via de grandes chaînes solides. Même après le retour du Masque à Padhiver, le manque de clients l'obligea à fermer pendant quelques décennies. Lorsque *Lord Longuebraise* a lancé son mouvement "Nouveau Padhiver" pour la reconstruction de la ville, *Liset Cheldar* a pu non seulement convaincre *Longuebraise* qu’elle était l’héritière légitime du Masque, mais aussi de l’aider à financer la restauration de l’auberge, lui redonnant sa gloire d'antant. En guise de remboursement, l’auberge servit souvent à loger *Longuebraise* et plusieurs de ses mercenaires et officiers tout au long des années 1470 et 1480 DR.
+Au milieu des années 1400 DR, l’éruption du mont Hautchaud a cassé les cordes qui l’ammaraient au sol. Elle a ainsi dérivé pendant des mois au-dessus de la mer des épées avant qu’on l’ammare à nouveau via de grandes chaînes solides. Même après le retour du Masque à Padhiver, le manque de clients l’obligea à fermer pendant quelques décennies. Lorsque *Lord Longuebraise* a lancé son mouvement "Nouveau Padhiver" pour la reconstruction de la ville, *Liset Cheldar* a pu non seulement convaincre *Longuebraise* qu’elle était l’héritière légitime du Masque, mais aussi de l’aider à financer la restauration de l’auberge, lui redonnant sa gloire d’antant. En guise de remboursement, l’auberge servit souvent à loger *Longuebraise* et plusieurs de ses mercenaires et officiers tout au long des années 1470 et 1480 DR.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -172,9 +172,9 @@ On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates au
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
 |***Un livre ouvert***. Dans la 4<sup>e</sup> édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
-|***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un jeune dragon a peut-être attaqué le Fort céleste, tué tous les habitants et s'est attribué le butin des pirates.|
+|***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un jeune dragon a peut-être attaqué le Fort céleste, tué tous les habitants et s’est attribué le butin des pirates.|
 |***Pirates zombies [niv. 9-11]***. Le dieu de la mort, *Myrkul*, a été très actif dans la région (voir la trilogie [Le dragon de la Flèche de Givre](https://www.dndbeyond.com/sources/doip) et [Au delà du dragon de la Flèche de Givre](https://www.dndbeyond.com/essentials/continue-the-adventure). Les morts-vivants ont envahi le Fort Céleste et l’ont transformé en un fort des damnés. Le Death Knight-Dreadnaught est étrangement ancré sous la terre flottante.|
-|***J'en prendrai un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
+|***J’en prendrai un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -286,7 +286,7 @@ Un cartel commercial de la ville de Tarmalune s’est procuré un grand complexe
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Pas de livraison gratuite en deux jours***. Si vos joueurs ont besoin de quelque chose de très spécifique et difficile à acquérir, il serait assez raisonnable que le vaste réseau commercial de Tarmalune puisse se procurer l’objet. Cependant, il serait *aussi* tout à fait raisonnable de s’attendre à ce que cette faveur ait un prix élevé et prenne un certain temps. Après tout, il faut beaucoup de temps, beaucoup de ressources et beaucoup de risques pour parcourir une telle distance à Toril.|
+|***Pas de livraison gratuite en deux jours***. Si vos joueurs ont besoin de quelque-chose de très spécifique et difficile à acquérir, il serait assez raisonnable que le vaste réseau commercial de Tarmalune puisse se procurer l’objet. Cependant, il serait *aussi* tout à fait raisonnable de s’attendre à ce que cette faveur ait un prix élevé et prenne un certain temps. Après tout, il faut beaucoup de temps, beaucoup de ressources et beaucoup de risques pour parcourir une telle distance à Toril.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -296,13 +296,13 @@ Un cartel commercial de la ville de Tarmalune s’est procuré un grand complexe
 
 (print-page)
 
-![Éclat de lune](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
+![L’Éclat de lune, de nuit](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
 
 (print-column)
 
 ## Quartier de la Tour
 
-![Éclat de lune](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
+![Affichette de l’Éclat de lune](Images/POICards/ShardOfTheMoon.webp){.size-full .screen-only .before-next-page-header}
 
 ### L’Éclat de lune [The Shard of the Moon]
 
@@ -352,13 +352,13 @@ L’Ordre des capes aux milles étoiles est redevenu actif, certains membres de 
 |*Volo’s Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
-![Tribu orc des Mille-Flèches](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
+![Orc de la tribu des Mille-Flèches](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
 
 (print-page)
 
-![La tour déchue](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
+![Les fantômes de la tour déchue](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
 
-![La tour déchue](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
+![Affichette de la tour déchue](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
 ### La tour déchue
 
@@ -376,31 +376,33 @@ Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque
 
 Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XV<sup>e</sup> siècle RD, a laissé la taverne à l’abandon pendant des années.
 
-![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =370x){.print-bottom-left .with-margin}
-
-(print-column)
+![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =300x){.print-bottom-left .with-margin}
 
 #### Changement de propriétaire
 
 Lorsqu’ils ont envahi le quartier de la tour de Padhiver, la tribu des orcs Mille-Flèches [*Many-Arrows*] a découvert et commencé à piller la taverne et ses vastes stocks de vin. Une nuit, au milieu de leur pillage et de leurs réjouissances à la Tour déchue, les images spectrales sont apparues et ont fait fuir les orcs hors du bâtiment. Ces derniers ont finalement rassemblé leur courage et, une fois qu’ils ont réalisé que les images spectrales étaient inoffensives, sont retournés dans le bâtiment.
 
+(print-column)
+
 Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le site pour en faire une taverne fonctionnelle. Grâce à un accord mutuel entre *Lord Longuebraise* et les dirigeants de la tribu Mille-Flèches [*Many-Arrows*], la taverne sert désormais de terrain neutre entre les orcs et les autres races qui occupent la ville. Tous sont les bienvenus pour profiter des offres de la taverne à condition qu’ils ne posent aucun problème. Tout fauteur de troubles qui viole cette trêve risque de faire face à la colère immédiate de la clientèle habituelle de la taverne. Les offres actuelles de la taverne, cependant, sont « humbles » et tarifées en conséquence. Le vin et la bière sont bon marchés mais satisfaisants. La viande crue, d’origine inconnue, est servie pour être préparée sur un feu ouvert.
+
+#### Rafraîchissements de la Tour déchue
 |Rafraîchissement|Prix|
 |---|---|
 |Cuvée “spéciale” de Vagdru, chope|3 pc|
 |Cidre, chope|3 pc|
 |Bière blonde “Stout”, chope|3 pc|
 |Bière brune “Ale”, chope|3 pc|
-|Pain brun, portion |3 pc|
+|Pain brun, la miche |3 pc|
 |“Tourte à la Viande”, servie crue sur demande|5 pc|
 |Tarte à la rhubarbe|5 pc|
 {.shop}
 
 |![D20](d20.svg)**Inspiration pour le Maître du Donjon**|
 |---|
-|***Difficultés techniques***. Quelque chose ne va pas, et les visions magiques nocturnes auparavant bénignes des mages qui tombent deviennent réelles ; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
+|***Difficultés techniques***. Quelque-chose ne va pas : les apparitions nocturnes auparavant bénignes deviennent réelles ; les flammes des mages qui tombent brûlent les clients. Les aventuriers doivent contenir la magie des tours déchues pour que les affaires de la taverne ne soient pas ruinées.|
 |***Immunité diplomatique***. La tour déchue est l’endroit idéal pour discuter entre les aventuriers et certaines des races les moins respectées de Faerûn.|
-|***L’Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red}, une [Bête éclipsante](/monster/displacer-beast){.red} ou même un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve de leurs réalisations. À la grande horreur des aventuriers, il sert la viande des monstres aux clients pour le dîner de ce soir-là.|
+|***L’Autre Viande Blanche***. *Vagdru Une-Oreille* charge les aventuriers de se rendre dans la nature pour tuer des monstres grossiers et adaptés au niveau (par exemple, des [Araignées géantes](/monster/giant-spider){.red}, une [Bête éclipsante](/monster/displacer-beast){.red} ou même un [Sibriex](/monster/sibriex){.red} !) et rapportez leurs dépouilles comme preuve. À la grande horreur des aventuriers, il sert la viande des monstres aux clients ce soir-là.|
 {.dmidea}
 
 |![Book](book.svg)**En savoir plus**|
@@ -414,15 +416,15 @@ Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le 
 
 ## Quartier du Lac Bleu [Bluelake]
 
-Ce quartier abritait de nombreux domaines nobles de Padhiver. La plupart des domaines ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme. Les bâtiments abandonnés se sont avérés un terrain fertile pour que la nature y reprenne ses droits.
+Ce quartier abritait de nombreux domaines nobles, dont la plupart ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme, laissant la nature reprendre ses droits.
 
-*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réinstallation des domaines envahis par la végétation dans le quartier. Cependant, lorsqu’ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions clandestines de la ville, des Fils d’Alagondar aux Rats Morts, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, cela s’est considérablement amélioré.
+*Lord Longuebraise* et ses mercenaires ont vu une grande opportunité dans la réhabilitation des domaines envahis par la végétation du quartier. Cependant, lorsqu’ils ont tenté de le faire, ils se sont retrouvés attaqués par diverses factions. Apparemment, toutes les factions clandestines de la ville, des *Fils d’Alagondar* aux *Rats Morts*, avaient élu domicile dans la région. Il devenait extrêmement dangereux de traverser cette partie de la ville. Ces dernières années, cependant, cela s’est considérablement amélioré.
 
 ### Lac Bleu [Bluelake]
 
 Le lac Bleu, anciennement appelé "Lac Noir", se trouve au centre de son quartier éponyme. Le lac est parfois utilisé pour des activités nautiques. Cependant, en été, le niveau du lac diminue considérablement et devient un peu plus marécageux.
 
-Le lac est devenu particulièrement vil et boueux après l’éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* a fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé "Lac Bleu".
+Le lac est devenu particulièrement vil et boueux après l’éruption du mont Hautchaud, qui remplit le lac de cendres. *Lord Longuebraise* a fait du dragage et de la restauration du lac une de ses priorités. Cet effort semble avoir été couronné de succès et il a été renommé depuis "Lac Bleu".
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -434,7 +436,7 @@ Le lac est devenu particulièrement vil et boueux après l’éruption du mont H
 
 Cette maison [House of a Thousand Faces] est une taverne confortable dans la région du lac Bleu. Le bâtiment était autrefois une boutique de vêtements pour les riches nobles de la région et regorge de miroirs et de mannequins affichant des styles de vêtements désuets. Les mannequins et leur reflet sont ce qui donne au bâtiment son nom de "Mille Visages". Il dispose de canapés luxuriants et confortables où les citoyens s’assoient et conversent joyeusement.
 
-Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. Une organisation qui tend généralement à préserver l’histoire et toutes les choses "bonnes", ont une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu’un de ses membres de haut rang a été surpris en train d’agir comme une sorte d’agent double entre *Lord Longuebraise* et les Fils d’Alagondar (qui s’opposaient au règne de *Longuebraise*).
+Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. L’organisation qui tend généralement à préserver l’histoire et toutes les choses "bonnes", a une histoire particulièrement compliquée à Padhiver. La réputation du chapitre local des Ménestrels a été entachée lorsqu’un de ses membres de haut rang a été surpris en train d’agir comme une sorte d’agent double entre *Lord Longuebraise* et les Fils d’Alagondar (qui s’opposaient au règne de *Longuebraise*).
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -445,9 +447,9 @@ Le sous-sol de la taverne est le lieu de rencontre secret du chapitre de Padhive
 
 ### Le gouffre scellé
 
-Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l’Outreterre a été déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été essentiellement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s’approchait du gouffre éprouvait de l’anxiété et d’autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
+Lorsque le mont Hautchaud est entré en éruption, un canyon géant vers une section chargée de Magepeste de l’Outreterre s’est déchiré dans le quartier sud-est de Padhiver. Cette partie de la ville a été presque entièrement engloutie dans le processus. De ce gouffre géant, toutes sortes de bêtes contre nature ont émergé. Quiconque s’en approchant éprouvait de l’anxiété et d’autres effets mentaux désagréables. Un mur a été érigé autour de la région pour contenir les horreurs qui résultaient du gouffre.
 
-Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une puissante magie. Une fois le gouffre scellé, le quartier était réduit à des ruines. Longuebraise déclara la zone libérée, et quiconque souhaitant s'y établir était libre de revendiquer un lopin de terre. C'est ainsi que d'audacieux colons, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
+Avec d’immenses efforts et dépenses, *Longuebraise* a pu faire fermer le gouffre par une puissante magie. Une fois le gouffre scellé, le quartier n’était plus que ruines. *Dagult** déclara la zone libérée, et quiconque souhaitant s’y établir était libre de revendiquer un lopin de terre. C’est ainsi que d’audacieux colons, en particulier ceux trop pauvres pour le faire ailleurs, affluent vers le Quartier du gouffre pour se construire une nouvelle vie.
 
 |![Book](book.svg)**En savoir plus**|
 |---|
@@ -464,4 +466,4 @@ Les deux sections de Pademort ont été fortement affectées par la Magepeste. E
 |![Book](book.svg)**En savoir plus**|
 |---|
 |*Neverwinter Campaign Setting*, p. 145, (4th Edition)|
-{.references .screen-only}
+{.references}

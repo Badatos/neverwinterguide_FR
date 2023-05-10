@@ -1,3 +1,7 @@
+.above{
+  z-index:20;
+}
+
 @media print {
   .print-cover-page,
   .print-section-cover-page {
@@ -13,6 +17,14 @@
   .print-page .footer-content,
   .print-page .footer-page-number {
     z-index: 40;
+  }
+  table.shop td,
+  table.shop th {
+    padding: .5rem;
+  }
+  table.shop th {
+    font-family: "Andada SC";
+    color: #58180d;
   }
 }
 
