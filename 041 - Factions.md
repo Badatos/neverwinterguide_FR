@@ -2,10 +2,11 @@
 name: Factions de Padhiver
 slug: neverwinter-factions
 order: 41
+module-pagebreaks: h1, h2
 ---
-
+![Les fantômes de la tour déchue](Images/Factions/organisations.jpg){.size-cover}
 # Factions présentes à Padhiver
-De nombreuses factions sont présentes à Padhiver. Cinq organisations présentes dans les Royaumes Oubliés peuevnt être rejointe par les personnage : l'Alliance des seigneurs, l'Enclave d'émeraude, les Ménestrels, l'ordre du Gantelet et le Zhentarim.
+De nombreuses factions sont présentes à Padhiver. Quatre de ces organisations peuvent être rejointes par les personnages : l'Alliance des seigneurs, les Ménestrels, l'ordre du Gantelet et le Zhentarim. (Une cinquième faction, l'Enclave d'émeraude, n'est pas présente à Padhiver)
 Les autres factions sont quand à elles plutôt réservées aux opposants des PJ.
 
 ## Ménestrels
@@ -21,14 +22,14 @@ L'organisation est toujours à la recherche de puissants objets, en particulier 
 > Un ménestrel est d'abord et avant tout autonome, car alors personne ne peut le tenter en utilisant le pouvoir comme béquille. Il doit être souverain de lui-même.
 Par conséquent, l'âme d'un ménestrel doit être incorruptible. Beaucoup pensent l'être, mais le pouvoir se présente sous de nombreuses formes, et il trouvera sûrement votre faiblesse. De cela, soyez-en sûrs. Seul un vrai ménestrel peut passer ce test et transformer une faiblesse en force. C'est pourquoi nous sommes la main qui arrête le tyran, nourrit les opprimés et ne demande rien en retour. Nous sommes la chanson de ceux qui n'ont pas de voix.
 >
-> *Remallia "Remi" Haventree*
+> *Remallia "Remi" Haventree*<!--{p.text-right}-->
 
 ### Chapitre de Padhiver
 Le sous-sol de la taverne "La Maison aux Milles visages" est le lieu de rencontre secret du chapitre de Padhiver des Ménestrels. La réputation du chapitre local a été entachée lorsqu’un de ses membres de haut rang a été surpris en train d’agir comme une sorte d’agent double entre *Lord Longuebraise* et les Fils d’Alagondar (qui s’opposaient au règne de *Longuebraise*).
 
 ### Buts
 
-* Recueillir des informations de tout le continent de Faerûn.
+* Recueillir des informations de tout le continent.
 * Promouvoir l'équité et l'égalité par des moyens détournés.
 * Contrecarrer les plans des tyrans, dirigeants, gouvernements ou organisations qui deviennent trop puissants.
 * Aider les faibles, les pauvres et les opprimés.
@@ -49,7 +50,7 @@ Voici les formations que cette organisation propose à ses agents :
 * Matériel de calligraphe
 * Kit de déguisement
 
-
+(print-page)
 ## Alliance des seigneurs
 ![Emblème des Seigneurs](Images/Factions/seigneurs.png){.float-left}
 L'Alliance des seigneurs est une association de dirigeants de villes et de cités à travers Faerûn (principalement dans le Nord) qui croient que la solidarité est nécessaire pour garder le mal à distance. Les dirigeants de Waterdeep, Lunargent, Neverwinter et d'autres cités libres dominent la coalition, et tous les seigneurs de l'alliance travaillent principalement pour le sort et la fortune de leurs propres implantations.
@@ -59,6 +60,11 @@ Les agents de l'alliance sont des bardes sophistiqués, des paladins zélés, de
 Les agents de l'Alliance des seigneurs assurent la sécurité et la prospérité de la civilisation de Faerûn en se tenant unis contre les forces qui la menacent. Ils éliminent les menaces de manière proactive et par tous les moyens, se battant avec fierté pour la gloire et la sécurité de leurs peuples et des princes les gouvernent. Toutefois, les agents de l'alliance sont souvent des chasseurs de gloire qui cherchent à prendre l'avantage sur leurs homologues des autres villes de l'alliance. Les dirigeants de l'alliance savent que l'ordre ne survivra que si ses membres se soutiennent mutuellement, ce qui demande un fin équilibre entre fierté et diplomatie. Les roublards sont rares au sein de l'Alliance des seigneurs, mais des défections se produisent.
 
 À ce jour les villes membres de l'Alliance des seigneurs sont Waterdeep, Neverwinter, Lunargent, la Porte de Baldur, Gué de la dague, Mirabar, Longueselle, Castelmithral, Amphail et Yartar.
+
+> Tout le monde veut dormir la nuit et se sentir en sécurité dans sa maison, mais combien sont prêts à faire le nécessaire pour garder la marée du mal à distance ? À se tenir debout sous la pluie et dans le froid, en attendant la bataille alors que la faim vous tenaille le ventre ? Beaucoup souhaitent récolter les fruits d'une bonne récolte, mais peu prennent soin d'enlever les pierres et de labourer les champs avant la plantation.
+> L'Alliance des seigneurs combat des choses dont le marchand dans son lit n'a même jamais entendu parler. Nous éliminons les menaces avant que le maire de la ville n'en entende parler. Nous faisons en sorte que les choses mauvaises disparaissent. C'est ce à quoi nous sommes bons.
+>
+> *Rameel Jos*<!--{p.text-right}-->
 
 ### Section de Padhiver
 [Homebrew]
@@ -91,12 +97,8 @@ Voici les formations que cette organisation propose à ses agents :
 * Toute langue standard
 
 
+(print-page)
 ## L'ordre du Gantelet
-
-> C'est ça le mal : c'est l'obscurité, c'est l'ombre, il se cache dans votre angle mort. Puis, lorsque vous êtes distrait, il s'infiltre. Le mal est maître dans l'art du déguisement, et quel est son meilleur déguisement, me direz-vous ? Vous-même. Le mal va se draper dans des pensées et des émotions qui semblent être les vôtres, vous invitant à vous mettre en colère, à être avide et envieux, à vous hisser au-dessus des autres.
-> Personne ne naît mauvais, il faut du temps pour que le mal puisse vous tromper et vous faire croire que cette voix est la vôtre. C'est pourquoi savoir qui vous êtes vraiment est ce que l'ordre exige de chaque nouvel espoir qui souhaite rejoindre ses rangs. Être brave, ce n'est pas combattre un dragon, c'est combattre son dragon intérieur. C'est ce que nous faisons dans nos prières. Une fois que vous aurez tué ce dragon, vous aurez vaincu les ténèbres qui se cachent en vous. Alors seulement vous aurez la capacité de connaître la vraie bonté. Alors seulement vous serez prêts à prendre l'épée et à porter l'insigne de notre ordre.
->
-> *Kajiso Maindacier*
 
 ![Emblème du Gantelet](Images/Factions/gantelet.png){.float-left}
 L'ordre du Gantelet est une organisation relativement nouvelle, dédiée à frapper le mal partout où il se cache et sans aucune hésitation. L'ordre sait que le mal est présent sous de nombreuses formes, jouant et trompant pour se propager. C'est pourquoi ses membres agissent de leur propre autorité, identifiant les menaces et les brisant avant qu'elles ne puissent se développer.
@@ -106,6 +108,11 @@ Parce que les graines du mal germent dans l'ombre, l'ordre du Gantelet s'aventur
 L'ordre du Gantelet estime que tous les êtres vivants doivent venir à la lumière de la raison et de la bonté de leur propre gré. C'est pourquoi il n'est pas intéressé par le fait de contrôler les esprits. Il se concentre uniquement sur ​​les actes, montrant l'exemple au monde dans l'espoir d'inspirer les autres et de les éclairer. L'ordre considère que la foi en une divinité, en ses amis, et en soi-même sont les meilleures armes pour réprimer les hordes malicieuses.
 
 Une telle conviction fervente est pour les membres de l'ordre source de force pour eux-mêmes et pour les autres, et une lumière contre les ténèbres. Ce ne sont toutefois pas des brutes instinctives. Un code de l'honneur strict ne les autorise à frapper que lorsque de mauvaises actions sont commises. L'ordre du Gantelet est également très vigilant et utilise toutes les ressources à sa disposition, à la fois divines et mondaines, pour déterminer quand et où se produiront de sombres actes.
+
+> C'est ça le mal : c'est l'obscurité, c'est l'ombre, il se cache dans votre angle mort. Puis, lorsque vous êtes distrait, il s'infiltre. Le mal est maître dans l'art du déguisement, et quel est son meilleur déguisement, me direz-vous ? Vous-même. Le mal va se draper dans des pensées et des émotions qui semblent être les vôtres, vous invitant à vous mettre en colère, à être avide et envieux, à vous hisser au-dessus des autres.
+> Personne ne naît mauvais, il faut du temps pour que le mal puisse vous tromper et vous faire croire que cette voix est la vôtre. C'est pourquoi savoir qui vous êtes vraiment est ce que l'ordre exige de chaque nouvel espoir qui souhaite rejoindre ses rangs. Être brave, ce n'est pas combattre un dragon, c'est combattre son dragon intérieur. C'est ce que nous faisons dans nos prières. Une fois que vous aurez tué ce dragon, vous aurez vaincu les ténèbres qui se cachent en vous. Alors seulement vous aurez la capacité de connaître la vraie bonté. Alors seulement vous serez prêts à prendre l'épée et à porter l'insigne de notre ordre.
+>
+> *Kajiso Maindacier*<!--{p.text-right}-->
 
 ### Loge de Padhiver
 TODO
@@ -135,12 +142,13 @@ Voici les formations que cette organisation propose à ses agents :
 * Outils de maçon
 * Véhicules
 
+(print-page)
 ## Le Zhentarim
 
 > L'adhésion au Zhentarim est comme la clé d'un millier de portes, chacune d'elles étant une passerelle vers la réalisation d'un désir personnel. La plupart des gens répugnent à ce genre de liberté. Ils aiment leurs contraintes, les lois, et l'emmaillotage. Cela leur donne l'illusion de la sécurité.
 > Le Réseau Noir fournit ce dont j'ai besoin pour explorer des royaumes et des dimensions qui déchirent les esprits habitués aux limites. Il n'y a que dans ces endroits que je peux trouver une magie assez puissante pour vaincre des êtres qui ne connaissent pas ce que sont le temps, la peur et la pitié. Vous pouvez ne pas apprécier les méthodes du Zhentarim, mais si un démon sort des Abysses pour aller chercher votre famille, vous seriez heureux de savoir que je suis allé dans le plus sombre des royaumes chercher la réponse à votre problème.
 >
-> *Ianna Asterion*
+> *Ianna Asterion*<!--{p.text-right}-->
 
 ![Emblème du Zhentarim](Images/Factions/zentharim.png){.float-left}
 Le Zhentarim, ou Réseau Noir, est une organisation de mercenaires bien formés, de roublards avertis et de sorciers rusés qui cherchent à étendre son influence et son pouvoir sur Faerûn. Les agents du Zhentarim pensent que s'ils respectent les règles, rien ne se fait. En fin de compte, ils veulent faire les règles et, dans certains cas, ils le font déjà. Ils marchent sur ​​une ligne étroite quand il s'agit de la loi, et n'ont pas peur de faire occasionnellement des affaires douteuses ou des activités illicites pour obtenir ce qu'ils veulent.
@@ -177,6 +185,7 @@ Voici les formations que cette organisation propose à ses agents :
 * Kit de déguisement
 * Outils de voleur
 
+(print-page)
 ## Fils d'Alagondar
 Les Fils d'Alagondar formèrent autrefois un groupe de rebelles nationalistes opérant dans la cité de Padhiver.
 
@@ -192,6 +201,7 @@ Essentiellement composés des plus jeunes Fils d'Alagondar, les Nashers forment 
 
 Devant leur nom à la vieille milice de Neverwinter et dirigés par la propriétaire de la Taverne Driftwood, Madame Rosene, les Graycloaks cherchent à aboutir à des solutions bien plus diplomatiques. A l'aide d'habiles subterfuges, le groupe tente d'exercer une pression sur le seigneur Neverember afin que celui-ci octroie plus de pouvoir politique au peuple. Cependant, cette approche pacifique ne connait que peu de succès comparé aux tactiques violentes des Nashers.
 
+(print-page)
 ## Rats morts [Dead Rats]
 The Dead Rats were a street gang operating in Luskan and Neverwinter on the northern Sword Coast.[1][2] The Dead Rats were loosely allied with the Coin Spinners gang.[1]
 
