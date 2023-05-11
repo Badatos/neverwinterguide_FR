@@ -28,7 +28,7 @@ order: 50
 
 ***1467 DR***. Toujours sous le choc des destructions du cataclysme, *Dagult Longuebraise* engage des mercenaires de Mintarn pour l’aider à rétablir l’ordre sur Padhiver. Il appelle cela le mouvement "Nouveau Padhiver".
 
-***1474 DR***. Les Fils d’Alagondar sont formés en tant que groupe nationaliste opposé au règne de Padhiver de *Dagult Longuebraise*. Ils ont deux factions, les Nashers et les Graycloaks. Les Nashers sont plus violents dans leur tentative de supprimer *Longuebraise*, tandis que les Graycloaks ont tendance à utiliser la politique et le subterfuge pour déposer le Lord Protecteur.
+***1474 DR***. Les Fils d’Alagondar sont formés en tant que groupe nationaliste opposé au règne de Padhiver de *Dagult Longuebraise*. Ils ont deux factions, les Nashers et les Capes grises. Les Nashers sont plus violents dans leur tentative de supprimer *Longuebraise*, tandis que les Capes grises ont tendance à utiliser la politique et le subterfuge pour déposer le Lord Protecteur.
 
 ***1479 DR***. *Seldra Tylmarande* reçoit une réplique de la Couronne de Padhiver. Elle utilise cette fausse couronne, ainsi qu’un déguisement masculin, pour tenter de revendiquer le trône de Padhiver et déposer *Longuebraise*. Elle est vaincue et le complot échoue. *Longuebraise* prétend également qu’il est un héritier légitime du trône mais est incapable de trouver une vraie couronne et de le prouver.
 
