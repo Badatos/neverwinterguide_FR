@@ -28,13 +28,20 @@ hide-footer-text: true
 - [☁📦 L’Éclat de lune [The Shard of the Moon]](leclat-de-lune-the-shard-of-the-moon)
 - [La tour de la cape [Cloak Tower]](la-tour-de-la-cape-cloak-tower)
 - [🍴 🛏 La tour déchue {‧}](la-tour-dechue)
-- [Quartier du Lac Bleu [Bluelake]](quartier-du-lac-bleu-bluelake) {.category}
+- [Quartier du Lac Bleu](quartier-du-lac-bleu) {.category}
 - [Le Lac bleu [Bluelake]](lac-bleu-bluelake)
 - [🍴La maison aux mille visages [House of a Thousand Faces]](la-maison-aux-mille-visages)
 - [Quartier du Gouffre [Chasm District]](le-quartier-du-gouffre-chasm) {.category}
 - [Le gouffre scellé](le-gouffre-scelle)
 - [Pademort [Neverdeath]](pademort-neverdeath) {.category}
 - [Le Seigneur Protecteur Dagult Longuebraise](lord-protector-neverember) {.part}
+- [Factions](neverwinter-factions) {.part}
+- [Rats morts [Dead Rats]](rats-morts-dead-rats) {.category}
+- [Fils d’Alagondar](fils-dalagondar) {.category}
+- [Ménestrels](menestrels) {.category}
+- [Alliance des seigneurs](alliance-des-seigneurs) {.category}
+- [Ordre du Gantelet](ordre-du-gantelet) {.category}
+- [Zhentarim](zhentarim) {.category}
 - [Histoire abrégée de Padhiver](history-of-neverwinter) {.part}
 - [Commerces non-officiels](homebrew-locations) {.part}
 - [🍺📦 Défenses solides de Brannur](aux-defenses-solides-de-brannur)
