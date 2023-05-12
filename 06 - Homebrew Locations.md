@@ -69,7 +69,7 @@ La personnalité de *Brannwyn* est presque l’exact opposée de celle de son fr
 
 Parfums et boissons de Priscilla est détenu et exploité par une jeune femme humaine qui s’appelle simplement *Priscilla* - sans nom de famille. La belle boutique, située dans le quartier du Lac Bleu, a des étagères du sol au plafond remplies de fleurs fraîches et de bouteilles en verre de liquides aux couleurs vives. En fait, il y a tellement de fleurs dans cette boutique que plusieurs nouveaux venus l’ont prise pour un fleuriste. Toutes les armoires de la boutique sont richement conçues et polies de manière éclatantes.
 
-Alors que le nom de la boutique peut sembler indiquer qu’elle se concentre sur les parfums et les boissons parfumées, Priscilla est une alchimiste et apothicaire extrêmement talentueuse. Elle est capable de faire des concoctions exotiques et rares pour le juste prix. Elle a également un certain talent pour diagnostiquer les maladies, bien qu’elle n’offre généralement pas ces services à moins qu’on ne lui demande explicitement.
+Alors que le nom de la boutique peut sembler indiquer qu’elle se concentre sur les parfums et les boissons parfumées, *Priscilla* est une alchimiste et apothicaire extrêmement talentueuse. Elle est capable de faire des concoctions exotiques et rares pour le juste prix. Elle a également un certain talent pour diagnostiquer les maladies, bien qu’elle n’offre généralement pas ces services à moins qu’on ne lui demande explicitement.
 
 Bien qu’extrêmement joviale, *Priscilla* évitera de donner beaucoup d’informations personnelles. Comment elle en est venue à posséder ses compétences à un si jeune âge, comment elle pouvait s’offrir une si belle boutique dans le quartier en vogue du Lac Bleu et son histoire familiale sont toutes mystérieuses. Les voisins du quartier vous diront que la boutique elle-même a semblé surgir de nulle part du jour au lendemain.
 
@@ -77,11 +77,11 @@ Bien qu’extrêmement joviale, *Priscilla* évitera de donner beaucoup d’info
 
 Bien qu’elle soit relativement nouvelle dans la ville, *Priscilla* est maintenant bien connue d’un grand nombre d’habitants de Padhiver comme une personne dotée d’une grande compassion. Elle fait fréquemment don de ses biens et services aux résidents les plus pauvres de Padhiver qui en ont vraiment besoin. Elle se rend même régulièrement au quartier du Gouffre pour remettre en main propre des potions et des cataplasmes aux malades ou aux blessés.
 
-![Priscilla](Images/Priscilla.jpg =205x)
-
 Néanmoins, sa boutique correspond parfaitement à la volonté du quartier du Lac Bleu d’être restaurée avec goût. Les résidents les plus riches de Padhiver connaissent tous *Priscilla* et fréquentent sa boutique pour ses potions et ses parfums finement travaillés. Les habitants les plus pauvres de Padhiver ne connaissent peut-être pas la boutique, mais connaîtront absolument *Priscilla* elle-même et ses supposés remèdes "miracles".
 
-(print-page)
+![Priscilla](Images/Priscilla.jpg =280x){.no-margin .print-bottom-right}
+
+(print-page-single-column)
 
 ![Articles divers de Cœur-Vif](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
@@ -96,14 +96,19 @@ Cœur-Vif, après une longue vie remplie d’aventures à la recherche de tréso
 
 Cœur-Vif a maintenant une disposition détendue et empathique, mais elle sera la première à vous dire qu’elle était une aventurière passionnée dans sa jeunesse. Elle se fera un plaisir de vous raconter une histoire ou deux sur ses randonnées dangereuses à travers des jungles remplies de serpents venimeux géants, des expériences de mort imminente errant dans des dunes désertiques sans fin, ou même des moments passés en haute mer avec son ami capitaine de la marine Tabaxi, *pattes-de-goudron [Stands in Tar]*.
 
-![Cœur-Vif](Images/SwiftHeart.jpg =300x){.print-bottom-right .with-margin}
+|Article|Prix|Poids|
+|---|---|---|
+|Obj1|1po|1kg|
+{.allow-breaks .shop}
+
+![Cœur-Vif](Images/SwiftHeart.jpg =350x){.print-bottom-right .with-margin}
 
 |![Book](book.svg)**En savoir plus**|
 |---|
 |*pattes-de-goudron [Stands in Tar]* est le capitaine de la quête "Thunder Cliffs" de *Storm’s Lord Wrath*|
 {.references}
 
-(print-page)
+(print-page-single-column)
 
 ![Acquisitions arcaniques](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
 
@@ -120,18 +125,16 @@ La boutique est dirigée par l’excentrique magicien nommé *Flinar Ralolar*. C
 
 *Flinar Ralolar,* d’âge inconnu, est un individu mystérieux. Pas du genre à fournir beaucoup d’informations, on sait peu de choses sur le sorcier. Ce que certains savent, cependant, c’est qu’avant que *Flinar* n’arrive à Padhiver, il faisait partie des nombreux qui sont venus à la caverne du Ressac de Phandaline pour y étudier la Forge des sorts (une fois qu’elle a été débarrassée des forces malveillantes par les aventuriers).
 
-![Flinar and Gigz](Images/FlinarAndGigz.jpg =300x){.print-bottom-right .with-margin}
-
-(print-page)
-
 Flinar n’est pas hostile en soi, juste très plat dans son comportement. Son froncement de sourcils semble être plus un attribut physique de l’homme qu’une indication réelle de son mécontentement. Flinar tentera même de sourire et de saluer chaleureusement les clients qui entrent dans son magasin, bien que l’expression semble généralement maladroite, peu sincère et rebutante. Les tentatives de conversation avec *Gigz* ne se solderont jamais que par des hochements de tête.
+
+(print-page-single-column)
 
 *Flinar* propose une variété d’armes, d’armures et d’objets magiques qu’il fabrique dans son atelier. Il n’accepte généralement pas les commandee, et n’offre que ce qu’il a déjà créé. Certains pensent que le magasin est davantage un laboratoire de recherche pour le sorcier, et il ne choisit de vendre ses produits que pour faire de la place à de nouvelles recherches.
 
 Utilisez le tableau suivant pour les objets magiques qui pourraient être proposés dans la boutique de Flinar :
 
 |[D12](/roll/d12)| Objet magique|
-|---|---|
+|:---:|:---|
 |**1**|[Épée longue en vif-argent](/item/quicksilver-longsword)|
 |**2**| [Cotte de mailles activée par la pluie](/item/rain-activated-chain-mail)|
 |**3**| [Chapeau de traqueur de cerf](/item/deerstalker-hat)|
@@ -146,18 +149,6 @@ Utilisez le tableau suivant pour les objets magiques qui pourraient être propos
 |**12**| [Anneau des échos](/item/ring-of-echoes)|
 {.allow-breaks .shop}
 
-EN
-|[D12](/roll/d12)| Magical item|
-|---|---|
-|**1**|[Quicksilver Longsword](/item/quicksilver-longsword)|
-|**2**| [Rain-Activated Chain Mail](/item/rain-activated-chain-mail)|
-|**3**| [Deerstalker Hat](/item/deerstalker-hat)|
-|**4**| [Tithing Mace](/item/tithing-mace)|
-|**5**| [Defensive Cleaver](/item/defensive-cleaver)|
-|**6**| [Extra-Light Longbow](/item/extra-light-longbow)|
-|**7**| [Bartender’s Boots](/item/bartenders-boots)|
-|**8**| [Airy Leather Armor](/item/airy-leather-armor)|
-|**9**| [Enraged Dagger](/item/enraged-dagger)|
-|**10**| [Babel Earring](/item/babel-earring)|
-|**11**| [Shadowgarb Armor](/item/shadowgarb-armor)|
-|**12**| [Ring of Echoes](/item/ring-of-echoes)|
+La description détaillée de chaque objet se trouve en [Annexe D - Liste d'objets magiques](magical-items-page)
+
+![Flinar and Gigz](Images/FlinarAndGigz.jpg =350x){.print-bottom-right .with-margin}

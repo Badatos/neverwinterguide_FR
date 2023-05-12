@@ -38,7 +38,7 @@ Les aventuriers sont chargés par un riche marchand de briser la barrière magiq
 
 Lorsque les joueurs approchent de la villa, lisez ce qui suit :
 
-> Une clôture en fer entoure la villa, mais la porte s’ouvre librement. Le vent commence à hurler anormalement et le ciel s’assombrit légèrement avec la couverture nuageuse. La villa, à part le manque d’entretien de certaines plantes, semble être en bon état. Les fenêtres émettent une faible lueur bleue mais sont trop poussiéreuses pour regarder à travers. {.read}
+> Une clôture en fer entoure la villa, mais le portillon s’ouvre librement. Le vent commence à hurler et le ciel s’assombrit d'une légère couverture nuageuse. La villa, à part le manque d’entretien de certaines plantes, semble être en bon état. Les fenêtres émettent une faible lueur bleue mais sont trop poussiéreuses pour regarder à travers. {.read}
 
 ### 1. Extérieur de la villa
 ||
@@ -48,9 +48,9 @@ Lorsque les joueurs approchent de la villa, lisez ce qui suit :
 
 La porte de la villa est verrouillé, toute la maison est protégée par une magie d’abjuration, et les tentatives de percer physiquement une fenêtre ou une porte échoueront (peu importe la force des membres du groupe). La barrière magique, placée par *Elden Vargas*, était destinée à empêcher les voleurs ordinaires d’entrer chez lui pendant son absence. Un simple sort [Dissipation de la magie](/spell/dispel-magic) débarrassera toute la villa de la barrière.
 
-Alors que les joueurs tentent de franchir la porte, trois membres du gang des Rats Morts [Dead Rats] (2 [Assassins rats-garous](/monster/wererat-assassin){.screen-only}[Assassin rat-garou](wererat-assassin-page){ .print-only .monster} et une [Magicienne ratte-garou](/monster/wererat-wizard){.screen-only}[Magicien rat-garou](wererat-wizard-page){.print-only .monster}) approchent par derrière :
+Alors que les joueurs tentent de franchir la porte, trois membres du gang des Rats Morts (2 [Assassins rats-garous](/monster/wererat-assassin){.screen-only}[Assassin rat-garou](wererat-assassin-page){ .print-only .monster} et une [Magicienne ratte-garou](/monster/wererat-wizard){.screen-only}[Magicienne rat-garou](wererat-wizard-page){.print-only .monster}) approchent par derrière :
 
-> Alors que vous essayez d’entrer dans la structure, trois hybrides mi-homme mi-rat franchissent les portes derrière vous. Deux sont vêtus de cuir noir et portent un assortiment d’épées et de poignards, et un est en robe et porte un bâton lumineux. L’un des rats vêtus de cuir vous gronde : "Vous empiétez sur une propriété des *Rats Morts*, et il serait préférable que vous partiez."{.read}
+> 3 hybrides hommes-rats franchissent la porte derrière vous. 3 sont vêtus de cuir noir et portent épées et poignards, et un est en robe et porte un bâton lumineux. L’un des rats vêtus de cuir vous gronde : "Vous empiétez sur une propriété des *Rats Morts*, il serait préférable que vous partiez."{.read}
 
 Le groupe est libre de sortir indemne s’il le souhaite. S’ils choisissent de le faire, la prochaine fois qu’ils reviendront dans la propriété, celle-ci sera saccagée et vide de tous ses objets. Si les aventuriers refusent de partir, les rats-garous attaquent. Si les Assassins rats-garous sont tués en premier, la sorcière tentera de fuir. Celle-ci peut être contrainte de dissiper la barrière magique si elle est capturée vivante.
 
@@ -62,11 +62,11 @@ Une étrange flamme bleue scintille dans le foyer mais ne produit aucune chaleur
 
  > La même étrange flamme bleue est dans le foyer de la cuisine. Une casserole d’eau bout sur le foyer. Une porte donne sur une pièce attenante.{.read}
 
- Malgré le bouillonnement, l’eau est en fait froide au toucher, et la flamme ne produit aucune chaleur. Toute la nourriture dans cette zone est depuis longtemps tombé en poussière. Lorsqu’une créature entre dans la salle de bain attenante à la cuisine, la baignoire se remplit comme par magie d’eau et commence à chauffer.
+ Malgré le bouillonnement, l’eau est froide au toucher, et la flamme ne produit aucune chaleur. Toute la nourriture dans cette zone est depuis longtemps tombée en poussière. Lorsqu’une créature entre dans la salle de bain attenante à la cuisine, la baignoire se remplit comme par magie d’eau et commence à chauffer.
 
 ### 4. Étude
 
-> Cette pièce servait de toute évidence de bureau. Le sol grince et les meubles de l’étage sont recouverts de poussière comme toutes les autres pièces de la maison. Une plante en pot est depuis longtemps morte et fanée. La porte d’une des pièces attenante claque doucement comme si une fenêtre à l’intérieur était restée ouverte.{.read}
+> Cette pièce servait de toute évidence de bureau. Le sol grince et les meubles de l’étage sont recouverts de poussière comme le reste de la maison. Une plante en pot est depuis longtemps morte et fanée. La porte d’une des pièces attenantes claque doucement comme si une fenêtre y était restée ouverte.{.read}
 
 La porte qui claque donne sur la chambre d’*Elden Vargas* (section 5). Un test d’Intelligence (Investigation) DD 15 sur les étagères révélera un [Parchemin de sort de niveau 2](/item/spell-scroll-2nd-level).
 
@@ -77,12 +77,12 @@ La porte qui claque donne sur la chambre d’*Elden Vargas* (section 5). Un test
 |![Crâne](../skull.svg)[Rencontre : 1x Tornade orageuse](abandoned-townhouse-storm-gyre-encounter)|
 {.enemy .screen-only}
 
-Elden Vargas a laissé un [Storm Gyre](/monster/storm-gyre){.screen-only}[Storm Gyre](storm-gyre-page){.print-only .monster} dans sa chambre comme sentinelle. Lorsque les joueurs ouvrent la porte de la salle, lisez :
+Elden Vargas a laissé une [Tornade orageuse](/monster/storm-gyre){.screen-only}[Tornade orageuse](storm-gyre-page){.print-only .monster} dans sa chambre comme sentinelle. Lorsque les joueurs ouvrent la porte de la salle, lisez :
 
-> Au centre de la salle, un vortex tourbillonnant crépite d’arcs de foudre. Le vortex reste stable au centre de la pièce pendant quelques battements de cœur, mais ensuite un visage émerge de la tempête. Un vent chaotique balaie la pièce et fait voler les papiers sur le bureau. Le vortex se précipite sur vous. {.lire}
+> Au centre de la salle, un vortex tourbillonnant crépite d’arcs de foudre. Il reste stable au centre de la pièce pendant quelques battements de cœur, mais ensuite un visage émerge de la tempête. Un vent chaotique balaie la pièce et fait voler les papiers sur le bureau. Le vortex se précipite sur vous. {.read}
 
-Le Storm Gyre attaque toutes les créatures à vue et se battra jusqu’à ce qu’il soit détruit. Il n’est pas particulièrement intelligent et attaquera la créature la plus proche. Cependant, si plusieurs créatures sont proches les unes des autres, il tentera d’utiliser son attaque de foudre pour projeter des éclairs à travers plusieurs créatures.
+Le monstre attaque toute créature à vue et se battra jusqu’à déstruction. Il n’est pas particulièrement intelligent et attaquera la créature la plus proche. Mais, si plusieurs créatures sont proches les unes des autres, il tentera d’utiliser son attaque de foudre pour projeter des éclairs à travers plusieurs créatures.
 
-Après avoir vaincu le Storm Gyre, les joueurs qui fouillent dans l’armoire de la chambre trouveront un objet aléatoire de la [Table d’objets magiques B](table-dobjets-magiques-B) du Guide du Maître du Donjon. Épinglé sur un bureau se trouve une note qui se lit :
+Après avoir vaincu le vortex, les joueurs qui fouillent l’armoire de la chambre trouvent un objet aléatoire de la [Table d’objets magiques B](table-dobjets-magiques-B) du Guide du Maître du Donjon. Épinglé sur un bureau se trouve une note qui se lit :
 
 > Ma très chère *Karis* - Si tu lis ceci, sache que je suis vraiment désolé. - **Elden** {.paper}

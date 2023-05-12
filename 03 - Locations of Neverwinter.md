@@ -414,7 +414,7 @@ Un orc à une oreille entreprenant nommé "*Vagdru Une-Oreille*" a restauré le 
 
 (print-page)
 
-## Quartier du Lac Bleu [Bluelake]
+## Quartier du Lac Bleu
 
 Ce quartier abritait de nombreux domaines nobles, dont la plupart ont bien résisté au cataclysme grâce à leur construction robuste. Cependant, beaucoup ont été laissés à l’abandon après la mort de leurs propriétaires dans le cataclysme, laissant la nature reprendre ses droits.
 
