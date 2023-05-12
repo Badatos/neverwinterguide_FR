@@ -24,7 +24,7 @@ Avant de partir, *Elden Vargas* a utilisé la magie pour sceller sa villa afin d
 
 Le gang des Rats Morts[Dead Rats], qui opère dans les égouts de Padhiver, surveille la propriété depuis un certain temps. Ils ont récemment enrôlé l’un de leurs mages de Luskan pour briser les protections magiques de la propriété afin de pouvoir revendiquer toutes les reliques magiques qui pourraient s’y trouver.
 
-## Ammorces d’aventure
+## Amorces d’aventure
 
 ### Rumeurs de trésors
 Les aventuriers entendent parler à la taverne d’un étrange domaine noble abandonné qui n’a pas encore été pillé. Les clients de la taverne supposent qu’il y a des objets magiques rares et quiconque assez courageux pour entrer dans l’endroit serait richement récompensé.
@@ -38,7 +38,7 @@ Les aventuriers sont chargés par un riche marchand de briser la barrière magiq
 
 Lorsque les joueurs approchent de la villa, lisez ce qui suit :
 
-> Une clôture en fer entoure la villa, mais le portillon s’ouvre librement. Le vent commence à hurler et le ciel s’assombrit d'une légère couverture nuageuse. La villa, à part le manque d’entretien de certaines plantes, semble être en bon état. Les fenêtres émettent une faible lueur bleue mais sont trop poussiéreuses pour regarder à travers. {.read}
+> Une clôture en fer entoure la villa, mais le portillon s’ouvre librement. Le vent commence à hurler et le ciel s’assombrit d’une légère couverture nuageuse. La villa, à part le manque d’entretien de certaines plantes, semble être en bon état. Les fenêtres émettent une faible lueur bleue mais sont trop poussiéreuses pour regarder à travers. {.read}
 
 ### 1. Extérieur de la villa
 ||
@@ -83,6 +83,6 @@ Elden Vargas a laissé une [Tornade orageuse](/monster/storm-gyre){.screen-only}
 
 Le monstre attaque toute créature à vue et se battra jusqu’à déstruction. Il n’est pas particulièrement intelligent et attaquera la créature la plus proche. Mais, si plusieurs créatures sont proches les unes des autres, il tentera d’utiliser son attaque de foudre pour projeter des éclairs à travers plusieurs créatures.
 
-Après avoir vaincu le vortex, les joueurs qui fouillent l’armoire de la chambre trouvent un objet aléatoire de la [Table d’objets magiques B](table-dobjets-magiques-B) du Guide du Maître du Donjon. Épinglé sur un bureau se trouve une note qui se lit :
+Après avoir vaincu le vortex, les joueurs qui fouillent l’armoire de la chambre trouvent un objet aléatoire de la [Table d’objets magiques B](table-dobjets-magiques-B) du Guide du Maître du Donjon. Épinglé sur un bureau se trouve une note qui se lit :{.no-margin}
 
 > Ma très chère *Karis* - Si tu lis ceci, sache que je suis vraiment désolé. - **Elden** {.paper}

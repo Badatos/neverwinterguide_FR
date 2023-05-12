@@ -1,11 +1,29 @@
-.above{
+.above {
   z-index:20;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+blockquote.paper {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.blockquote-paper-wrap{
+  margin: 0;
+}
+blockquote.read {
+  margin-top: 0;
 }
 
 .text-cover {
   font-size: 70px;
+  line-height: 60px;
   text-align: center;
   margin-top: 50%;
+  padding-bottom: .5em;
+  font-family: "Nodesto Caps Condensed";
 }
 
 @media print {

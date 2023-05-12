@@ -7,6 +7,4 @@ pdf-page-style: single-column
 ---
 
 # Aventures rapides{.text-cover}
-![](QuickAdventures.svg)<!--{p.text-center}-->
-
-
+![](sword.svg  =70x)<!--{p:.text-center}-->

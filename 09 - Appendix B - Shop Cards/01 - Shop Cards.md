@@ -89,8 +89,10 @@ order: 1
 |Encre (bouteille de 30 g)| 11 po|  —|
 |journal, soft Bound, 25 feuilles| 7 po|  —|
 |Échelle (3 m)|11 pc|12,5 kg|
-{.shop}
+{.shop .allow-breaks}
 
 \* Tous les prix indiqués tiennent compte de la taxe de rénovation de Padhiver.
+
+(print-page)
 
 ![Acquisitions arcaniques](../Images/POICards/ArcaneAcquisitions.webp){.size-full}

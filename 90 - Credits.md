@@ -52,6 +52,6 @@ Ce document est rédigé au format Markdown et compilé à l’aide du plug-in [
 
 <br /><br />
 
-# Fan Content Policy 
+# Politique sur les contenus de fans
 
-*Un Guide de Padhiver* is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}
+*Un Guide de Padhiver pour le Maitre de Donjon* est un contenu de fan non officiel autorisé dans le cadre de la [Politique des contenus de fans](https://company.wizards.com/fr/legal/fancontentpolicy). Ni approuvé, ni promu par Wizards. Certaines parties des matériaux utilisés sont la propriété de Wizards of the Coast. ©Wizards of the Coast LLC.{.no-fancy}

@@ -17,17 +17,17 @@ hide-footer-text: true
 - [Le palais de justice [Hall of Justice]](le-palais-de-justice-hall-of-justice)
 - [La maison du savoir [House of Knowledge]](la-maison-du-savoir)
 - [Les Terres flottantes [Floating Earthmotes]](les-terres-flottantes-floating-earthmotes) {.category}
-- [☁🍴🛏 Le Masque de Pierre-lune [Moonstone Mask] {⁜}](le-masque-de-pierre-lune-moonstone-mask)
+- [☁🍴🛏 Le Masque de Pierre-lune [Moonstone Mask] {⚅}](le-masque-de-pierre-lune-moonstone-mask)
 - [☁ Le Fort aérien des pirates [Pirates’ Skyhold]](fort-aerien-des-pirates-pirates-skyhold)
 - [☁ Le Flotteur des pêcheurs [Fisher’s Float]](le-flotteur-des-pecheurs-fishers-float)
 - [Quartier des Quais](quartier-des-quais) {.category}
-- [🍴🛏 Le Léviathan échoué {‧ ⁚ ⁖ ⁘}](le-leviathan-echoue)
+- [🍴🛏 Le Léviathan échoué {⚁ ⚂ ⚃ ⚄}](le-leviathan-echoue)
 - [🍴 La taverne du bois flotté [Driftwood Tavern]](la-taverne-du-bois-flotte-driftwood-tavern)
 - [📦 La maison de commerce de Tarmalune](la-maison-de-commerce-de-tarmalune)
 - [Quartier de la tour](quartier-de-la-tour) {.category}
 - [☁📦 L’Éclat de lune [The Shard of the Moon]](leclat-de-lune-the-shard-of-the-moon)
 - [La tour de la cape [Cloak Tower]](la-tour-de-la-cape-cloak-tower)
-- [🍴 🛏 La tour déchue {‧}](la-tour-dechue)
+- [🍴 🛏 La tour déchue {⚁}](la-tour-dechue)
 - [Quartier du Lac Bleu](quartier-du-lac-bleu) {.category}
 - [Le Lac bleu [Bluelake]](lac-bleu-bluelake)
 - [🍴La maison aux mille visages [House of a Thousand Faces]](la-maison-aux-mille-visages)
@@ -65,7 +65,7 @@ hide-footer-text: true
 * 🍴Taverne (à boire et à manger)
 * 🛏 Auberge (de quoi dormir)
 * 📦 Commerce divers
-* {Niveau des prestations} (**∅** Sordide, **‧** Pauvre, **⁚** Modeste, **⁖** Confortable, **⁘** Riche, **⁜** Aristocratique)
+* {Niveau des prestations} (**⚀** Sordide, **⚁** Pauvre, **⚂** Modeste, **⚃** Confortable, **⚄** Riche, **⚅** Aristocratique)
 > L’ouvrage *Un guide du Maître du Donjon pour Padhiver* est un contenu de fan non officiel autorisé par la politique relative au contenu des fans. Non approuvé par Wizards. Certains contenus utilisés sont la propriété de Wizards of the Coast. © Wizards of the Coast LLC. {.neutral .with-margin}
 
 Version 1.7-FR {.print-bottom-right .with-margin}

@@ -81,7 +81,7 @@ Néanmoins, sa boutique correspond parfaitement à la volonté du quartier du La
 
 ![Priscilla](Images/Priscilla.jpg =280x){.no-margin .print-bottom-right}
 
-(print-page-single-column)
+(print-page)
 
 ![Articles divers de Cœur-Vif](Images/POICards/SwiftHeartSundries.webp){.size-full .screen-only .before-next-page-header}
 
@@ -96,10 +96,18 @@ Cœur-Vif, après une longue vie remplie d’aventures à la recherche de tréso
 
 Cœur-Vif a maintenant une disposition détendue et empathique, mais elle sera la première à vous dire qu’elle était une aventurière passionnée dans sa jeunesse. Elle se fera un plaisir de vous raconter une histoire ou deux sur ses randonnées dangereuses à travers des jungles remplies de serpents venimeux géants, des expériences de mort imminente errant dans des dunes désertiques sans fin, ou même des moments passés en haute mer avec son ami capitaine de la marine Tabaxi, *pattes-de-goudron [Stands in Tar]*.
 
+> Oh ! Alors vous êtes des aventuriers ! Figurez-vous que j’ai moi aussi vécu mon lot d’aventure à une époque ! Rechercher des trésors perdus, traverser des jungles remplies de serpents venimeux géants, toute une époque !!
+Cœur-Vif prend un air pensif et ses yeux brillent à l’évocation de certains souvenirs.
+> En parcourant le monde, j’ai noué des relations avec de nombreux marchands et quand l’heure de ma retraite est arrivée, j’ai naturellement pensé à ouvrir une boutique ^^. Quand j’ai entendu que des terrains devenaient disponible pour une bouchée de pain autour du gouffre fraichement scellé de Padhiver, j’ai tenté ma chance. Et puis, m’installer dans un endroit inconnu me procurerais encore un peu d’excitation, même à la "retraite" :){.read}
+
+Voir la [liste des objets vendus par Coeur-Vif](articles-proposes-par-coeur-vif) en Annexe
+
+<!--
 |Article|Prix|Poids|
 |---|---|---|
 |Obj1|1po|1kg|
 {.allow-breaks .shop}
+-->
 
 ![Cœur-Vif](Images/SwiftHeart.jpg =350x){.print-bottom-right .with-margin}
 
@@ -149,6 +157,6 @@ Utilisez le tableau suivant pour les objets magiques qui pourraient être propos
 |**12**| [Anneau des échos](/item/ring-of-echoes)|
 {.allow-breaks .shop}
 
-La description détaillée de chaque objet se trouve en [Annexe D - Liste d'objets magiques](magical-items-page)
+La description détaillée de chaque objet se trouve en [Annexe D - Liste d’objets magiques](magical-items-page)
 
 ![Flinar and Gigz](Images/FlinarAndGigz.jpg =350x){.print-bottom-right .with-margin}

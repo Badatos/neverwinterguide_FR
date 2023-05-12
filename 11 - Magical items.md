@@ -143,6 +143,7 @@ value: 200 po
 ```
 
 (print-column)
+
 #### 10
 ```Item
 name: Boucle d’oreille de Babel
@@ -214,6 +215,7 @@ description: At first glance. this weapon appears to be a sword made entirely of
 source: Basil’s Brews
 ```
 
+(print-page)
 ## À la boutique "Les défenses solides de Brannur"
 Si les joueurs ont réussi à terrasser un dragon et qu’ils offrent ses écailles à Brannur, ce dernier pouura leur fabriquer une Armure d’écailles de dragon
 
@@ -232,8 +234,10 @@ source: Dungeon Master´s Guide (SRD)
 
 Si les personnages apportent de l’adamantium à Brannur, il pourra leur confectionner une **Armure d’adamantium**
 
+(print-column)
+
 ```Item
-name: Armure d’Adamantium
+name: Armure d’adamantium
 slug: armure-adamantium
 type: Armor
 rarity: Peu commun
@@ -275,10 +279,12 @@ weight: 1kg
 source: Module d’exemple
 ```
 
+(print-page)
+
 ## Table d’objets magiques B
 Lancez 1D100 pour choisir un objet magique aléatoire trouvé par les aventuriers.
 |D100| Objet magique|
-|---|---|
+|:---:|:---|
 |01–15| Potion de soin supérieur (4d4+4)|
 |16–22| Potion de souffle enflammé|
 |23–29| Potion de résistance|
@@ -314,3 +320,6 @@ Lancez 1D100 pour choisir un objet magique aléatoire trouvé par les aventurier
 |98| Selle du cavalier|
 |99| Baguette de détection de la magie|
 |100| Baguette des secrets|
+{.shop .allow-breaks}
+
+
