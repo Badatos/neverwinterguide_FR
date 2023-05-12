@@ -171,7 +171,7 @@ On dit aussi qu’un trésor caché existe toujours sur l’île. Les pirates au
 
 |![D20](d20.svg)**Inspiration pour le maître du donjon**|
 |---|
-|***Un livre ouvert***. Dans la 4<sup>e</sup> édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
+|***Un livre ouvert***. Dans la 4^e^ édition, le fort aérien a intentionnellement été laissé mystérieux et ouvert aux Maîtres de Donjon pour créer leurs propres aventures.|
 |***Trésor du Dragon***. C’est bien connu, les dragons adorent un bon trésor ! Un jeune dragon a peut-être attaqué le Fort céleste, tué tous les habitants et s’est attribué le butin des pirates.|
 |***Pirates zombies [niv. 9-11]***. Le dieu de la mort, *Myrkul*, a été très actif dans la région (voir la trilogie [Le dragon de la Flèche de Givre](https://www.dndbeyond.com/sources/doip) et [Au delà du dragon de la Flèche de Givre](https://www.dndbeyond.com/essentials/continue-the-adventure). Les morts-vivants ont envahi le Fort Céleste et l’ont transformé en un fort des damnés. Le Death Knight-Dreadnaught est étrangement ancré sous la terre flottante.|
 |***J’en prendrai un de chaque***. Myrkul a envoyé un [Dracoliche](/monster/adult-blue-dracolich) ou [Dragon Fantôme](/monster/ghost-dragon) au Fort Céleste, où il repose sur le butin des pirates entouré de son armée de pirates morts-vivants !|
@@ -374,7 +374,7 @@ Des décennies avant la Magepeste, la tour appartenait à un puissant sorcier no
 
 Des vestiges spectraux de la destruction de la tour subsistent sur place. Chaque nuit, au moment exact où *Llomnauvel* a déclenché l’explosion qui a détruit la tour, des visions de ces derniers instants apparaissent à la base de la tour en ruine. Ces projections magiques silencieuses représentent des mages de la Confrérie, en feu, tombant impuissants vers la mort. Ceux-ci sont ensuite suivis par le maître de la Confrérie tombant de la même manière, tandis que ses membres se transforment en anguilles.
 
-Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XV<sup>e</sup> siècle RD, a laissé la taverne à l’abandon pendant des années.
+Cette vision magique apparemment inoffensive a à la fois horrifié et fasciné les spectateurs. Naturellement, certains entrepreneurs ont réussi à transformer ce spectacle tragique en divertissement pour les habitants et les voyageurs. La base de la tour a été transformée en taverne. La zone du phénomène a été rénovée et des tables ont été placées tout autour afin que les clients puissent regarder le "spectacle" en sirotant leurs boissons. Malheureusement, une réputation de boissons médiocres et trop chères, des frais de services élevés combinés aux multiples catastrophes qui ont frappé Padhiver au XV^e^ siècle RD, a laissé la taverne à l’abandon pendant des années.
 
 ![Vagdru Une-Oreille](Images/VagdruOneEar.jpg =300x){.print-bottom-left .with-margin}
 
