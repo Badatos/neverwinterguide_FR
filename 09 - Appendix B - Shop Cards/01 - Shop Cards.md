@@ -36,7 +36,7 @@ order: 1
 
 <br /><br />
 
-![Parfums et boissons de Priscilla](../Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full}
+![Parfums et breuvages de Priscilla](../Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full}
 
 <br /><br />
 

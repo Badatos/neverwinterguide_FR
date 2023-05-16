@@ -46,7 +46,7 @@ hide-footer-text: true
 - [Commerces non-officiels](homebrew-locations) {.part}
 - [🍺📦 Défenses solides de Brannur](aux-defenses-solides-de-brannur)
 - [🍺📦 Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)
-- [🍺📦 Parfums et boissons de Priscilla](parfums-et-boissons-de-priscilla)
+- [🍺📦 Parfums et breuvages de Priscilla](parfums-et-boissons-de-priscilla)
 - [🍺📦 Articles divers de Cœur-Vif](articles-divers-de-coeur-vif)
 - [🍺📦 Acquisitions arcaniques](acquisitions-arcaniques)
 - [Aventures rapides](quick-adventures) {.part}

@@ -38,7 +38,7 @@ Brannur a un comportement calme et poli, et la plupart de ses clients auraient d
 
 (print-page)
 
-![Lutgehr Forge](PrintImages/Forge.jpg){.print-only .size-cover .no-margin}
+![Forge](PrintImages/Forge.webp){.print-only .size-cover .no-margin}
 
 ![Lames tranchantes de Brannwyn](Images/POICards/BrannwynsSharpEdge.webp){.size-full .screen-only .before-next-page-header}
 
@@ -61,13 +61,13 @@ La personnalité de *Brannwyn* est presque l’exact opposée de celle de son fr
 
 (print-page)
 
-![PotionShop](PrintImages/PotionShop.jpg){.print-only .size-cover .no-margin}
+![Magasin de potions](PrintImages/PotionShop.webp){.print-only .size-cover .no-margin}
 
-![Parfums et boissons de Priscilla](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
+![Parfums et breuvages de Priscilla](Images/POICards/PriscillasPerfumesAndPotables.webp){.size-full .screen-only .before-next-page-header}
 
-### Parfums et boissons de Priscilla
+### Parfums et breuvages de Priscilla
 
-Parfums et boissons de Priscilla est détenu et exploité par une jeune femme humaine qui s’appelle simplement *Priscilla* - sans nom de famille. La belle boutique, située dans le quartier du Lac Bleu, a des étagères du sol au plafond remplies de fleurs fraîches et de bouteilles en verre de liquides aux couleurs vives. En fait, il y a tellement de fleurs dans cette boutique que plusieurs nouveaux venus l’ont prise pour un fleuriste. Toutes les armoires de la boutique sont richement conçues et polies de manière éclatantes.
+Parfums et breuvages de Priscilla est détenu et exploité par une jeune femme humaine qui s’appelle simplement *Priscilla* - sans nom de famille. La belle boutique, située dans le quartier du Lac Bleu, a des étagères du sol au plafond remplies de fleurs fraîches et de bouteilles en verre de liquides aux couleurs vives. En fait, il y a tellement de fleurs dans cette boutique que plusieurs nouveaux venus l’ont prise pour un fleuriste. Toutes les armoires de la boutique sont richement conçues et polies de manière éclatantes.
 
 Alors que le nom de la boutique peut sembler indiquer qu’elle se concentre sur les parfums et les boissons parfumées, *Priscilla* est une alchimiste et apothicaire extrêmement talentueuse. Elle est capable de faire des concoctions exotiques et rares pour le juste prix. Elle a également un certain talent pour diagnostiquer les maladies, bien qu’elle n’offre généralement pas ces services à moins qu’on ne lui demande explicitement.
 
@@ -118,7 +118,7 @@ Voir la [liste des objets vendus par Coeur-Vif](articles-proposes-par-coeur-vif)
 
 (print-page-single-column)
 
-![Acquisitions arcaniques](PrintImages/MagicShop.jpg){.print-only .size-cover .no-margin}
+![Magasin magique](PrintImages/MagicShop.webp){.print-only .size-cover .no-margin}
 
 ![Acquisitions arcaniques](Images/POICards/ArcaneAcquisitions.webp){.size-full .screen-only .before-next-page-header}
 

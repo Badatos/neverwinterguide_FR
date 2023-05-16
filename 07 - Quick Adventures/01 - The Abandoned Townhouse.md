@@ -5,7 +5,7 @@ order: 01
 module-pagebreaks: h1, h2, h3
 ---
 
-![Plan de la Villa abandonnée](../PrintImages/TheAbandonedTownhouseMap.jpg){.size-cover .print-only}
+![Plan de la Villa abandonnée](../PrintImages/TheAbandonedTownhouseMap.webp){.size-cover .print-only}
 
 # La Villa abandonnée
 

@@ -9,7 +9,7 @@ module-pagebreaks: h1, h2, h3
 
 ## Castel-Nièvre [Castle Never]
 
-![Castel-Nièvre](PrintImages/CastleNeverPrint.png =500x){.print-only .print-top-right}
+![Castel-Nièvre](PrintImages/CastleNeverPrint.webp =500x){.print-only .print-top-right}
 
 Le Castel-Nièvre, dominant l’extrémité ouest de la ville, est incontournable. Ce château se trouve sur les falaises rocheuses et les affleurements du côté nord de l’estuaire où la rivière Padhiver et la mer des épées se rencontrent. Le château est construit sur un rocher circulaire duquel trois ponts rayonnent sur la rivière Padhiver : le pont du dragon endormi, le pont de la wyverne ailée et le pont du dauphin.
 
@@ -296,7 +296,7 @@ Un cartel commercial de la ville de Tarmalune s’est procuré un grand complexe
 
 (print-page)
 
-![L’Éclat de lune, de nuit](PrintImages/ShardOfTheMoonPage.png =670x){.print-only .print-top-left}
+![L’Éclat de lune, de nuit](PrintImages/ShardOfTheMoonPage.webp =670x){.print-only .print-top-left}
 
 (print-column)
 
@@ -356,7 +356,7 @@ L’Ordre des capes aux milles étoiles est redevenu actif, certains membres de 
 
 (print-page)
 
-![Les fantômes de la tour déchue](PrintImages/FallenTowerCover.jpg){.size-cover .no-margin .before-next-page-header .print-only}
+![Les fantômes de la tour déchue](PrintImages/FallenTowerCover.webp){.size-cover .no-margin .before-next-page-header .print-only}
 
 ![Affichette de la tour déchue](Images/POICards/FallenTower.webp){.size-full .screen-only .before-next-page-header}
 
