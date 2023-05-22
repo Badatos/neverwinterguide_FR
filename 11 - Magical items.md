@@ -53,7 +53,7 @@ value: 225 po
 
 #### 3
 ```Item
-name: Chapeau de traqueur
+name: Chapeau d’inspecteur
 slug: deerstalker-hat
 type: Wondrous Item
 rarity: Peu commun

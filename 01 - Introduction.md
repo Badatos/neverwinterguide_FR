@@ -7,14 +7,14 @@ module-pagebreaks: h1, h2
 
 # Introduction
 
-Bienvenue, Maîtres de Donjon ! Si vous consultez ce guide, vous recherchez sans aucun doute des informations ou des ressources liées à la ville magique et captivante de Padhiver. Ce guide a été créé pour fournir aux MD les informations nécessaires sur Padhiver tel qu’il existe dans la 5e édition de Donjons & Dragons, en particulier au début des années 1490 DR.
+Bienvenue, Maîtres de Donjon ! Si vous consultez ce guide, vous recherchez sans aucun doute des informations ou des ressources liées à la ville magique et captivante de Padhiver. Ce guide a été créé pour fournir aux MD les informations nécessaires sur Padhiver tel qu’il existe dans la 5e édition de Donjons & Dragons, en particulier au début des années 1490 CV.
 
-De nombreux Maîtres de Donjon ont commencé leurs campagnes, et souvent leur rôle de MD, en utilisant une des merveilleuses aventures de départ [La mine oubliée de Phancreux](https://www.dndbeyond.com/sources/lmop) ou [Le Dragon du pic de la Flèche de givre](https://www.dndbeyond.com/sources/doip). Bien que ces aventures offrent beaucoup à faire dans la petite ville de Phandaline et ses environs, elles sont également placées *de manière tentante* à proximité de la ville de **Padhiver** sur la Côte des épées. Il n’est pas rare que les joueurs demandent à visiter la ville de Padhiver. Cela peut sembler extrêmement difficile à gérer pour les MD non préparés (en particulier les nouveaux MD). Pas grand-chose n’a été décrit à propos de Padhiver tel qu’il existe dans la cinquième édition de D&D, donc un MD diligent pourrait se sentir obligé de parcourir des tonnes de documents épuisés. Ce guide tente de regrouper une grande partie de ces informations et d’aider tous ceux qui cherchent à s’aventurer dans Padhiver.
+De nombreux Maîtres de Donjon ont commencé leurs campagnes, et souvent leur rôle de MD, en utilisant une des merveilleuses aventures de départ [La mine oubliée de Phancreux](https://www.dndbeyond.com/sources/lmop) ou [Le Dragon du pic de la Flèche de givre](https://www.dndbeyond.com/sources/doip). Bien que ces aventures offrent beaucoup à faire dans la petite ville de Phandaline et ses environs, elles sont également placées *de manière tentante* à proximité de la ville de **Padhiver** sur la Côte des épées. Il n’est pas rare que les joueurs demandent à visiter la ville de Padhiver. Cela peut sembler extrêmement difficile à gérer pour les MD non préparés (en particulier les nouveaux MD). Pas grand-chose n’a été décrit à propos de Padhiver tel qu’il existe dans la cinquième édition de D&D, donc un MD diligent pourrait se sentir obligé de parcourir des tonnes de vieux documents. Ce guide tente de regrouper une grande partie de ces informations et d’aider tous ceux qui cherchent à s’aventurer dans Padhiver.
 
 ## À propos de ce guide
 
 Il a 2 buts principaux :
-1. Fournir des informations précises sur Padhiver telles qu’elles proviennent des livres sources et aventures officiels de Dungeons & Dragons. Les informations qui *ne proviennent pas* d’une telle source seront clairement indiquées.
+1. Fournir des informations précises sur Padhiver telles qu’elles proviennent des livres sources et aventures officielles de Dungeons & Dragons. Les informations qui *ne proviennent pas* d’une telle source seront clairement indiquées.
 2. Fournir aux maîtres de donjon un ensemble d’outils et d’idées pour les aider à créer une aventure si leur table décide de se promener dans Padhiver.
 
 Un objectif secondaire de ce guide est d’être compatible avec la richesse des aventures officielles existantes. En particulier, les idées homebrew et les boutiques sont conçues avec les deux aventures de départ, [La mine oubliée de Phancreux](https://www.dndbeyond.com/sources/lmop) et [Le dragon du pic de la Flèche de Givre](https://www.dndbeyond.com/sources/doip), à l’esprit.
@@ -27,7 +27,7 @@ Ceci est un guide pour les Maîtres de Donjon et contient quelques spoilers sur 
 
 La première partie de ce guide détaille les lieux officiels de Padhiver. Cette section contient une multitude de ressources pour toute campagne se déroulant dans Padhiver. Nous avons une incroyable carte haute résolution de la ville elle-même et de belles illustrations pour de nombreux points d’intérêt de la ville. Assurez-vous de consulter l’[Annexe B](appendix-b-point-of-interest-cards-page) pour les cartes indiquant les prix des biens et des services, et bien plus encore. Tout dans cette section est issu de matériel officiel (sauf la section "Inspiration pour le maître du donjon").
 
-Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! [Cartes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
+Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! [Affichettes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
 
 ### La section "Aventures rapides"
 
@@ -61,7 +61,7 @@ Ce guide tente essaye d’être le plus proche possible du contenu source offici
 |*Référence 2*, p. XXX - XXX, (Nième édition) |
 {.references}
 
-Bien que ce guide s’efforce de rendre les informations aussi actuelles que possible, une grande partie du matériel référencé provient de documents rédigés pour des éditions plus anciennes de Donjons & Dragons (comme décrit à la fin de chaque référence). En tant que tel, il peut ou non être le canon officiel de la cinquième édition. En savoir plus sur la [Politique Canon D&D officielle](https://dnd.wizards.com/dndstudioblog/dnd-canon).
+Bien que ce guide s’efforce de rendre les informations aussi actuelles que possible, une grande partie du matériel référencé provient de documents rédigés pour des éditions plus anciennes de Donjons & Dragons (comme décrit à la fin de chaque référence). En tant que tel, il peut ou non être le canon officiel de la cinquième édition. En savoir plus sur la [Politique Canon D&D officielle](https://dnd.wizards.com/dndstudioblog/dnd-canon) **(dnd.wizards.com/dndstudioblog/dnd-canon)**{.print-only}.
 
 ### Contenu "Homebrew"
 
@@ -75,30 +75,32 @@ Chaque fois que vous voyez l’icône de la chope ci-dessous, cela signifie que 
 (print-column)
 ### Tables virtuelles
 
-Ce guide a été conçu avec un logiciel de table virtuelle (VTT) à l’esprit. Si vous avez trouvé ce guide au format PDF, mais que vous avez besoin de cartes, de jetons, d’images ou d’autres ressources pour votre table virtuelle, veuillez visiter [le site Web de ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver) où toutes les ressources sont téléchargeables gratuitement. Les modules officiels de ce guide sont disponibles pour [EncounterPlus](https://encounter.plus).
+Ce guide a été conçu avec un logiciel de table virtuelle (VTT) à l’esprit. Si vous avez trouvé ce guide au format PDF, mais que vous avez besoin de cartes, de jetons, d’images ou d’autres ressources pour votre table virtuelle, veuillez visiter [le site Web de ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver) **(inchoatethinks.com/dungeon-masters-guide-to-Padhiver)**{.print-only} où toutes les ressources sont téléchargeables gratuitement. Les modules officiels de ce guide sont disponibles pour [EncounterPlus](https://encounter.plus).
 
 ### Contribuer
 
-Ce guide est open source ! Cela signifie que si vous trouvez des erreurs dans ce guide et que vous souhaitez y contribuer, vous pouvez le faire en accédant au [dépot source](https://github.com/Badatos/neverwinterguide_FR) pour ce guide et en soumettant vos suggestions de modifications. Si vos modifications sont acceptées, votre nom sera ajouté à la liste des contributeurs dans les crédits !
+Ce guide est open source ! Cela signifie que si vous y trouvez des erreurs et que vous souhaitez contribuer, vous pouvez le faire en accédant au [dépot source](https://github.com/Badatos/neverwinterguide_FR) **(github.com/Badatos/neverwinterguide_FR)**{.print-only} pour ce guide et en soumettant vos suggestions de modifications. Si vos modifications sont acceptées, votre nom sera ajouté à la liste des contributeurs dans les crédits !
 
 ### Utilisation du contenu de ce guide
 
-En général, la redistribution du contenu de ce guide est autorisée et encouragée ! Le contenu de ce guide est publié conformément à la politique relative au contenu des fans de Wizards of the Coasts. Cela nécessite, entre autres, que le contenu soit toujours mis à disposition gratuitement. Il est également poliment demandé que vous fournissiez une attribution/un crédit pour le contenu de ce guide lorsque cela est possible.
+En général, la redistribution du contenu de ce guide est autorisée et encouragée ! Il est publié conformément à la politique relative au contenu des fans de Wizards of the Coasts. Cela nécessite, entre autres, que le contenu soit toujours mis à disposition gratuitement. Il vous est également poliment demandé d'inclure une attribution/un crédit pour le contenu de ce guide lorsque cela est possible.
 
 **Puis-je utiliser ce contenu dans ma campagne avec mes joueurs ?**
 Absolument !
 
 **Puis-je publier ce PDF sur \[mon site Web préféré\] ?**
+
 Allez-y !
 
 **Puis-je créer et distribuer un module de ce contenu pour \[mon VTT préféré\] ?**
 Oui! Cependant, un module avec l’un des contenus non homebrew de ce guide devrait également suivre la politique de contenu des fans de Wizards of the Coast et, par conséquent, devrait également être mis à disposition gratuitement. Veuillez attribuer les [crédits](credits) appropriés aux artistes et auteurs de ce guide !
 
 **Puis-je partager l’illustration de ce guide (par exemple, la mettre sur Pinterest) ?**
-Totalement. Ce serait génial si vous [liiez ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver)  et/ou  [le site Web de l’artiste](credits) quand vous l’avez fait !
+Totalement. Ce serait génial si vous [liiez ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver) **(https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver)**{.print-only} et/ou  [le site Web de l’artiste](credits) quand vous l’aurez fait !
 
 **Puis-je utiliser les illustrations de ce module dans mon propre contenu ?**
 Oui. Veuillez donner une attribution à ce guide et à l’[artiste original](credits) !
 
 **J’ai une question ou une suggestion qui n’est pas couverte ici !**
-J’aimerais avoir de vos nouvelles ! [Contactez-moi ici (en anglais)](https://inchoatethinks.com/contact).
+
+J’aimerais avoir de vos nouvelles ! [Contactez l'auteur original ici (en anglais)](https://inchoatethinks.com/contact) ou [contactez le traducteur français ici](https://github.com/Badatos/neverwinterguide_FR/issues) **(github.com/Badatos/neverwinterguide_FR/issues)**{.print-only}.
