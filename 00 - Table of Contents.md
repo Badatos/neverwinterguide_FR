@@ -46,7 +46,7 @@ hide-footer-text: true
 - [Commerces non-officiels](homebrew-locations) {.part}
 - [🍺📦 Défenses solides de Brannur](aux-defenses-solides-de-brannur)
 - [🍺📦 Les Lames tranchantes de Brannwyn](les-lames-tranchantes-de-brannwyn)
-- [🍺📦 Parfums et breuvages de Priscilla](parfums-et-boissons-de-priscilla)
+- [🍺📦 Parfums et breuvages de Priscilla](parfums-et-breuvages-de-priscilla)
 - [🍺📦 Articles divers de Cœur-Vif](articles-divers-de-coeur-vif)
 - [🍺📦 Acquisitions arcaniques](acquisitions-arcaniques)
 - [Aventures rapides](quick-adventures) {.part}
@@ -66,6 +66,10 @@ hide-footer-text: true
 * 🛏 Auberge (de quoi dormir)
 * 📦 Commerce divers
 * {Niveau des prestations} (**⚀** Sordide, **⚁** Pauvre, **⚂** Modeste, **⚃** Confortable, **⚄** Riche, **⚅** Aristocratique)
-> L’ouvrage *Un guide du Maître du Donjon pour Padhiver* est un contenu de fan non officiel autorisé par la politique relative au contenu des fans. Non approuvé par Wizards. Certains contenus utilisés sont la propriété de Wizards of the Coast. © Wizards of the Coast LLC. {.neutral .with-margin}
+
+## Traductions
+Cet ouvrage été traduit d'un document en anglais. Vous trouverez régulièrement entre crochets les noms originaux comme référence.
+
+> L’ouvrage *Un guide du Maître du Donjon sur Padhiver* est un contenu de fan non officiel autorisé par la politique relative au contenu des fans. Non approuvé par Wizards. Certains contenus utilisés sont la propriété de Wizards of the Coast. © Wizards of the Coast LLC. {.neutral .with-margin}
 
 Version 1.7-FR {.print-bottom-right .with-margin}

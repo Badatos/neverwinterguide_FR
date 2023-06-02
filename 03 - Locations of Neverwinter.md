@@ -28,7 +28,7 @@ Tout au long des nombreuses attaques et catastrophes de Padhiver, Castel-Nièvre
 #### L’intérieur du château
 
 Explorer l’intérieur de Castel-Nièvre est actuellement une activité périlleuse. Les aventuriers cherchant à naviguer dans le château le trouveraient inhospitalier en raison à la fois de ses habitants fantomatiques et des simples dangers liés à l’exploration d’un bâtiment si gravement endommagé. Le château est une structure massive avec d’innombrables étages qui montent vers le ciel et descendent vers les profondeurs. Il a un certain nombre de zones de danger bien documentées :
-- ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [Myconids](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
+- ***L’Atrium***. L’atrium, maintenant barricadé pour empêcher la lumière du soleil d’entrer et la chaleur de la pourriture de sortir, contient une étrange exposition de squelettes d’oiseaux exotiques dans des cages dorées. L’atrium abrite désormais des [myconides](/monster/myconid-adult) territoriaux qui attaqueront et se régaleront d’intrus.
 - ***Galerie des Glaces***. Auparavant une longue salle des miroirs où les nobles amélioraient leur démarche et leur posture, tout intrus mortel qui entre dans cette salle trouvera une reproduction magique de la destruction de la salle. Des éclats de miroirs volants et des restes enflammés seront lancés sur tous ceux qui demeurent trop longtemps dans la galerie.
 - ***Padessous***. Les catacombes sous le château, appelées "Padessous [Neverneath]", présentent un enchantement qui fait changer dynamiquement la disposition en forme de labyrinthe avec une certaine malveillance. Les structures changeront pour créer des impasses, des tunnels qui ramènent sur eux-mêmes ou des portes qui mènent à de nouveaux emplacements à chaque fois qu’elles sont ouvertes. Tout cela sert à piéger les aventuriers jusqu’à ce qu’ils rencontrent leur mort, probablement sous les griffes des nombreuses [gargouilles](/monster/gargoyle) des catacombes.
 - ***La Voûte des Neuf***. Ce tombeau est le lieu de repos des neuf gardes du corps de la lignée royale de Padhiver. La voûte contient une chambre extérieure qui comporte des torches éternelles qui éclairent la pièce lorsque les mortels entrent. Les morts-vivants se cachent dans l’ombre de cette chambre extérieure. La chambre intérieure, scellée derrière une porte en pierre géante portant le sceau de Padhiver, possède neuf cercueils en marbre qui encerclent un trône. Les visiteurs qui parviennent à se rendre dans la chambre intérieure de la Voûte des Neuf et à se reposer peuvent se réveiller pour trouver les esprits des Neuf qui veillent sur eux.
@@ -102,7 +102,7 @@ Depuis le scellement du gouffre, les fidèles d’Oghma sont retournés au templ
 
 (print-page)
 
-![Le Masque de Pierre-lune](PrintImages/MoonstoneMaskCover.jpg){.size-cover .no-margin .print-only}
+![Le Masque de Pierre-lune](PrintImages/MoonstoneMaskCover.webp){.size-cover .no-margin .print-only}
 
 ## Les Terres flottantes [Floating Earthmotes]
 
@@ -140,7 +140,7 @@ Pour les invités voyageant par les moyens les plus élaborés, le toit comporte
 |---|
 |***Base de connaissances***. *Liset* et les autres membres du Masque de Pierre-lune détiennent une mine d’informations et de rumeurs sur la ville. Ils ne divulgueraient jamais d’informations confidentielles sur l’un de leurs clients, mais ils pourraient informer les aventuriers d’événements et de rumeurs non confidentiels.|
 |***Bonne compagnie***. Il ne serait pas rare ou surprenant de trouver des personnalités notables au Masque de Pierre de Lune, dont *Lord Dagult Longuebraise* lui-même. Utilisez cet emplacement comme lieu de rencontre notable.|
-|***Babioles au sous-sol***. Si les joueurs ont pu se faufiler dans les différentes salles de stockage du sous-sol du Mask sans se faire prendre, ils pourraient trouver toutes sortes d’objets magiques.|
+|***Babioles au sous-sol***. Si les joueurs ont pu se faufiler dans les différentes salles de stockage du sous-sol du Masque sans se faire prendre, ils pourraient trouver toutes sortes d’objets magiques.|
 {.dmidea}
 
 ![Liset Cheldar, Propriétaire & Aubergiste](Images/LisetCheldar.jpg =350x)<br>**Liset Cheldar**, propriétaire & aubergiste
@@ -312,7 +312,7 @@ La tour a commencé son existence sous le nom de Salle de l’ombre lunaire, à 
 
 La tour était noircie et ne projetait aucune ombre dans la journée. C’était en fait parce que le temple était magiquement manipulé pour absorber l’ombre. Cette ombre, à son tour, alimentait les dispositifs de téléportation de la tour. La tour inquiétante qui se dressait au-dessus de nos têtes était largement évitée par tous à Padhiver, car quiconque s’aventurait à l’intérieur ne reviendrait jamais.
 
-![Lady Jasmine](Images/LadyJasmine.png =420x){.print-bottom-right}**Lady Jasmine**, prêtresse de Selûne
+![Lady Jasmine](Images/LadyJasmine.webp =420x){.print-bottom-right}**Lady Jasmine**, prêtresse de Selûne
 
 (print-page)
 
@@ -352,7 +352,7 @@ L’Ordre des capes aux milles étoiles est redevenu actif, certains membres de 
 |*Volo’s Guide to the North*, p. 134 (2nd Edition)|
 {.references}
 
-![Orc de la tribu des Mille-Flèches](Images/ManyArrowsOrc.jpg =330x){.print-bottom-right .with-margin}
+![Orc de la tribu des Mille-Flèches](Images/ManyArrowsOrc.webp =330x){.print-bottom-right .with-margin}
 
 (print-page)
 

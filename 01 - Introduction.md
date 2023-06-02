@@ -25,9 +25,9 @@ Ceci est un guide pour les Maîtres de Donjon et contient quelques spoilers sur 
 
 ### Les rubriques "Lieux"
 
-La première partie de ce guide détaille les lieux officiels de Padhiver. Cette section contient une multitude de ressources pour toute campagne se déroulant dans Padhiver. Nous avons une incroyable carte haute résolution de la ville elle-même et de belles illustrations pour de nombreux points d’intérêt de la ville. Assurez-vous de consulter l’[Annexe B](appendix-b-point-of-interest-cards-page) pour les cartes indiquant les prix des biens et des services, et bien plus encore. Tout dans cette section est issu de matériel officiel (sauf la section "Inspiration pour le maître du donjon").
+La première partie de ce guide détaille les lieux officiels de Padhiver. Cette section contient une multitude de ressources pour toute campagne se déroulant dans Padhiver. Nous avons une incroyable carte haute résolution de la ville elle-même et de belles illustrations de nombreux points d’intérêt de la ville. Assurez-vous de consulter [l’Annexe B](appendix-b-point-of-interest-cards-page) pour des affichettes indiquant les prix des biens et des services, et bien plus encore. Tout dans cette section est issue de matériel officiel (sauf les encarts "Inspiration pour le maître du donjon").
 
-Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! [Affichettes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
+Plus loin dans le guide, il y a une section "Commerces non-officiels". Ces lieux ont été conçus uniquement pour ce guide et sont créés pour être des magasins utilitaires et des lieux auxquels les joueurs pourraient s’attendre à exister dans une ville de la taille de Padhiver. Comme ceux-ci sont entièrement non canoniques, n’hésitez pas à les modifier au gré de vos envies ! Des [affichettes de magasin](point-of-interest-cards-page) sont également fournies pour ces derniers.
 
 ### La section "Aventures rapides"
 
@@ -75,7 +75,7 @@ Chaque fois que vous voyez l’icône de la chope ci-dessous, cela signifie que 
 (print-column)
 ### Tables virtuelles
 
-Ce guide a été conçu avec un logiciel de table virtuelle (VTT) à l’esprit. Si vous avez trouvé ce guide au format PDF, mais que vous avez besoin de cartes, de jetons, d’images ou d’autres ressources pour votre table virtuelle, veuillez visiter [le site Web de ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver) **(inchoatethinks.com/dungeon-masters-guide-to-Padhiver)**{.print-only} où toutes les ressources sont téléchargeables gratuitement. Les modules officiels de ce guide sont disponibles pour [EncounterPlus](https://encounter.plus).
+Ce guide a été conçu avec un logiciel de table virtuelle (VTT) à l’esprit. Si vous avez trouvé ce guide au format PDF, mais que vous avez besoin de cartes, de jetons, d’images ou d’autres ressources pour votre table virtuelle, veuillez visiter [le site Web de ce guide](https://inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) **(inchoatethoughts.comdungeon-masters-guide-to-neverwinter)**{.print-only} où toutes les ressources sont téléchargeables gratuitement. Les modules officiels de ce guide sont disponibles pour [EncounterPlus](https://encounter.plus).
 
 ### Contribuer
 
@@ -88,19 +88,17 @@ En général, la redistribution du contenu de ce guide est autorisée et encoura
 **Puis-je utiliser ce contenu dans ma campagne avec mes joueurs ?**
 Absolument !
 
-**Puis-je publier ce PDF sur \[mon site Web préféré\] ?**
-
+**Puis-je publier ce PDF sur \[mon site Web\] ?**
 Allez-y !
 
 **Puis-je créer et distribuer un module de ce contenu pour \[mon VTT préféré\] ?**
 Oui! Cependant, un module avec l’un des contenus non homebrew de ce guide devrait également suivre la politique de contenu des fans de Wizards of the Coast et, par conséquent, devrait également être mis à disposition gratuitement. Veuillez attribuer les [crédits](credits) appropriés aux artistes et auteurs de ce guide !
 
 **Puis-je partager l’illustration de ce guide (par exemple, la mettre sur Pinterest) ?**
-Totalement. Ce serait génial si vous [liiez ce guide](https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver) **(https://inchoatethinks.com/dungeon-masters-guide-to-Padhiver)**{.print-only} et/ou  [le site Web de l’artiste](credits) quand vous l’aurez fait !
+Totalement. Ce serait génial si vous [liiez ce guide](https://inchoatethoughts.com/dungeon-masters-guide-to-Padhiver) **(https://inchoatethoughts.com/dungeon-masters-guide-to-Padhiver)**{.print-only} et/ou  [le site Web de l’artiste](credits) quand vous l’aurez fait !
 
 **Puis-je utiliser les illustrations de ce module dans mon propre contenu ?**
 Oui. Veuillez donner une attribution à ce guide et à l’[artiste original](credits) !
 
-**J’ai une question ou une suggestion qui n’est pas couverte ici !**
-
-J’aimerais avoir de vos nouvelles ! [Contactez l'auteur original ici (en anglais)](https://inchoatethinks.com/contact) ou [contactez le traducteur français ici](https://github.com/Badatos/neverwinterguide_FR/issues) **(github.com/Badatos/neverwinterguide_FR/issues)**{.print-only}.
+**Une question ou suggestion qui n’est pas couverte ici ?**
+Écrivez-nous ! Contactez [l’auteur original (en anglais)](https://inchoatethoughts.com/contact) ou [le traducteur français](https://github.com/Badatos/neverwinterguide_FR/issues) **(github.com/Badatos/neverwinterguide_FR/issues)**{.print-only}.
